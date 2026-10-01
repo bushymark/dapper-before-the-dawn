@@ -1,6 +1,6 @@
 ---
 type: House
-title: House Glaren — spelling provisional
+title: House Glaren
 description: House Glaren — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

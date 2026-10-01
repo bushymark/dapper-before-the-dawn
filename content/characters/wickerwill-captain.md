@@ -1,6 +1,6 @@
 ---
 type: NPC
-title: Whipperwill’s captain — first name unresolved
+title: Whipperwill’s captain
 description: Whipperwill’s captain — first name unresolved — campaign history and
   connections.
 tags:

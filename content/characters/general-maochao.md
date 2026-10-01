@@ -1,6 +1,6 @@
 ---
 type: NPC
-title: General Maochao — spelling provisional
+title: General Maochao
 description: General Maochao — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

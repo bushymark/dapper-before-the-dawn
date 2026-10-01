@@ -1,6 +1,6 @@
 ---
 type: Landmark
-title: Glass Needle — spelling provisional
+title: Glass Needle
 description: Glass Needle — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

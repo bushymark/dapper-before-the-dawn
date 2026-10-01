@@ -1,6 +1,6 @@
 ---
 type: Companion
-title: Swamp Poppy — spelling provisional
+title: Swamp Poppy
 description: Swamp Poppy — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

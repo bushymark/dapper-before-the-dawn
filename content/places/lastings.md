@@ -1,6 +1,6 @@
 ---
 type: Place
-title: Lastings — spelling provisional
+title: Lastings
 description: Lastings — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

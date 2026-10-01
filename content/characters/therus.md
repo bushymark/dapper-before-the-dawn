@@ -1,6 +1,6 @@
 ---
 type: NPC
-title: Therus — spelling provisional
+title: Therus
 description: Therus — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

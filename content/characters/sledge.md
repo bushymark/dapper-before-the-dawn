@@ -1,6 +1,6 @@
 ---
 type: NPC
-title: Sledge — provisional transcript spelling
+title: Sledge
 description: Sledge — provisional transcript spelling — campaign history and connections.
 tags:
 - dapper-before-the-dawn

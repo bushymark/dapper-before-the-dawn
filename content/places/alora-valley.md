@@ -1,6 +1,6 @@
 ---
 type: Settlement
-title: Alora Valley — spelling provisional
+title: Alora Valley
 description: Alora Valley — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

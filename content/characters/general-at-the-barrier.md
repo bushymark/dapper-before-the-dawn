@@ -1,6 +1,6 @@
 ---
 type: NPC
-title: General at the barrier — name unresolved
+title: General at the barrier
 description: General at the barrier — name unresolved — campaign history and connections.
 tags:
 - dapper-before-the-dawn

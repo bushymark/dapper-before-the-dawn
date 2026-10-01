@@ -1,6 +1,6 @@
 ---
 type: Vessel
-title: White Fang — spelling provisional
+title: White Fang
 description: White Fang — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

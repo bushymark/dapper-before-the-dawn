@@ -1,6 +1,6 @@
 ---
 type: NPC
-title: Nataniel / Nathaniel — spelling unresolved
+title: Nataniel / Nathaniel
 description: Nataniel / Nathaniel — spelling unresolved — campaign history and connections.
 tags:
 - dapper-before-the-dawn

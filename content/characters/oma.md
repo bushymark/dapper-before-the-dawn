@@ -1,6 +1,6 @@
 ---
 type: Creature
-title: Oma — astral whale, spelling provisional
+title: Oma
 description: Oma — astral whale, spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn

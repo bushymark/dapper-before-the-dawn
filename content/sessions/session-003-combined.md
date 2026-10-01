@@ -1,6 +1,6 @@
 ---
 type: Session
-title: 'Session 3 — Citizens and Drifters: airship disaster and cosmic passage'
+title: Session 3
 description: 'Session 3 — Citizens and Drifters: airship disaster and cosmic passage
   — campaign history and connections.'
 tags:

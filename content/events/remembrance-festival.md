@@ -1,6 +1,6 @@
 ---
 type: Custom
-title: Dochas Ùr’s remembrance festival — official name unresolved
+title: Dochas Ùr’s remembrance festival
 description: Dochas Ùr’s remembrance festival — official name unresolved — campaign
   history and connections.
 tags:

@@ -1,6 +1,6 @@
 ---
 type: Event
-title: Airship seizure attempt — unresolved at Session 1 end
+title: Airship seizure attempt
 description: Airship seizure attempt — unresolved at Session 1 end — campaign history
   and connections.
 tags:

@@ -1,6 +1,6 @@
 ---
 type: Session
-title: Session 4 — astral escape and borrowed bodies
+title: Session 4
 description: Session 4 — astral escape and borrowed bodies — campaign history and
   connections.
 tags:
