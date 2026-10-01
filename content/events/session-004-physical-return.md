@@ -1,8 +1,7 @@
 ---
 type: Event
 title: Physical return in victus amalgams
-description: Return succeeds physically, with original bodies absent and forms sustained
-  only temporarily.
+description: Physical return in victus amalgams — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-4

@@ -1,7 +1,7 @@
 ---
 type: Landmark
 title: Glass Needle — spelling provisional
-description: Distant landmark and intended educational destination mentioned by Koris.
+description: Glass Needle — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-4

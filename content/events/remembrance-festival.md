@@ -1,7 +1,8 @@
 ---
 type: Custom
 title: Dochas Ùr’s remembrance festival — official name unresolved
-description: Festival practices described during the September 28 session excerpt.
+description: Dochas Ùr’s remembrance festival — official name unresolved — campaign
+  history and connections.
 tags:
 - dapper-before-the-dawn
 - the-drifters
@@ -17,17 +18,15 @@ A dwarven master of ceremonies and his daughter check whether anyone needs help 
 
 # Personal significance
 
-Maren keeps his distinctive key on a chain rather than giving it up for the ceremony, despite prior encouragement to do so.[^transcript] The source does not establish the key's owner, what it opens, or its full significance.
+Maren keeps his distinctive key on a chain rather than giving it up for the ceremony, despite prior encouragement to do so.[^transcript] It remains unclear the key's owner, what it opens, or its full significance.
 
 # Official name and date
 
-The holiday has had several proposed names in the transcript, but the source does not establish a definitive official title. No in-world calendar date is supplied. This page uses a descriptive title, not a canon name.
+The festival’s official title and its in-world calendar date remain unknown. “Remembrance festival” is a descriptive name.
 
 # Related
 
-[City](../places/city-of-hope.md), [Maren](../characters/maren.md), [partial session](../sessions/2026-09-28-drifters-s001.md).
-
-[^transcript]: Supplied transcript lines 847–915 (customs), 917–933 (key), 971–1019 (organizers), 1297–1313 (naming discussion).
+[City](../places/city-of-hope.md), [Maren](../characters/maren.md), [session](../sessions/2026-09-28-drifters-s001.md).
 
 # Kite competition and party assembly
 
@@ -35,10 +34,12 @@ Emeric was helping an unnamed child build a kite in the street to welcome the ch
 
 The child’s and father’s names, specific rolls, mechanical abilities and any prize remain unspecified.
 
-[^kite-dictation]: User retrospective dictation, heading “Emeric introduction and kite competition”; preserved separately from the incomplete recording and transcript.
-
 # After the kite competition
 
 The sun briefly shattered and reformed after a spark crossed it, plunging the land into darkness for seconds. See [the event record](sun-shattering.md), including the unconfirmed recollection of a changed solar position.[^sun-dictation]
+
+[^transcript]: Supplied transcript lines 847–915 (customs), 917–933 (key), 971–1019 (organizers), 1297–1313 (naming discussion).
+
+[^kite-dictation]: User retrospective dictation, heading “Emeric introduction and kite competition”; preserved separately from the incomplete recording and transcript.
 
 [^sun-dictation]: User retrospective dictation, heading “sun shattering and reassembly”; first paragraph describes the event, second explicitly marks the apparent hours of solar movement as needing confirmation.

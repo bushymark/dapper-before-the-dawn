@@ -1,15 +1,16 @@
 ---
 type: Creature
 title: Oma — astral whale, spelling provisional
-description: Astral whale used to tow the party’s vessel in their return challenge.
+description: Oma — astral whale, spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-4
+character_role: NPC
 ---
 
 # Observed creature
 
-The astral whale is referred to as **Oma**, with Omar/Ulma transcript variants. It emits starlight and astral dust from its blowhole and feeds on other astral creatures. Its name/species spelling remains provisional; the brief visible world is not identified as its home.[^s004]
+The astral whale is referred to as **Oma**, with Omar and Ulma as other recorded forms. It emits starlight and astral dust from its blowhole and feeds on other astral creatures. Its name/species spelling remains provisional; the brief visible world is not identified as its home.[^s004]
 
 The creature collides with the ship and swings its tail; remoras detach and attack. Recall knowledge describes hard exterior, rapid regeneration, a mind-muddling song that can prevent spellcasting and a normally calm disposition. The song is described, not used in this fight. Maren’s small persistent flame is not extinguished by regeneration and is ruled insufficient to anger it.[^s004]
 

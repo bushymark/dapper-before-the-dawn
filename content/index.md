@@ -18,4 +18,4 @@ A Pathfinder 2e campaign set twenty years after the Pillars of Dochas Ùr brough
 
 Use Search to find a person, place, event or phrase. The graph and backlinks show how the campaign connects.
 
-This public edition contains campaign spoilers and source-limited recollections. It preserves attributed claims and unresolved questions. Source locators remain in footnotes; original recordings, transcripts and private character material are held in the private archive. Session 2 has not yet been imported.
+This chronicle contains campaign spoilers. Some mysteries remain unresolved; accounts offered by characters reflect what they believe. Session 2’s adventures are not yet chronicled here.

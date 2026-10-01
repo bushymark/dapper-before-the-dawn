@@ -1,8 +1,7 @@
 ---
 type: Event
 title: Airship bisection and rescue crisis
-description: Prismatic impact turns a contested boarding into a combined-party rescue
-  effort.
+description: Airship bisection and rescue crisis — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-3
@@ -20,16 +19,12 @@ Recalled lore associates celestial guardian-beast arrivals with new cities, but 
 
 The sequence leads into [death and cosmic passage](session-003-cosmic-passage.md). [Full recap](../sessions/session-003-combined.md).
 
-[^s003]: Generated transcript lines 2627–2683 (lore), 2835–2869 (impact), 3219–3977 (rescue and crown), 4093–4413 (help, wings and engine).
-
-
-[^s003-name-correction]: User correction note, line 1 (Whipperwill); line 2 (Apherion identifies the voice/presence and appears connected to Emeric, dictated “Emerich”). The connection’s nature is unconfirmed.
-
-
 # Session 4 development
 
 Session 4’s final GM clarification says all three children were thrown free of the wreck, were not recovered with the adults, and return safely to their original bodies. The adults’ corpses are absent when their temporary forms remanifest at the wreck. This does not resolve individual military casualties or recover Finn’s crown.[^s004]
 
 [Combined Session 4](../sessions/session-004-combined.md).
+
+[^s003]: Generated transcript lines 2627–2683 (lore), 2835–2869 (impact), 3219–3977 (rescue and crown), 4093–4413 (help, wings and engine).
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 885–899, 973–977, 1122–1125. No independently verified audio timestamp or speaker alignment.

@@ -3,28 +3,28 @@
   "source_pages": {
     "campaign/overview.md": "69f2f5a4faa90c7a90577090300dcf4ff64c310912a415afd96b33ad2e371b09",
     "campaign/timeline.md": "eedd3f2e5afa94a7a890d341a2ad54e2f2320b14f98191cd49ff1e0ccd9a8dfb",
-    "characters/apherion.md": "3120087a7cff8a42b37be90d9371781878c6eb303c2cfdca32cd9a7c002b1e94",
-    "characters/cole-buckit.md": "e9062a308a934713f2855ebd3f92fd1da362cdcc6efe7599ff33440071c00cb7",
-    "characters/dayne.md": "37c4ba072564c308584655f4d1adb1c873217b7e20cc76e02bbf52717862c26d",
-    "characters/elias.md": "ce0d1bb5496e2f0e63eac785ee682aa054bc209209b089622fbbad5649700679",
-    "characters/emeric-bellamy.md": "ce12529166b944c2dc4d7878af2446e2b2d270815af7c20861aacda10ef17234",
-    "characters/eokian-expectant-father.md": "fb94827a55859f884290d53b81e7ccc2d59ad080091781db7daaba77db611f90",
-    "characters/general-at-the-barrier.md": "d8d68fca0d19390ffd089050609e0b6885c62879324d76bd4089ddcdf6cc2e15",
-    "characters/general-maochao.md": "6f0d8727adfde3f9632bea7b10f212bf7388f53a4050e5f025ee95e8d4c20266",
-    "characters/haskel.md": "1891e9a3b6d1344ceddac03fbf70209d6c2e401cd714a85a3f4b8813ce5ac5ef",
-    "characters/index.md": "5becccd8fa70a068a349770b6919e6a863c84c5271c1a46901cd95d55683cb30",
-    "characters/koris.md": "3281ec8a59d34a12220497d968f417d8d398a06e9588d87ecb5ce7da9400b906",
-    "characters/maren.md": "da528ca294ff80032505eaf743bbbe1433b45f26e6f2ab17bc361b17389dd9ac",
-    "characters/oma.md": "8e9c1799c89b1be4ebd4d444594e3deec5ce74ea08e406e6cc52b598be94af1a",
-    "characters/paedan-dahhm.md": "630027dbb22595fbe5b9fa8c54e53236f5efd2b7351fef70e6fcdd0fe6f55de9",
-    "characters/saga.md": "81d75d3c288546be8745f545203e9bfb838e385cf1d4bc6511566563a51a31e7",
-    "characters/silvestro-cassetti.md": "2c4a15cbfc5a26b8405c09f924af1ce4e63b7ec57eb6ae050bd5ca63241025c9",
-    "characters/sledge.md": "a36301f4e4dbfe4cc9b6bfbdae8176c58ca8c70c4d707f315f1a7ef8d9026a10",
-    "characters/swamp-poppy.md": "bc506755636585ab872adcac8b3011efa731bb01a2c683cf5f3dbfa86a4387ae",
-    "characters/therica-ashtongue.md": "8336131222891d967bb6c8deac48777906bf5fe019e4ddd8dfc372f2877c07a3",
-    "characters/therus.md": "9b6fd941b0de7cd9e2dfc04714d61b4eca760cddd9b6812db84946a843cf87d3",
-    "characters/vaeldraxin.md": "aa9d8ea59ecc752dc273cc680e88c77ae4d55a5cec356648db70a6ab56f465ff",
-    "characters/wickerwill-captain.md": "847f867ebdec7fdd01cdcc8a73334da0d6b4934f970ca3f002d2655d5cc5da76",
+    "characters/apherion.md": "dfc2266061cda8fad5f1ca9ed9dc2de4a2a3bc4611177a73b86c7f0f947b58b3",
+    "characters/cole-buckit.md": "de957de5ea9969dc61341c19df29d1ed41d0ce6992dc73fd3217e38a348a4d82",
+    "characters/dayne.md": "3eb7711e072bf4df489105ad4d96d987fb40a391d20cacd862c7ea786bd0b472",
+    "characters/elias.md": "e7e1a457834ab7300525c646758fdcdc28893001cecca3538ce2f616eaa5508d",
+    "characters/emeric-bellamy.md": "941ab4b34bbd1720db50345836444b25aee3a63597ae42fa742d5eb2a9f1342f",
+    "characters/eokian-expectant-father.md": "7608699153fa9996a9fcfd37b6465f9c495852ffbd4732ea1da551c27ed93b4e",
+    "characters/general-at-the-barrier.md": "21f0526933f5ee3a6d3a4c3235d96c2132ecdbfc52880e87c32d81f88ea6cc32",
+    "characters/general-maochao.md": "1bbf3bf31cb4704ba8a8f7fd43396b8eb8127fbaf8c1f87d0e41e29f18dd9877",
+    "characters/haskel.md": "00a295a1511d2edb5fdf34db102a1102f03e46f862245e286d57aea67e224620",
+    "characters/index.md": "477166b6c609b8c726fd8dca2575e16cd163fd532988fced38f902335606e79c",
+    "characters/koris.md": "6708ee676d05ded8e5780aa25e3320c610bcdeb459fc16e1cbe8783db81d77ab",
+    "characters/maren.md": "b51de10a85fccf80216fa653d3d3b7dc36b2568b455ef8afde9bd8b73ac22928",
+    "characters/oma.md": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
+    "characters/paedan-dahhm.md": "0696bd96b9c79c4b0c87034cc8832aca242004839f425ffc491dc61dcde204a7",
+    "characters/saga.md": "bf060c8342b49b851000a3e033931ef812a04727f599b7e1cc2dbb51f6ed744d",
+    "characters/silvestro-cassetti.md": "9b69bdf60768d43d2a0043614fb417787ebec2b785565c4df2162945f3eade20",
+    "characters/sledge.md": "430dd0f487b65e7da510189fd57dfd92d5325d0be782c86a032927dd00817b83",
+    "characters/swamp-poppy.md": "0af46ca59603e3b7f47eeb1424b9087e65544a302d989970537bf6e3b129aae5",
+    "characters/therica-ashtongue.md": "67fea754ba8e051b4e087a74377a83007878f27d3d2f7862ec171594c70c2d91",
+    "characters/therus.md": "1a74d6ce82e9fa46465ae9da31ad8e9cb960b6caa2d12aeeeac7311434afed94",
+    "characters/vaeldraxin.md": "7c449f249978fb5864f0275d52a507095117cab4951d53a1ce369957688693c6",
+    "characters/wickerwill-captain.md": "5b272baa616ca511e367004721d9f16f2873e1bdbcf4edce570a4c25c2f240ab",
     "events/airship-seizure-attempt.md": "70ba7aa3745bdff12f1a3fd5cabde0086c99258cec9866319ed5a136abe446bf",
     "events/former-howl-crossing.md": "61fac42cc04dba12ce9b4beb4e92a4d30f140ddf89eacf6fbba9c2c62e215536",
     "events/index.md": "d870234336d406f926f3a75dec9e39406977f0eb5f4197ff2009ba5fdcaff0f6",
@@ -60,6 +60,368 @@
     "sessions/index.md": "d468cfff2a10165e0494e5435d3eb6c73fa4656066e11dd00b026e236e705280",
     "sessions/session-003-combined.md": "e5cf783715099b185dda17eaf016dea7d99910bfe82c3a386fd8eced5eb7a5fd",
     "sessions/session-004-combined.md": "368d932b56f917bd78377e0b40a0ddbfeafbc7b198a86e5f9040078c07e5dbb7"
+  },
+  "editorial_review": {
+    "campaign/overview.md": {
+      "source_sha256": "69f2f5a4faa90c7a90577090300dcf4ff64c310912a415afd96b33ad2e371b09",
+      "editorial_sha256": "7fe08e693324579d76442073105e11597b677d85fee6fba232000c05491e6055",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.119668+00:00"
+    },
+    "campaign/timeline.md": {
+      "source_sha256": "eedd3f2e5afa94a7a890d341a2ad54e2f2320b14f98191cd49ff1e0ccd9a8dfb",
+      "editorial_sha256": "31c98805d900c82b35aed654e14cc40cea899ba928dea76772e922524f6a19a8",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.120265+00:00"
+    },
+    "characters/apherion.md": {
+      "source_sha256": "dfc2266061cda8fad5f1ca9ed9dc2de4a2a3bc4611177a73b86c7f0f947b58b3",
+      "editorial_sha256": "c22ddaea71762cba76d6727b15f98309ea5bb06fdc03fbd610f5c1d686f309f7",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.120585+00:00"
+    },
+    "characters/cole-buckit.md": {
+      "source_sha256": "de957de5ea9969dc61341c19df29d1ed41d0ce6992dc73fd3217e38a348a4d82",
+      "editorial_sha256": "dca8a8a616cb5f55fb1cb3436e2233c97aff4b481ddf3b1bf31d53ab2a200c49",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.120954+00:00"
+    },
+    "characters/dayne.md": {
+      "source_sha256": "3eb7711e072bf4df489105ad4d96d987fb40a391d20cacd862c7ea786bd0b472",
+      "editorial_sha256": "8cc3eab754e19a4b32b48decf41f889bd1c9251af9ed9a48706104dcfb93df83",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.121255+00:00"
+    },
+    "characters/elias.md": {
+      "source_sha256": "e7e1a457834ab7300525c646758fdcdc28893001cecca3538ce2f616eaa5508d",
+      "editorial_sha256": "1f3183fa630b0a9e7e5bb3c2967b6993406c8f4b86710df952b0cf6578422aad",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.121589+00:00"
+    },
+    "characters/emeric-bellamy.md": {
+      "source_sha256": "941ab4b34bbd1720db50345836444b25aee3a63597ae42fa742d5eb2a9f1342f",
+      "editorial_sha256": "3d6e08a6a2cff70e6d3788bcc08a9eae88d5dd3ae20b00a44fce42fe760fb39f",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.122050+00:00"
+    },
+    "characters/eokian-expectant-father.md": {
+      "source_sha256": "7608699153fa9996a9fcfd37b6465f9c495852ffbd4732ea1da551c27ed93b4e",
+      "editorial_sha256": "5cbef548c523df70e3fbb8cb4511315fc171d659601ecba1c1ee543f20517c40",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.122453+00:00"
+    },
+    "characters/general-at-the-barrier.md": {
+      "source_sha256": "21f0526933f5ee3a6d3a4c3235d96c2132ecdbfc52880e87c32d81f88ea6cc32",
+      "editorial_sha256": "f6c4359fb0b2aeee15b13c82d26c56658a47349e757b4e3912c8c57bb9d52ab0",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.122804+00:00"
+    },
+    "characters/general-maochao.md": {
+      "source_sha256": "1bbf3bf31cb4704ba8a8f7fd43396b8eb8127fbaf8c1f87d0e41e29f18dd9877",
+      "editorial_sha256": "28aef1b57edef3cb11f3c85b9de8ef4da3c9067b8c033111313d9f1dc791d93f",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.123135+00:00"
+    },
+    "characters/haskel.md": {
+      "source_sha256": "00a295a1511d2edb5fdf34db102a1102f03e46f862245e286d57aea67e224620",
+      "editorial_sha256": "f0e58a0f802de228bc15214b43897e9e4f57df722c77fc346b4698c459a6f462",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.123460+00:00"
+    },
+    "characters/index.md": {
+      "source_sha256": "477166b6c609b8c726fd8dca2575e16cd163fd532988fced38f902335606e79c",
+      "editorial_sha256": "c1c7b393966ed52cdc5c1e472313188cfe5241fd5db7f67a56c8a8acce5496eb",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.123714+00:00"
+    },
+    "characters/koris.md": {
+      "source_sha256": "6708ee676d05ded8e5780aa25e3320c610bcdeb459fc16e1cbe8783db81d77ab",
+      "editorial_sha256": "bb1029f48e9160fec83b572035edb9690c03fc7095c4c985b4fdfdf49f3df88f",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.124084+00:00"
+    },
+    "characters/maren.md": {
+      "source_sha256": "b51de10a85fccf80216fa653d3d3b7dc36b2568b455ef8afde9bd8b73ac22928",
+      "editorial_sha256": "ecb5e961ac74e1c6e74d904ac2e3995843238e9e6989933619a42c28536f3cb7",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.124485+00:00"
+    },
+    "characters/oma.md": {
+      "source_sha256": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
+      "editorial_sha256": "d42161fe63bb7e39a0200ef1dd53c91301bd6dd534c8d5a77e9a5add2be1759f",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.124822+00:00"
+    },
+    "characters/paedan-dahhm.md": {
+      "source_sha256": "0696bd96b9c79c4b0c87034cc8832aca242004839f425ffc491dc61dcde204a7",
+      "editorial_sha256": "2372ae3545abc1507865340d69d2ac83c4de3340886261c80eab015045204db1",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.125177+00:00"
+    },
+    "characters/saga.md": {
+      "source_sha256": "bf060c8342b49b851000a3e033931ef812a04727f599b7e1cc2dbb51f6ed744d",
+      "editorial_sha256": "a5fdb46ae2ac757a529d08887ea2221bf6b18877ca3d77a8656b32cd615f7ee5",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.125535+00:00"
+    },
+    "characters/silvestro-cassetti.md": {
+      "source_sha256": "9b69bdf60768d43d2a0043614fb417787ebec2b785565c4df2162945f3eade20",
+      "editorial_sha256": "4858b1cb3eb0ec32436e01c24e469645ff233d35b6aaeb47780b046fcaf98b98",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.125867+00:00"
+    },
+    "characters/sledge.md": {
+      "source_sha256": "430dd0f487b65e7da510189fd57dfd92d5325d0be782c86a032927dd00817b83",
+      "editorial_sha256": "a37f0241ef5c6f9473ea1a170ba01765c0ae69a76f1a5b6662903fd005107e2b",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.126249+00:00"
+    },
+    "characters/swamp-poppy.md": {
+      "source_sha256": "0af46ca59603e3b7f47eeb1424b9087e65544a302d989970537bf6e3b129aae5",
+      "editorial_sha256": "2b820e0d11c60b02a251b380f661305ebb76ffc4c83dde70df783e082adb6b94",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.126581+00:00"
+    },
+    "characters/therica-ashtongue.md": {
+      "source_sha256": "67fea754ba8e051b4e087a74377a83007878f27d3d2f7862ec171594c70c2d91",
+      "editorial_sha256": "e4229e8fcc5ee89d7102250769e14494e39f492d8456ece0cb49a1b0c23dced7",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.126959+00:00"
+    },
+    "characters/therus.md": {
+      "source_sha256": "1a74d6ce82e9fa46465ae9da31ad8e9cb960b6caa2d12aeeeac7311434afed94",
+      "editorial_sha256": "f6e85f6dc3d8b9581f3d4ae1deb54f2d07a829d1735257441f9ff51492b99ea4",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.127297+00:00"
+    },
+    "characters/vaeldraxin.md": {
+      "source_sha256": "7c449f249978fb5864f0275d52a507095117cab4951d53a1ce369957688693c6",
+      "editorial_sha256": "aada1a40c7a59d5dc362e77678cf13416f85beb54e7cf1f8204b87c8066e536b",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.127602+00:00"
+    },
+    "characters/wickerwill-captain.md": {
+      "source_sha256": "5b272baa616ca511e367004721d9f16f2873e1bdbcf4edce570a4c25c2f240ab",
+      "editorial_sha256": "2e05b2d0a0db896f33c933be270318419313e9faad0d8a3e24e660725565eb8c",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.127917+00:00"
+    },
+    "events/airship-seizure-attempt.md": {
+      "source_sha256": "70ba7aa3745bdff12f1a3fd5cabde0086c99258cec9866319ed5a136abe446bf",
+      "editorial_sha256": "e7ea6ce81cd3181990d5f7445db830533323ae6add8fdcb690ae72e819729fd7",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.128248+00:00"
+    },
+    "events/former-howl-crossing.md": {
+      "source_sha256": "61fac42cc04dba12ce9b4beb4e92a4d30f140ddf89eacf6fbba9c2c62e215536",
+      "editorial_sha256": "ab74b1b50c29645e7cdfdf159235c96a7e00867ca2e38a54760c895e2bf1f231",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.128580+00:00"
+    },
+    "events/index.md": {
+      "source_sha256": "d870234336d406f926f3a75dec9e39406977f0eb5f4197ff2009ba5fdcaff0f6",
+      "editorial_sha256": "b87b83bec65721e7131cb2da8fd085485eb89a917cc18eb1089b5f2fc2d563e1",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.128826+00:00"
+    },
+    "events/remembrance-festival.md": {
+      "source_sha256": "b76529ae532878d2785a69a3893696dec0b1e74cb53710c6acad42687258cc86",
+      "editorial_sha256": "06d2d83658e43faa2e53ddc66701bedc7554d74ab4e2bf102e811768f6b09126",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.129220+00:00"
+    },
+    "events/session-003-airship-disaster.md": {
+      "source_sha256": "47ffc950b417e31148c7c5ad8265716cb806139f5ccc9ecc84e806d5f1067c5c",
+      "editorial_sha256": "ad18c111daa6af740dd6fe6438c76b811d1de9502fd034dc07a9a30de98dec3f",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.129557+00:00"
+    },
+    "events/session-003-cosmic-passage.md": {
+      "source_sha256": "1cf6a5d40366481cdeadadaef99bb38f01b533e325678f4a520e2f89a64b4271",
+      "editorial_sha256": "928ec23592e988417e93e1b6d9ce4cecc7bf0d33dc1e10b9f7513bbd778777d6",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.129909+00:00"
+    },
+    "events/session-004-physical-return.md": {
+      "source_sha256": "5c93d9efbddd85531971876119b4b2d7aaa57e49b0dcbfce05725a9f3fa3c49d",
+      "editorial_sha256": "47828885e6b9d75163fe041b1daeeb542656eec17d0beb21ccf2e4b1c0b034e9",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.130182+00:00"
+    },
+    "events/sun-shattering.md": {
+      "source_sha256": "e4a92cb81e308a41cce65b1d5d41773303f064edc5acfd9a6b9a796edfb057f9",
+      "editorial_sha256": "cd714087d57baf2bca7857c9e6be185b0f6c71b01facc56fa65984f61d504024",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.130514+00:00"
+    },
+    "events/therus-audience.md": {
+      "source_sha256": "a2dfc71d25db739ecb622d6bcb8ec372c7954389417b447bd7dca9133a949381",
+      "editorial_sha256": "2d5ac2735e29b1c9e2e41789d8bb00d62e12c6df4057568dd07114c9b1d3bfe0",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.130872+00:00"
+    },
+    "factions/court-of-conscience.md": {
+      "source_sha256": "ef38bda46271ea8cffc1411268e5400041e73e204f1528f27e77534616124552",
+      "editorial_sha256": "7732b9443fb13d8277c8732b514eb71c8c66747a24f8392f58536640f0443cca",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.131286+00:00"
+    },
+    "factions/house-glaren.md": {
+      "source_sha256": "e485847da672076509ef9cade2760761867fe84f8dcc628631b6ce7bb66d158c",
+      "editorial_sha256": "386722fa3aefea32975fa530ff2daba0a3b3a7a6ef14abed887fb7a637f99121",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.131605+00:00"
+    },
+    "factions/index.md": {
+      "source_sha256": "efb09ff168861fabdd451a9cefd041352baf6f138250ee71912c8d3941e303bd",
+      "editorial_sha256": "bffb41fa934ab6f67ebcda70b0885ac67302e4d4d215d0e1954e8bb2a2fe6a4f",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.131833+00:00"
+    },
+    "factions/the-citizens.md": {
+      "source_sha256": "1ea5489710c9b73d32df37d14431ba8d39cfddef1bdbf209c2068db59f8aa920",
+      "editorial_sha256": "8283cff5533257eaa480a7f51c12c04cb9ac558e2587a7ef549a1ec2e4b92a2d",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.132124+00:00"
+    },
+    "factions/the-drifters.md": {
+      "source_sha256": "b46b3259d8b0a50c371d367974b659dbf45e7ecc91df2fed9c8925e350c021a9",
+      "editorial_sha256": "e39483ab219b9f150dbfe6a35a166b87b337bc6a975efd37db033dcb134368c7",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.132431+00:00"
+    },
+    "lore/index.md": {
+      "source_sha256": "8e875820d5ad8d46090859d95cfb8d9a07ace04bf8eb754b4dc60c1e732c66f1",
+      "editorial_sha256": "2051adbd6527142b884a7971855c7979610d2c3ebece4268ab92a0fe08b3402b",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.132625+00:00"
+    },
+    "lore/mantles.md": {
+      "source_sha256": "c409c0dbde68d386abcdfc9f247701711b4d96678d0034f709528f67aa2cece7",
+      "editorial_sha256": "1ca329e0c0ef70d279a49f523b8e67e8f8bd7ae7878025560bb6a34f0fa2331c",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.132869+00:00"
+    },
+    "places/alora-valley.md": {
+      "source_sha256": "118f0361146a1427228bb455228688194826f7a99169917cb4e4f20a93bec5b1",
+      "editorial_sha256": "7c4f4485b00f137fde06e4ddab4f92b44e4d20eacf9908861f3d6b940a16051f",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.133180+00:00"
+    },
+    "places/city-of-hope.md": {
+      "source_sha256": "2327376d5004cd59d6d2e0ac2e275c36997ac8abb7773b88fa27e8191d64ed58",
+      "editorial_sha256": "706ebc7b23ddc0c0717ed953b87ce87070e57ba5b83a0889b006fe09e192504e",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.133495+00:00"
+    },
+    "places/glass-needle.md": {
+      "source_sha256": "f83e3e26ccc98a38ffd0a95cc33d87f196ecf86a5242079a81514264c09c7111",
+      "editorial_sha256": "1e8bc796e3c7b9826caab1f4f03a9c1f3c58e6757c26e452f3be29808085c403",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.133827+00:00"
+    },
+    "places/index.md": {
+      "source_sha256": "16a8f9fed49ee874a0d32382b060038b67d59f3e413dd92e6a979685be4b83af",
+      "editorial_sha256": "921a325e2e99391d4450c1264744724df739b8d0f2ba842dcdc5ffa805aa2cd9",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.134056+00:00"
+    },
+    "places/lastings.md": {
+      "source_sha256": "5e398cb0cfb61cd2b305b22f0ad8f3d46c79ccd29792db686daad860f2054ad9",
+      "editorial_sha256": "12804389eb07a89e365c7379ae2f4836aa1887900edecd67a8b2fcaf083afda6",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.134430+00:00"
+    },
+    "places/ti-swa.md": {
+      "source_sha256": "a5edd99511aed35b81a6a2e8b85735afd3aec1d40b7c54c88dbbd121073d9273",
+      "editorial_sha256": "7088f8edb1b04cdcf85440495e561bda98bae5af5aba68db873e5c10649e2bb5",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.134719+00:00"
+    },
+    "places/white-fang.md": {
+      "source_sha256": "5baa40fc96955bd84511b7339e020123aa04067eab824c8c335d14676b9ba686",
+      "editorial_sha256": "39cd897de8949861d2d76cd4a395d052af40d5901a8893b42dce6acf608414b9",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.135001+00:00"
+    },
+    "places/wickerwill.md": {
+      "source_sha256": "adf150a96cc74bf9536745a01c59fa9bffd1e06dfb1f39dc4cab02f7599f612b",
+      "editorial_sha256": "f5aebf1262aed0daceb641383f5c35f6e60dfecaeaff5a52c8717b13fef1f17d",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.135295+00:00"
+    },
+    "quests/airship-investigation.md": {
+      "source_sha256": "50e6fcfe31fd699f9076f27684264fd30a19ef08afbacecb26372e4faa26dc5f",
+      "editorial_sha256": "6b82862d9c3cc409ab18620c4f3f2ce9c0f08472601a93a2ca8f1884168590b4",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.135735+00:00"
+    },
+    "quests/index.md": {
+      "source_sha256": "9ef9e19ca15e2a7b7d2e2a8fb17f15423d774a602bfe97ceda9e3f94ba197e0d",
+      "editorial_sha256": "53e57f3c99c0cb1dfe1ecdf8b300d9670a6c409c7143d522f08656f55a90df85",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.135968+00:00"
+    },
+    "quests/recover-the-original-bodies.md": {
+      "source_sha256": "144b4505637c0a45b2c2611f22a5cefa3ec1e23ec578a2b642bf7c2ee1960bbf",
+      "editorial_sha256": "ad66c7ff0081729edbdacbffbbcf94a41be309d04182de236b5a9f4f252597d8",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.136265+00:00"
+    },
+    "quests/return-from-cosmic-state.md": {
+      "source_sha256": "d6d8d5f5a37b103ee4bfc2fd8b469e20626e7ee3a6ff8035b56ed8b68f358c6a",
+      "editorial_sha256": "e66439b2dee97c09eec12d15ecf45c7ac94c2d9507010f45d71670bfb3825754",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.136591+00:00"
+    },
+    "rules/index.md": {
+      "source_sha256": "47612dfa85b517aa3c9b16007609607d7eea454ca69d92e5966ecfa2f90554a5",
+      "editorial_sha256": "17c07e3100896d43246e736d36eb4609b8623eb813f26d57bd689a991f2bf834",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.136804+00:00"
+    },
+    "rules/session-003-adjudications.md": {
+      "source_sha256": "cec39ab5896b06aef63d25251c06c86184975aa88162e911b3f64e8bdb3f2f0e",
+      "editorial_sha256": "29c74fe548554281dad81721a38680fe4ffc00d10f0cebed13aa124d5c08c151",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.137154+00:00"
+    },
+    "rules/session-004-adjudications.md": {
+      "source_sha256": "aa7d96a5dde5b0d822e53962c9b35186fcf4d8d604e62fdfc2dc06da8fb1474d",
+      "editorial_sha256": "6ee6694cbc51e4ee105feca82748fdfbd6033bf9426aa96c2abcc2d6bef2c46e",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.137453+00:00"
+    },
+    "sessions/2026-09-28-drifters-s001.md": {
+      "source_sha256": "efed7718c5ebfc6b3eae1a1b455530d45daa09c926629e5a6398ca95bffbc0a3",
+      "editorial_sha256": "cef206d3ad27e00c2bd7bc87cb36ba13ece67cd49e3d3b115d7d64caa97a3228",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.138154+00:00"
+    },
+    "sessions/index.md": {
+      "source_sha256": "d468cfff2a10165e0494e5435d3eb6c73fa4656066e11dd00b026e236e705280",
+      "editorial_sha256": "6c53faac3525f0938b76f5cc63bdcf18529afe593665f98a2b3b845c7f05ee00",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.138366+00:00"
+    },
+    "sessions/session-003-combined.md": {
+      "source_sha256": "e5cf783715099b185dda17eaf016dea7d99910bfe82c3a386fd8eced5eb7a5fd",
+      "editorial_sha256": "f7e61524371cf9efea6913bf940733f7c1ea2b0c787b9db25fb86eb7de95e923",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.138872+00:00"
+    },
+    "sessions/session-004-combined.md": {
+      "source_sha256": "368d932b56f917bd78377e0b40a0ddbfeafbc7b198a86e5f9040078c07e5dbb7",
+      "editorial_sha256": "c840cf235cb7872f779ea4de5f8f19da1047cd7e146f01e522b441904673a80d",
+      "reviewer": "codex/campaign-editorial-review",
+      "reviewed_at": "2026-10-01T16:13:16.139453+00:00"
+    }
+  },
+  "assets": {
+    "assets/portraits/therica-ashtongue.png": "2ab54344a39a517956ecca03fefe00568c947beea909065e8f5095d9b75ebcc6",
+    "assets/portraits/cole-buckit.png": "c00ca47fc1118de784fd2f352f6a34d8ce4d0d7d3f95fe6a9a708c7c7c7e9a21",
+    "assets/portraits/emeric-bellamy.png": "cc5ada60f54c3ac0263dd69b51434c1e8dcd620251b9016a2a577ed5944a3a95",
+    "assets/portraits/nataniel-and-saga.png": "889de74b5e8fe595eec5a7dc1dd1aef5eac8627b522b514225eb41fab6eb2547"
   },
   "excluded": [
     "raw sources",

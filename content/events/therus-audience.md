@@ -1,8 +1,7 @@
 ---
 type: Event
 title: Audience with Therus and restricted movement
-description: Unconscious mental encounter, guardian-beast claims, rejection and escorted
-  return.
+description: Audience with Therus and restricted movement — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - the-drifters
@@ -14,7 +13,7 @@ The audience was granted almost immediately. The party was led to the strange sh
 
 # Family and leadership account
 
-During the conversation, the party understood Therus to be a child who hated his parents and Rios, resented Paedan’s affection for Rios, and disliked the party. They learned that his parents were serving time and that he had turned them in, condemning them before becoming the Court’s de facto leader. This records the information obtained and the party’s assessment during the audience; the charges, sentence, exact age and parents’ own account are not supplied.[^audience-dictation]
+During the conversation, the party understood Therus to be a child who hated his parents and Rios, resented Paedan’s affection for Rios, and disliked the party. They learned that his parents were serving time and that he had turned them in, condemning them before becoming the Court’s de facto leader. This records the information obtained and the party’s assessment during the audience; the charges, sentence, exact age and parents’ own account are not known.[^audience-dictation]
 
 # Guardian-beast claims
 
@@ -26,7 +25,7 @@ Therus could hear the party’s conversations through their shared mental link d
 
 # Rejection and restrictions
 
-The user recalls Therus becoming petulant, refusing questions or leeway, rejecting the party and casting them out of the encounter. General Maochao then escorted them back to their ship and conveyed severe restrictions: they could not freely go places, speak to people, explore or investigate, with military accompaniment required. The party was left with no apparent diplomatic route to airship access or independent investigation at that point. This does not establish permanent impossibility, a specific legal sentence, or the duration and exact exceptions of the restrictions.[^audience-dictation]
+Therus became petulant, refusing questions or leeway, rejecting the party and casting them out of the encounter. General Maochao then escorted them back to their ship and conveyed severe restrictions: they could not freely go places, speak to people, explore or investigate, with military accompaniment required. The party was left with no apparent diplomatic route to airship access or independent investigation at that point. This does not establish permanent impossibility, a specific legal sentence, or the duration and exact exceptions of the restrictions.[^audience-dictation]
 
 # Related
 

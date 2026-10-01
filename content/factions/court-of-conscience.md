@@ -1,7 +1,7 @@
 ---
 type: Organization
 title: Court of Conscience
-description: Organization/law system invoked by the general in the prologue/dream.
+description: Court of Conscience — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - the-drifters
@@ -9,58 +9,43 @@ tags:
 
 # Current evidence
 
-The phrase Court of Conscience appears in the general's speech and subsequent table clarification. She describes it as a set of laws supporting a utopian society, and seeks the city's disarmament/compliance. That is the general's characterization; neither the court's authority nor the utopian claim is independently established by this excerpt.[^transcript]
+In Maren’s dream, the general describes the Court of Conscience as a set of laws supporting a utopian society, and seeks the city's disarmament/compliance. Whether her account of the Court’s authority and utopian society is accurate remains unclear.[^transcript]
 
-The transcript connects an earlier diplomatic/library exchange to a similarly garbled name. Paedan Dahhm is a strong contextual candidate from the primer, and later user dictation identifies Paedan as the former Court leader and Therus as his son and successor.[^arrival-dictation] Other garbled transcript claims remain subject to review.
+Paedan Dahhm formerly led the Court; his son Therus succeeded him.[^arrival-dictation]
 
 # Related
 
 [General at the barrier](../characters/general-at-the-barrier.md), [September 28 session](../sessions/2026-09-28-drifters-s001.md).
 
-[^transcript]: Supplied transcript lines 77–97, 225–241, 507–563.
-
 # Therica’s briefing
 
-Therica later summoned the party and described the history of their relationship with the Court before beginning a journey request. The user connects this briefing to the Court’s appearance in Maren’s morning dream; that connection does not resolve the dream’s child identity or historical truth. The specific historical account awaits further dictation.[^therica-dictation] See [Therica](../characters/therica-ashtongue.md).
-
-[^therica-dictation]: User retrospective dictation, heading “public fear and Therica summons”: paragraph 1 (fear and twenty-year context), paragraph 2 (Therica, parentage and condition), paragraph 3 (Court history and proposed journey).
+Therica later summoned the party and described the history of their relationship with the Court before beginning a journey request. The Court also appeared in Maren’s morning dream; that connection does not resolve the dream’s child identity or historical truth. The details of that history remain incomplete.[^therica-dictation] See [Therica](../characters/therica-ashtongue.md).
 
 # Airship access sought
 
-According to Therica’s briefing, the Court in Eok has airship technology that Rios lacks. She proposed visiting its leadership in Lastings to ask to borrow, buy or otherwise use an airship for the sun-event investigation. The request’s feasibility and the Court’s response remain unknown.[^airship-dictation] See [proposed mission](../quests/airship-investigation.md).
-
-[^airship-dictation]: User retrospective dictation, heading “Therica airship request”: paragraph 1 (Pillars and high-flight accounts), paragraph 2 (technology, destination and request), paragraph 3 (dictation workflow instruction), paragraph 4 (investigation goal).
+According to Therica’s briefing, the Court in Eok has airship technology that Rios lacks. She proposed visiting its leadership in Lastings to ask to borrow, buy or otherwise use an airship for the sun-event investigation. The Court later rejected the request.[^airship-dictation] See [proposed mission](../quests/airship-investigation.md).
 
 # Voyage account
 
 Nathaniel reportedly said the Court has an adventurers’ guild. His incomplete and unreliable account also described customs and practices of Eok; see voyage briefing. These are attributed claims, not an adopted complete Court code.[^sea-dictation]
 
-[^sea-dictation]: User retrospective note, heading “sea journey, Howl crossing and Eok testimony”: paragraphs 1–2 (captain, affliction and Titans), 3–4 (Howl crossing and perceptions), 5–8 (Nathaniel’s fragmentary Eok account and within-note victus correction).
-
 # Leadership at arrival
 
-Upon arrival, the party asked to speak with **Therus**, the current leader of the Court of Conscience. The user identifies him as **Paedan Dahhm’s son and successor**: Paedan had led the Court previously and had interacted with the Pillar Morgaen many years earlier. This establishes the recalled succession and relationship, not that the party had already met Therus.[^arrival-dictation]
+Upon arrival, the party asked to speak with **Therus**, the current leader of the Court of Conscience. Therus is **Paedan Dahhm’s son and successor**: Paedan had led the Court previously and had interacted with the Pillar Morgaen many years earlier. This establishes the recalled succession and relationship, not that the party had already met Therus.[^arrival-dictation]
 
 See [Paedan](../characters/paedan-dahhm.md), [Therus](../characters/therus.md) and [Lastings](../places/lastings.md).
 
-[^arrival-dictation]: User retrospective note, heading “arrival, Court leadership and airship captain”: paragraphs 1–2 (Therus, Paedan and Morgaen), paragraph 3 (reported gods, city levels, Maochao and species observed).
-
 # Audience and restrictions
 
-During the conversation, the party understood Therus to be a child who hated his parents and Rios, resented Paedan’s affection for Rios, and disliked the party. They learned that his parents were serving time and that he had turned them in, condemning them before becoming the Court’s de facto leader. This records the information obtained and the party’s assessment during the audience; the charges, sentence, exact age and parents’ own account are not supplied.[^audience-dictation]
+During the conversation, the party understood Therus to be a child who hated his parents and Rios, resented Paedan’s affection for Rios, and disliked the party. They learned that his parents were serving time and that he had turned them in, condemning them before becoming the Court’s de facto leader. This records the information obtained and the party’s assessment during the audience; the charges, sentence, exact age and parents’ own account are not known.[^audience-dictation]
 
-The user recalls Therus becoming petulant, refusing questions or leeway, rejecting the party and casting them out of the encounter. General Maochao then escorted them back to their ship and conveyed severe restrictions: they could not freely go places, speak to people, explore or investigate, with military accompaniment required. The party was left with no apparent diplomatic route to airship access or independent investigation at that point. This does not establish permanent impossibility, a specific legal sentence, or the duration and exact exceptions of the restrictions.[^audience-dictation]
+Therus became petulant, refusing questions or leeway, rejecting the party and casting them out of the encounter. General Maochao then escorted them back to their ship and conveyed severe restrictions: they could not freely go places, speak to people, explore or investigate, with military accompaniment required. The party was left with no apparent diplomatic route to airship access or independent investigation at that point. This does not establish permanent impossibility, a specific legal sentence, or the duration and exact exceptions of the restrictions.[^audience-dictation]
 
 See [encounter record](../events/therus-audience.md).
-
-[^audience-dictation]: User retrospective note, heading “Therus audience and restricted movement”: paragraph 1 (ship, cube and encounter space), 2 (child, family and leadership), 3 (guardian-beast claims), 4 (rejection), 5 (mental-link access), 6 (escort and restrictions).
 
 # Encountered military personnel
 
 After the audience, Cole challenged soldiers to duels. The party judged the personnel they encountered weak and lacking real weapons. This is a local assessment, not evidence that all Court forces are incapable of threatening the party.[^ending-dictation]
-
-[^ending-dictation]: User retrospective note, heading “airship seizure attempt and future session imports”: paragraph 1 (ship return, duels and party assessment of soldiers), paragraph 2 (airship boarding combat and session end), paragraph 3 (Session 2/3 scope and full Session 3 recording).
-
 
 # Session 3 development
 
@@ -68,13 +53,26 @@ Session 3 includes recalled lore that celestial guardian beasts descend like com
 
 [Combined session](../sessions/session-003-combined.md).
 
-[^s003]: Supplied Session 3 transcript, 2627–2683, 2835–2869. No verified audio timestamps or independent speaker alignment.
-
-
 # Session 4 development
 
 The wreck investigation’s GM explanation is that the combined group is collectively treated as criminals pending sorting out the airship incident. Victus links have been severed, preventing automatic resurrection, while corpses appear taken north. This does not establish individual legal guilt, a formal sentence or which official ordered the severing. Haskel’s guardian-beast ownership statement remains character testimony.[^s004]
 
 [Combined Session 4](../sessions/session-004-combined.md).
+
+[^transcript]: Supplied transcript lines 77–97, 225–241, 507–563.
+
+[^therica-dictation]: User retrospective dictation, heading “public fear and Therica summons”: paragraph 1 (fear and twenty-year context), paragraph 2 (Therica, parentage and condition), paragraph 3 (Court history and proposed journey).
+
+[^airship-dictation]: User retrospective dictation, heading “Therica airship request”: paragraph 1 (Pillars and high-flight accounts), paragraph 2 (technology, destination and request), paragraph 3 (dictation workflow instruction), paragraph 4 (investigation goal).
+
+[^sea-dictation]: User retrospective note, heading “sea journey, Howl crossing and Eok testimony”: paragraphs 1–2 (captain, affliction and Titans), 3–4 (Howl crossing and perceptions), 5–8 (Nathaniel’s fragmentary Eok account and within-note victus correction).
+
+[^arrival-dictation]: User retrospective note, heading “arrival, Court leadership and airship captain”: paragraphs 1–2 (Therus, Paedan and Morgaen), paragraph 3 (reported gods, city levels, Maochao and species observed).
+
+[^audience-dictation]: User retrospective note, heading “Therus audience and restricted movement”: paragraph 1 (ship, cube and encounter space), 2 (child, family and leadership), 3 (guardian-beast claims), 4 (rejection), 5 (mental-link access), 6 (escort and restrictions).
+
+[^ending-dictation]: User retrospective note, heading “airship seizure attempt and future session imports”: paragraph 1 (ship return, duels and party assessment of soldiers), paragraph 2 (airship boarding combat and session end), paragraph 3 (Session 2/3 scope and full Session 3 recording).
+
+[^s003]: Supplied Session 3 transcript, 2627–2683, 2835–2869. No verified audio timestamps or independent speaker alignment.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 1029–1034, 1094–1121. No independently verified audio timestamp or speaker alignment.

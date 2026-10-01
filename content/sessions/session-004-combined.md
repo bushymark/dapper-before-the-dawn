@@ -1,8 +1,8 @@
 ---
 type: Session
 title: Session 4 — astral escape and borrowed bodies
-description: Combined party returns from the astral state in temporary physical forms
-  and seeks missing bodies.
+description: Session 4 — astral escape and borrowed bodies — campaign history and
+  connections.
 tags:
 - dapper-before-the-dawn
 - session-4
@@ -50,11 +50,11 @@ The adults return as **solid physical amalgams made from their victus materials*
 | Haskel | Angular blue/black, obsidian-like body with a detached glass-globe head and three-dimensional compass needle. |
 | Elias | Gears intermingled painfully with flesh, open wounds and a central gear missing three teeth, causing jerky motion. |
 
-These are source descriptions, not new ancestry mechanics or numerical penalties.[^s004-forms] A wooden, articulated woman appears and speaks after Cole’s description, likely Therica by the companion and turn-order context; the transcript does not explicitly name her in that passage. It is not silently equated with Session 3’s clay figure.[^s004-forms]
+These forms’ exact mechanical consequences remain unknown.[^s004-forms] A wooden, articulated woman appears and speaks after Cole’s description, likely Therica by the companion and turn-order context; her identity is uncertain. Her relationship to the earlier clay figure remains unclear.[^s004-forms]
 
 # Private warning and party tension
 
-The gauntlet privately tells Emeric it can retain these forms for **about 30 hours**. **Emeric does not relay that deadline.** He publicly explains that he chose to seek its help, accepts responsibility and promises not to hide its danger, while admitting he may use it again to prevent someone being lost. The voice challenges his framing of having “used” it. Cole wants to speak with the presence and identifies what he recognizes as a **[mantle](../lore/mantles.md)**. The user corrects this lore-critical word from the transcript’s “mental” (and the same exchange’s “mentor”); it is not a mentor identification.[^s004-mantle-correction] Emeric asks for time and postpones the conversation. The private exchange is not treated as knowledge everyone possesses.[^s004-disclosure]
+The gauntlet privately tells Emeric it can retain these forms for **about 30 hours**. **Emeric does not relay that deadline.** He publicly explains that he chose to seek its help, accepts responsibility and promises not to hide its danger, while admitting he may use it again to prevent someone being lost. The voice challenges his framing of having “used” it. Cole wants to speak with the presence and identifies what he recognizes as a **[mantle](../lore/mantles.md)**. [^s004-mantle-correction] Emeric asks for time and postpones the conversation. The private exchange is not treated as knowledge everyone possesses.[^s004-disclosure]
 
 Koris searches desperately for her belongings and Swamp Poppy. The companion later emerges from the bushes as a stuffed alligator. She is angry with the Drifters and says her planned visit to the Glass Needle has been ruined. A dispute over responsibility for their deaths and ownership of guardian beasts follows. Haskel calls guardian beasts celestial phenomena not owned by anyone; that is his assertion, not proof of every beast’s role. Dayne mediates by asking whether everyone wants to change their current state, leading to agreement on fixing the situation rather than a settled blame judgment.[^s004-tension]
 
@@ -66,29 +66,34 @@ Dayne’s knowledge suggests [Alora Valley](../places/alora-valley.md), a small 
 
 Cole combines footprint observations with Citizens’ cultural knowledge. The GM explains that the group is being treated as criminals together, their victus links have been severed, and automatic resurrection is unavailable pending investigation. A broadened northbound path and repeated tracks imply visitors plan to check the wreck; nobody is present now, but a rakshasa’s sense of smell is a concern. The GM retracts the earlier suggestion of multiple dawn resurrection attempts; exact elapsed time is unclear.[^s004-investigation]
 
-Recalled Rios lore mentions **[Vaeldraxin (Vael)](../characters/vaeldraxin.md)** and a giant snail in the valley before Dochas Ùr’s founding. The user confirms the dragon’s identity: Vael was the previous campaign’s principal antagonist and creator of the Howl; the Pillars, the previous player characters, brought down the Howl and defeated him in the campaign’s final battle.[^vaeldraxin-correction] **Vael killed the giant snail**, as confirmed by the user’s correction of “Bail” in the transcript.[^snail-killer-correction] Neither creature is established as a guardian beast. Maren’s attempt to relate this experience to his research fails to produce useful information. The source does not resolve his dream’s truth.[^s004-investigation]
+Recalled Rios lore mentions **[Vaeldraxin (Vael)](../characters/vaeldraxin.md)** and a giant snail in the valley before Dochas Ùr’s founding. Vael was the previous campaign’s principal antagonist and creator of the Howl; the Pillars, the previous player characters, brought down the Howl and defeated him in the campaign’s final battle.[^vaeldraxin-correction] **Vael killed the giant snail**.[^snail-killer-correction] Neither creature is established as a guardian beast. Maren’s attempt to relate this experience to his research fails to produce useful information. His dream’s truth remains unresolved.[^s004-investigation]
 
-The next direction is north toward the body-recovery lead, with possible confrontation expected. **No recovered corpses, restored original bodies, reached settlement or completed combat with the pursuer is supplied.** See [recover the bodies](../quests/recover-the-original-bodies.md), [return quest](../quests/return-from-cosmic-state.md), source reference, name review.
+The next direction is north toward the body-recovery lead, with possible confrontation expected. **No recovered corpses, restored original bodies, reached settlement or completed combat with the pursuer is known.** See [recover the bodies](../quests/recover-the-original-bodies.md), [return quest](../quests/return-from-cosmic-state.md).
 
-[^s004-date]: User roster/date note, line 2; 2026 inferred from campaign context and matching weekday.
-[^s004-coverage]: Preserved import-context note and audio-inspection.json; original transcript U+2029 delimiter and 1,133 paragraphs counted. Container inspection is not a claim of listening or exact audio coverage.
 [^s004-start]: Original paragraphs 34–49 (dead, challenge, whale), 74–80 (four elements and wind).
-[^s004-preparation]: Original paragraphs 50–122 (wind, flame/momentum, living ship), 123–233 (eidolon, compass kinesis/infusion and broken-condition adjudication).
-[^s004-fight]: Original paragraphs 235–293 (collision, focus, spear), 302–352 (remoras, Maren shift, stone and self-ignition), 357–382 (spear retrieval and readiness).
-[^s004-bridle]: Original paragraphs 383–440 (kelp and Emeric), 465–527 (recall knowledge and proposed bridle), 528–598 (tail, grapple and astral dust), 633–668 (focus readiness and Dayne maneuvers).
-[^s004-elements]: Original paragraphs 670–721 (ecosystem, fire and water), 722–786 (self-anchor, climbing, Therica chain), 795–846 (healing and completed lattice).
-[^s004-jump]: Original paragraphs 847–865 (moon/window/stillness and explicit Ti’Swa spelling), 866–888 (lightning exchange, activation and return).
-[^s004-return]: Original paragraphs 881–899 (gauntlet intervention, children, corporeal forms and missing corpses), 956–970 (private limit), 1122–1125 (all-three-children correction).
-[^s004-forms]: Original paragraphs 889–920 (Maren, Cole, wooden woman and Emeric), 923–957 (Koris, Dayne, Haskel, Elias).
-[^s004-disclosure]: Original paragraphs 956–970 (private gauntlet message, speech and withheld deadline), 982–1009 (Cole’s mantle recognition; wording corrected by user).
-[^s004-tension]: Original paragraphs 971–979 (search), 1009–1053 (companion, accusations, celestial-phenomenon assertion and mediation).
-[^s004-investigation]: Original paragraphs 894, 973–977 (wreck/inventory), 1055–1086 (Alora, recalled lore, failed research and vision), 1087–1121 (elapsed-time ambiguity, footprints, links and correction), 1127–1133 (next direction).
 
+[^s004-preparation]: Original paragraphs 50–122 (wind, flame/momentum, living ship), 123–233 (eidolon, compass kinesis/infusion and broken-condition adjudication).
+
+[^s004-fight]: Original paragraphs 235–293 (collision, focus, spear), 302–352 (remoras, Maren shift, stone and self-ignition), 357–382 (spear retrieval and readiness).
+
+[^s004-bridle]: Original paragraphs 383–440 (kelp and Emeric), 465–527 (recall knowledge and proposed bridle), 528–598 (tail, grapple and astral dust), 633–668 (focus readiness and Dayne maneuvers).
+
+[^s004-elements]: Original paragraphs 670–721 (ecosystem, fire and water), 722–786 (self-anchor, climbing, Therica chain), 795–846 (healing and completed lattice).
+
+[^s004-jump]: Original paragraphs 847–865 (moon/window/stillness and explicit Ti’Swa spelling), 866–888 (lightning exchange, activation and return).
+
+[^s004-return]: Original paragraphs 881–899 (gauntlet intervention, children, corporeal forms and missing corpses), 956–970 (private limit), 1122–1125 (all-three-children correction).
+
+[^s004-forms]: Original paragraphs 889–920 (Maren, Cole, wooden woman and Emeric), 923–957 (Koris, Dayne, Haskel, Elias).
+
+[^s004-disclosure]: Original paragraphs 956–970 (private gauntlet message, speech and withheld deadline), 982–1009 (Cole’s mantle recognition; wording corrected by user).
+
+[^s004-tension]: Original paragraphs 971–979 (search), 1009–1053 (companion, accusations, celestial-phenomenon assertion and mediation).
+
+[^s004-investigation]: Original paragraphs 894, 973–977 (wreck/inventory), 1055–1086 (Alora, recalled lore, failed research and vision), 1087–1121 (elapsed-time ambiguity, footprints, links and correction), 1127–1133 (next direction).
 
 [^s004-mantle-correction]: User correction note, line 1: the end-of-session word is “mantle,” not “mental,” and is very significant in world lore. This clarifies the same exchange rendered “mentor” at original paragraph 1004 and “mental” at 1008–1009.
 
 [^vaeldraxin-correction]: User correction note, line 1 (dragon name Vaeldraxin and short name Vael), line 3 (previous campaign’s principal antagonist, creator of the Howl, and defeat in the final battle by the Pillars, the previous player characters; the Pillars also brought down the Howl).
-
-[^therica-role]: User role correction note, line 1: Therica Ashtongue is an NPC, not a PC, and is commonly voiced by the GM.
 
 [^snail-killer-correction]: User correction note, line 1: Vael killed the snail; the transcript was incorrect. Corrects “Bail” in original Session 4 paragraph 1065.

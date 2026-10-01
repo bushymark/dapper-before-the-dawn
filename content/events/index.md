@@ -1,5 +1,6 @@
 ---
 title: Events
+description: Events — campaign history and connections.
 ---
 
 # Events
@@ -15,7 +16,6 @@ title: Events
 - [Airship seizure attempt — unresolved](airship-seizure-attempt.md)
 
 Wiki home
-
 
 - [Airship bisection and rescue](session-003-airship-disaster.md)
 - [Death and cosmic passage](session-003-cosmic-passage.md)

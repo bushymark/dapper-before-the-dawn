@@ -1,5 +1,6 @@
 ---
 title: Quests
+description: Quests — campaign history and connections.
 ---
 
 # Quests

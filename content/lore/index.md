@@ -1,5 +1,6 @@
 ---
 title: Lore
+description: Lore — campaign history and connections.
 ---
 
 # Lore

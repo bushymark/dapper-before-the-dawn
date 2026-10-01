@@ -1,7 +1,7 @@
 ---
 type: Vessel
 title: White Fang — spelling provisional
-description: Large airship arriving with General Maochao during the boarding fight.
+description: White Fang — spelling provisional — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-3
@@ -14,6 +14,3 @@ The large ship described as **White Fang** appears above the contested airship w
 [Session 3](../sessions/session-003-combined.md).
 
 [^s003]: Generated transcript lines 1375–1545.
-
-
-[^s003-name-correction]: User correction note, line 1 (Whipperwill); line 2 (Apherion identifies the voice/presence and appears connected to Emeric, dictated “Emerich”). The connection’s nature is unconfirmed.

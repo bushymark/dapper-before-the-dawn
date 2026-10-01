@@ -1,13 +1,13 @@
 ---
 title: Rules
+description: Rules — campaign history and connections.
 ---
 
 # Rules
 
-No entries ingested yet.
+Table rulings and encounter procedures appear below.
 
 Wiki home
-
 
 - [Session 3 adjudications](session-003-adjudications.md)
 

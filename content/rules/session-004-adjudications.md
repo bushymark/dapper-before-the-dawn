@@ -1,8 +1,7 @@
 ---
 type: Rules Reference
 title: Session 4 table adjudications
-description: Scene-specific rulings, permanent explosion-type agreement and corrected
-  resurrection inference.
+description: Session 4 table adjudications — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-4

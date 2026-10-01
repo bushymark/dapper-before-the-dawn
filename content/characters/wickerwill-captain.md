@@ -1,10 +1,12 @@
 ---
 type: NPC
 title: Whipperwill’s captain — first name unresolved
-description: Blind airship captain struck during boarding and subsequently healed.
+description: Whipperwill’s captain — first name unresolved — campaign history and
+  connections.
 tags:
 - dapper-before-the-dawn
 - session-3
+character_role: NPC
 ---
 
 # Captain
@@ -16,6 +18,3 @@ Cole strikes him in an apparent attempt to knock him unconscious. He falls bleed
 [Session 3](../sessions/session-003-combined.md).
 
 [^s003]: Generated transcript lines 397–405, 537–595, 2685–2741.
-
-
-[^s003-name-correction]: User correction note, line 1 (Whipperwill); line 2 (Apherion identifies the voice/presence and appears connected to Emeric, dictated “Emerich”). The connection’s nature is unconfirmed.

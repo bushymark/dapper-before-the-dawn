@@ -1,7 +1,8 @@
 ---
 type: Event
 title: Airship seizure attempt — unresolved at Session 1 end
-description: Party boards an airship hold by force; session ends during combat.
+description: Airship seizure attempt — unresolved at Session 1 end — campaign history
+  and connections.
 tags:
 - dapper-before-the-dawn
 - the-drifters
@@ -17,13 +18,12 @@ Seeing an airship being loaded at the docks, the party fought its way into the a
 
 [Mission](../quests/airship-investigation.md), [Cole](../characters/cole-buckit.md), [Lastings](../places/lastings.md), [session](../sessions/2026-09-28-drifters-s001.md).
 
-[^ending-dictation]: User retrospective note, heading “airship seizure attempt and future session imports”: paragraph 1 (ship return, duels and party assessment of soldiers), paragraph 2 (airship boarding combat and session end), paragraph 3 (Session 2/3 scope and full Session 3 recording).
-
-
 # Session 3 development
 
-The continuation appears in the combined Session 3 transcript: masked boarders confront Citizens aboard a living-wood airship. Before a successful ordinary-world seizure is established, a prismatic object bisects it. See the [disaster](session-003-airship-disaster.md) and [cosmic passage](session-003-cosmic-passage.md). The Session 1 stopping point remains historical, rather than the latest known state.[^s003]
+The continuation appears in combined Session 3: masked boarders confront Citizens aboard a living-wood airship. Before a successful ordinary-world seizure is established, a prismatic object bisects it. See the [disaster](session-003-airship-disaster.md) and [cosmic passage](session-003-cosmic-passage.md). [^s003]
 
 [Combined session](../sessions/session-003-combined.md).
+
+[^ending-dictation]: User retrospective note, heading “airship seizure attempt and future session imports”: paragraph 1 (ship return, duels and party assessment of soldiers), paragraph 2 (airship boarding combat and session end), paragraph 3 (Session 2/3 scope and full Session 3 recording).
 
 [^s003]: Supplied Session 3 transcript, 383–595, 2835–2869, 4415–4479. No verified audio timestamps or independent speaker alignment.

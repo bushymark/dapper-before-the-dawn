@@ -1,15 +1,15 @@
 ---
 title: Places
+description: Places — campaign history and connections.
 ---
 
 # Places
 
 - [Dochas Ùr](city-of-hope.md)
 
-- [Lastings — spelling provisional](lastings.md)
+- [Lastings](lastings.md)
 
 Wiki home
-
 
 - [Whipperwill](wickerwill.md)
 - [White Fang](white-fang.md)

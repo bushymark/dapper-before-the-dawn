@@ -1,17 +1,20 @@
 ---
 type: NPC
 title: Saga
-description: Saga — September 28 retrospective notes.
+description: Saga — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - the-drifters
+character_role: NPC
 ---
+
+![Portrait of Nataniel and Saga](../assets/portraits/nataniel-and-saga.png)
 
 # Identity
 
 Saga is Sledge’s daughter and Nataniel’s very pregnant wife. She accompanied the party on the voyage to Eok.[^departure-dictation]
 
-The dictated phrase “67C elf mom” is garbled. Her exact elf heritage, height and any age encoded by that phrase are left unresolved. Saga is a provisional name spelling from dictation.
+Saga’s exact elf heritage, height and age remain unknown; her name’s spelling is provisional.
 
 # Related
 

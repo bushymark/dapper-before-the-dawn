@@ -1,8 +1,7 @@
 ---
 type: Quest
 title: Recover the original bodies
-description: Missing corpses and severed resurrection links create an urgent northbound
-  investigation.
+description: Recover the original bodies — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-4

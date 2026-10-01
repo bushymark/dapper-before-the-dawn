@@ -1,7 +1,7 @@
 ---
 type: Rules Reference
 title: Session 3 table adjudications
-description: Scoped GM corrections and setting clarifications from the generated transcript.
+description: Session 3 table adjudications — campaign history and connections.
 tags:
 - dapper-before-the-dawn
 - session-3
