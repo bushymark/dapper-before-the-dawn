@@ -9,10 +9,10 @@
     "characters/elias.md": "e7e1a457834ab7300525c646758fdcdc28893001cecca3538ce2f616eaa5508d",
     "characters/emeric-bellamy.md": "941ab4b34bbd1720db50345836444b25aee3a63597ae42fa742d5eb2a9f1342f",
     "characters/eokian-expectant-father.md": "7608699153fa9996a9fcfd37b6465f9c495852ffbd4732ea1da551c27ed93b4e",
-    "characters/general-at-the-barrier.md": "21f0526933f5ee3a6d3a4c3235d96c2132ecdbfc52880e87c32d81f88ea6cc32",
-    "characters/general-maochao.md": "1bbf3bf31cb4704ba8a8f7fd43396b8eb8127fbaf8c1f87d0e41e29f18dd9877",
+    "characters/general-at-the-barrier.md": "75b0831f3a1b328f0128b80305682e5e3258081ef2c7b345a806e1a52ec3aab0",
+    "characters/general-maochao.md": "0396ad0cadea1d7075b984e9454cc36abfe8dd02c21f4dcd09dfc077f88765b7",
     "characters/haskel.md": "00a295a1511d2edb5fdf34db102a1102f03e46f862245e286d57aea67e224620",
-    "characters/index.md": "477166b6c609b8c726fd8dca2575e16cd163fd532988fced38f902335606e79c",
+    "characters/index.md": "953441bbe0dc170245bd27e60edeeeb16149edf5526dbc79766a416556608264",
     "characters/koris.md": "6708ee676d05ded8e5780aa25e3320c610bcdeb459fc16e1cbe8783db81d77ab",
     "characters/maren.md": "b51de10a85fccf80216fa653d3d3b7dc36b2568b455ef8afde9bd8b73ac22928",
     "characters/oma.md": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
@@ -47,7 +47,7 @@
     "places/index.md": "16a8f9fed49ee874a0d32382b060038b67d59f3e413dd92e6a979685be4b83af",
     "places/lastings.md": "5e398cb0cfb61cd2b305b22f0ad8f3d46c79ccd29792db686daad860f2054ad9",
     "places/ti-swa.md": "a5edd99511aed35b81a6a2e8b85735afd3aec1d40b7c54c88dbbd121073d9273",
-    "places/white-fang.md": "5baa40fc96955bd84511b7339e020123aa04067eab824c8c335d14676b9ba686",
+    "places/white-fang.md": "074d7115f70da33c7f0140a5e383eb5a33927242701a960e1fe243a6def5db8b",
     "places/wickerwill.md": "adf150a96cc74bf9536745a01c59fa9bffd1e06dfb1f39dc4cab02f7599f612b",
     "quests/airship-investigation.md": "50e6fcfe31fd699f9076f27684264fd30a19ef08afbacecb26372e4faa26dc5f",
     "quests/index.md": "9ef9e19ca15e2a7b7d2e2a8fb17f15423d774a602bfe97ceda9e3f94ba197e0d",
@@ -56,7 +56,7 @@
     "rules/index.md": "47612dfa85b517aa3c9b16007609607d7eea454ca69d92e5966ecfa2f90554a5",
     "rules/session-003-adjudications.md": "cec39ab5896b06aef63d25251c06c86184975aa88162e911b3f64e8bdb3f2f0e",
     "rules/session-004-adjudications.md": "aa7d96a5dde5b0d822e53962c9b35186fcf4d8d604e62fdfc2dc06da8fb1474d",
-    "sessions/2026-09-28-drifters-s001.md": "efed7718c5ebfc6b3eae1a1b455530d45daa09c926629e5a6398ca95bffbc0a3",
+    "sessions/2026-09-28-drifters-s001.md": "992219bc5ff93760e036343512e357231338c61d43e20b9c95e4527f8f7dfa66",
     "sessions/index.md": "d468cfff2a10165e0494e5435d3eb6c73fa4656066e11dd00b026e236e705280",
     "sessions/session-003-combined.md": "e5cf783715099b185dda17eaf016dea7d99910bfe82c3a386fd8eced5eb7a5fd",
     "sessions/session-004-combined.md": "368d932b56f917bd78377e0b40a0ddbfeafbc7b198a86e5f9040078c07e5dbb7"
@@ -111,16 +111,16 @@
       "reviewed_at": "2026-10-01T16:18:30.702298+00:00"
     },
     "characters/general-at-the-barrier.md": {
-      "source_sha256": "21f0526933f5ee3a6d3a4c3235d96c2132ecdbfc52880e87c32d81f88ea6cc32",
-      "editorial_sha256": "65aed321e50722431f7c3fa31e15c5beda8f27f5599c0ca8bde802cbe683bef4",
-      "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:18:30.701192+00:00"
+      "source_sha256": "75b0831f3a1b328f0128b80305682e5e3258081ef2c7b345a806e1a52ec3aab0",
+      "editorial_sha256": "bab0303ad8e96617e0ad6d94562c704dd287f0044dad74d75133b43a5d230154",
+      "reviewer": "codex/portrait-identity-review",
+      "reviewed_at": "2026-10-01T16:34:19.793913+00:00"
     },
     "characters/general-maochao.md": {
-      "source_sha256": "1bbf3bf31cb4704ba8a8f7fd43396b8eb8127fbaf8c1f87d0e41e29f18dd9877",
-      "editorial_sha256": "5c1af10487f4e6652669447431e58ce6b3d0b24404ddc188d671f4cda80b13fc",
-      "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:18:30.700956+00:00"
+      "source_sha256": "0396ad0cadea1d7075b984e9454cc36abfe8dd02c21f4dcd09dfc077f88765b7",
+      "editorial_sha256": "9e6a61de97ab38d83e82247d0029c66c5eec2903407f7fd50abdfc1cd15dc0f6",
+      "reviewer": "codex/portrait-identity-review",
+      "reviewed_at": "2026-10-01T16:34:19.794354+00:00"
     },
     "characters/haskel.md": {
       "source_sha256": "00a295a1511d2edb5fdf34db102a1102f03e46f862245e286d57aea67e224620",
@@ -129,10 +129,10 @@
       "reviewed_at": "2026-10-01T16:13:16.123460+00:00"
     },
     "characters/index.md": {
-      "source_sha256": "477166b6c609b8c726fd8dca2575e16cd163fd532988fced38f902335606e79c",
-      "editorial_sha256": "c1c7b393966ed52cdc5c1e472313188cfe5241fd5db7f67a56c8a8acce5496eb",
-      "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:13:16.123714+00:00"
+      "source_sha256": "953441bbe0dc170245bd27e60edeeeb16149edf5526dbc79766a416556608264",
+      "editorial_sha256": "603d312e33401c036a470b9038a33b4a9bd625b70985971493a46e54874bb041",
+      "reviewer": "codex/portrait-identity-review",
+      "reviewed_at": "2026-10-01T16:34:19.794516+00:00"
     },
     "characters/koris.md": {
       "source_sha256": "6708ee676d05ded8e5780aa25e3320c610bcdeb459fc16e1cbe8783db81d77ab",
@@ -339,10 +339,10 @@
       "reviewed_at": "2026-10-01T16:13:16.134719+00:00"
     },
     "places/white-fang.md": {
-      "source_sha256": "5baa40fc96955bd84511b7339e020123aa04067eab824c8c335d14676b9ba686",
-      "editorial_sha256": "ce407e00a3f98bdb5cfbbe1e39da391ae49ff2806a5e7014dfe6f6caa4b1ce91",
-      "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:18:30.698285+00:00"
+      "source_sha256": "074d7115f70da33c7f0140a5e383eb5a33927242701a960e1fe243a6def5db8b",
+      "editorial_sha256": "9d699a2d895e8629eca31a4b11f8d386a68da7fe88f7a3c507e976a1de538aac",
+      "reviewer": "codex/portrait-identity-review",
+      "reviewed_at": "2026-10-01T16:34:19.794717+00:00"
     },
     "places/wickerwill.md": {
       "source_sha256": "adf150a96cc74bf9536745a01c59fa9bffd1e06dfb1f39dc4cab02f7599f612b",
@@ -393,10 +393,10 @@
       "reviewed_at": "2026-10-01T16:13:16.137453+00:00"
     },
     "sessions/2026-09-28-drifters-s001.md": {
-      "source_sha256": "efed7718c5ebfc6b3eae1a1b455530d45daa09c926629e5a6398ca95bffbc0a3",
-      "editorial_sha256": "cef206d3ad27e00c2bd7bc87cb36ba13ece67cd49e3d3b115d7d64caa97a3228",
-      "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:23:40.371558+00:00"
+      "source_sha256": "992219bc5ff93760e036343512e357231338c61d43e20b9c95e4527f8f7dfa66",
+      "editorial_sha256": "17dd55a23fc526a02f8660e1e443a1d7303a2132d752bce839ab4906f7031559",
+      "reviewer": "codex/portrait-identity-review",
+      "reviewed_at": "2026-10-01T16:34:19.795265+00:00"
     },
     "sessions/index.md": {
       "source_sha256": "d468cfff2a10165e0494e5435d3eb6c73fa4656066e11dd00b026e236e705280",
@@ -421,7 +421,9 @@
     "assets/portraits/therica-ashtongue.png": "2ab54344a39a517956ecca03fefe00568c947beea909065e8f5095d9b75ebcc6",
     "assets/portraits/cole-buckit.png": "c00ca47fc1118de784fd2f352f6a34d8ce4d0d7d3f95fe6a9a708c7c7c7e9a21",
     "assets/portraits/emeric-bellamy.png": "cc5ada60f54c3ac0263dd69b51434c1e8dcd620251b9016a2a577ed5944a3a95",
-    "assets/portraits/nataniel-and-saga.png": "889de74b5e8fe595eec5a7dc1dd1aef5eac8627b522b514225eb41fab6eb2547"
+    "assets/portraits/nataniel-and-saga.png": "889de74b5e8fe595eec5a7dc1dd1aef5eac8627b522b514225eb41fab6eb2547",
+    "assets/portraits/irdra.png": "a7d885dbf9ad354ccdceab65ab321ff2fb2621b9ccfe1a14362ba3e46d258173",
+    "assets/portraits/white-fang-captain.png": "fe1d6a91f3ef50115b6bcddec21a0d50cd4d72df2d2d9a7bd0778a23e4e0a58b"
   },
   "excluded": [
     "raw sources",

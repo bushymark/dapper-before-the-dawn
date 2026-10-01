@@ -1,18 +1,21 @@
 ---
 type: NPC
 title: General Maochao
-description: General Maochao — spelling provisional — campaign history and connections.
+description: The White Fang’s captain; his name’s spelling remains unsettled.
 tags:
 - dapper-before-the-dawn
 - the-drifters
 character_role: NPC
 ---
 
+![Portrait of the White Fang’s captain](../assets/portraits/white-fang-captain.png)
+
+
 # Introduction
 
 The party was introduced to **General Maochao**, a rakshasa who captained an airship. This introduction does not yet establish that his airship was offered, acquired or boarded.[^arrival-dictation]
 
-Maochao’s name’s exact spelling remains unsettled.
+**Maochao** is the White Fang’s captain. His name’s exact spelling remains unsettled; this is a provisional rendering.[^portrait-confirmation]
 
 [City](../places/lastings.md), [mission](../quests/airship-investigation.md), [session](../sessions/2026-09-28-drifters-s001.md).
 
@@ -33,3 +36,5 @@ Maochao arrives aboard the White Fang, resists Emeric’s Calm, and attacks Cole
 [^audience-dictation]: User retrospective note, heading “Therus audience and restricted movement”: paragraph 1 (ship, cube and encounter space), 2 (child, family and leadership), 3 (guardian-beast claims), 4 (rejection), 5 (mental-link access), 6 (escort and restrictions).
 
 [^s003]: Supplied Session 3 transcript, 1375–1545, 2425–2495, 3219–3555. No verified audio timestamps or independent speaker alignment.
+
+[^portrait-confirmation]: User portrait-identity confirmation, line 1 (Irdra is the general at the gate) and line 3 (meow-shau depicts the White Fang’s captain; his name’s spelling remains unconfirmed).

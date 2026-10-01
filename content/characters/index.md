@@ -30,7 +30,7 @@ description: Characters — campaign history and connections.
 - [Paedan Dahhm](paedan-dahhm.md)
 - [Therus](therus.md)
 - [General Maochao](general-maochao.md)
-- [General at the barrier — name unknown](general-at-the-barrier.md)
+- [Irdra — general at the gate](general-at-the-barrier.md)
 - [Whipperwill’s captain — name unknown](wickerwill-captain.md)
 
 ### Other beings

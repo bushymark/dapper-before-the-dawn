@@ -7,6 +7,10 @@ tags:
 - session-3
 ---
 
+# Captain
+
+[General Maochao](../characters/general-maochao.md) is the White Fang’s captain. His name’s spelling remains unsettled.[^portrait-confirmation]
+
 # Observed vessel
 
 The large ship described as **White Fang** appears above the contested airship with [General Maochao](../characters/general-maochao.md) and additional personnel. Emeric’s Calm affects other participants while the general resists. White Fang and the bisected [Whipperwill](wickerwill.md) are kept as separate vessels. Ownership and later fate are not established.[^s003]
@@ -14,3 +18,5 @@ The large ship described as **White Fang** appears above the contested airship w
 [Session 3](../sessions/session-003-combined.md).
 
 [^s003]: Generated transcript lines 1375–1545.
+
+[^portrait-confirmation]: User portrait-identity confirmation, line 1 (Irdra is the general at the gate) and line 3 (meow-shau depicts the White Fang’s captain; his name’s spelling remains unconfirmed).

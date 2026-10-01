@@ -1,16 +1,19 @@
 ---
 type: NPC
-title: General at the barrier
-description: General at the barrier — name unresolved — campaign history and connections.
+title: Irdra
+description: Irdra, the general at Dochas Ùr’s gate in Maren’s dream.
 tags:
 - dapper-before-the-dawn
 - the-drifters
 character_role: NPC
 ---
 
+![Portrait of Irdra](../assets/portraits/irdra.png)
+
+
 # Identity and spelling
 
-The general’s name remains uncertain; **Irdra** is one possible form.[^transcript]
+**Irdra** is the general at Dochas Ùr’s gate in Maren’s dream. Her surname remains unknown.[^portrait-confirmation]
 
 # Depicted encounter
 
@@ -26,10 +29,12 @@ She claims the barrier could be destroyed, but her strike fails to break through
 
 # Voyage testimony
 
-Nathaniel said the woman from Maren’s dream was well known. Her identity and reputation remain uncertain.[^sea-dictation]
+Nathaniel said the woman from Maren’s dream was well known. Her wider reputation remains uncertain.[^sea-dictation]
 
 [^transcript]: Supplied transcript lines 37–155 (framing and appearance), 193–311 (assertions and demands), 387–455 (name, barrier claim, strike, requested passengers), 499–505 (spelling passage), 681–687 (dream uncertainty).
 
 [^dream-dictation]: User dictation during the September 28 session walkthrough, supplied September 30; preserved verbatim supplementary note.
 
 [^sea-dictation]: User retrospective note, heading “sea journey, Howl crossing and Eok testimony”: paragraphs 1–2 (captain, affliction and Titans), 3–4 (Howl crossing and perceptions), 5–8 (Nathaniel’s fragmentary Eok account and within-note victus correction).
+
+[^portrait-confirmation]: User portrait-identity confirmation, line 1 (Irdra is the general at the gate) and line 3 (meow-shau depicts the White Fang’s captain; his name’s spelling remains unconfirmed).
