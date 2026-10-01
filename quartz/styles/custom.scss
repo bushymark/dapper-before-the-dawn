@@ -12,3 +12,8 @@ article img[src*="assets/portraits/"] {
   margin: 1.25rem auto;
   border-radius: 0.5rem;
 }
+
+// The curated character index supplies the PC/NPC grouping itself.
+body[data-slug="characters/index"] .page-listing {
+  display: none;
+}
