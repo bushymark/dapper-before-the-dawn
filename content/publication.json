@@ -394,9 +394,9 @@
     },
     "sessions/2026-09-28-drifters-s001.md": {
       "source_sha256": "efed7718c5ebfc6b3eae1a1b455530d45daa09c926629e5a6398ca95bffbc0a3",
-      "editorial_sha256": "98737b299b9da77a8547af655aca579c85ad0f67be4491940f3939aad25e14ee",
+      "editorial_sha256": "cef206d3ad27e00c2bd7bc87cb36ba13ece67cd49e3d3b115d7d64caa97a3228",
       "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:18:30.699272+00:00"
+      "reviewed_at": "2026-10-01T16:23:40.371558+00:00"
     },
     "sessions/index.md": {
       "source_sha256": "d468cfff2a10165e0494e5435d3eb6c73fa4656066e11dd00b026e236e705280",
@@ -406,15 +406,15 @@
     },
     "sessions/session-003-combined.md": {
       "source_sha256": "e5cf783715099b185dda17eaf016dea7d99910bfe82c3a386fd8eced5eb7a5fd",
-      "editorial_sha256": "0581b16df92c23a07db75dfad2a0e95e90c9b7d045a0a3c887788b6dd823be2a",
+      "editorial_sha256": "f7e61524371cf9efea6913bf940733f7c1ea2b0c787b9db25fb86eb7de95e923",
       "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:18:30.698692+00:00"
+      "reviewed_at": "2026-10-01T16:23:40.370798+00:00"
     },
     "sessions/session-004-combined.md": {
       "source_sha256": "368d932b56f917bd78377e0b40a0ddbfeafbc7b198a86e5f9040078c07e5dbb7",
-      "editorial_sha256": "d75588779780567db1a480389f5e529ed8f88fa0371f996376d325b953bbf4cb",
+      "editorial_sha256": "c840cf235cb7872f779ea4de5f8f19da1047cd7e146f01e522b441904673a80d",
       "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:18:30.699792+00:00"
+      "reviewed_at": "2026-10-01T16:23:40.372010+00:00"
     }
   },
   "assets": {
