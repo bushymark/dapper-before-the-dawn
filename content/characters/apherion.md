@@ -35,3 +35,12 @@ Cole calls what he recognizes in Emeric’s gauntlet or its presence a **[mantle
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 881–899, 956–970, 982–1008. No independently verified audio timestamp or speaker alignment.
 
 [^s004-mantle-correction]: User correction note, line 1: the end-of-session word is “mantle,” not “mental,” and is very significant in world lore. This clarifies the same exchange rendered “mentor” at original paragraph 1004 and “mental” at 1008–1009.
+
+
+# Session 5 — support limit becomes public
+
+The gauntlet privately urges Emeric not to waste daylight, and offers to tell him about the smith’s condition. Emeric publicly reports its roughly thirty-hour maintenance limit, a possible unspecified extension, and the explanation that it used available material because their bodies could not be found. He promises to let the group decide further bargains. These are attributed reports, not a settled definition of the presence or the price of extension.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:20:25–00:25:00; 01:45:00–01:46:00. Local machine transcription; no independent audio listening or speaker diarization.

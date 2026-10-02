@@ -61,3 +61,12 @@ Maren’s earth/fire personality shift defeats three remoras and supplies physic
 [^s003]: Supplied Session 3 transcript, 601–971, 1653–1737, 1797–1901, 3581–3833, 4415–4573. No verified audio timestamps or independent speaker alignment.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 327–338, 685–720, 888–894. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 5 — disclosure, questions and the heist
+
+Maren retains rope and robe but finds potions, kits and staff missing. His questions continue the search for information about the bodies and Eok’s resurrection system. He helps examine the smith’s situation and later joins Cole’s proposal to stage a historical play while recovering the bodies. The plan is not performed by session end.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:03:03–00:06:40; 01:50:00–01:53:30; 02:53:00–03:10:00; 03:59:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.

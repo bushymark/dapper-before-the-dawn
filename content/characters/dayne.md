@@ -34,3 +34,12 @@ Dayne’s thrown spear fails to embed, but he later synchronizes the vessel with
 [^s003]: Generated transcript lines 2107–2327, 3475–3555, 5029–5045; shared transition 4415–4573; gap 4975.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 250–293, 653–668, 764–786, 929–940, 1036–1058. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 5 — competing duties
+
+Dayne comforts Koris, discusses the Court and his family obligations, and participates in the body-recovery planning. He insists that pursuit of answers must not threaten his wife and children. He later voices support for the group as recent events disturb his former security. His discussion of [plots](../lore/resurrection-plots-and-victus.md) supplies important cultural context, but does not mean every proposed restoration method has been tested.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:19:33–00:20:25; 00:33:00–00:42:00; 02:53:00–03:00:00; 03:39:00–03:42:00; 04:11:00–04:13:30. Local machine transcription; no independent audio listening or speaker diarization.

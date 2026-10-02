@@ -47,3 +47,12 @@ Therica helped secure the chain to the steering mast while Cole boarded the astr
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 103–107, 383–386, 785–786, 906–908, 1010. No independently verified audio timestamp or speaker alignment.
 
 [^therica-role]: User role correction note, line 1: Therica Ashtongue is an NPC, not a PC, and is commonly voiced by the GM.
+
+
+# Session 5 — forest crossing and Rios history
+
+Therica travels in a clay/polymer action-figure-like body and requests rest after five or six hours in the forest. This description adds a later account to the earlier wooden/clay imagery without inventing a definitive material reconciliation. She discusses Rios’s history and gives Dochas Ùr’s population as **845**. She accompanies the party to Alora and joins the debate surrounding the proposed recovery.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 01:22:00–01:24:00; 03:07:00–03:10:30; 04:11:00–04:13:30. Local machine transcription; no independent audio listening or speaker diarization.

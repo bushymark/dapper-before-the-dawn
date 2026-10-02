@@ -12,6 +12,7 @@ A Pathfinder 2e campaign set twenty years after the Pillars of Dochas Ùr brough
 - [Session 1 — the Drifters](sessions/2026-09-28-drifters-s001.md)
 - [Session 3 — Citizens and Drifters](sessions/session-003-combined.md)
 - [Session 4 — the return](sessions/session-004-combined.md)
+- [Session 5 — the silent forge and the planned heist](sessions/session-005-combined.md)
 - [Characters](characters/index.md) · [Places](places/index.md) · [Factions](factions/index.md)
 - [Events](events/index.md) · [Quests](quests/index.md) · [Lore](lore/index.md)
 - [Campaign timeline](campaign/timeline.md)

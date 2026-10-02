@@ -76,3 +76,12 @@ The wreck investigation’s GM explanation is that the combined group is collect
 [^s003]: Supplied Session 3 transcript, 2627–2683, 2835–2869. No verified audio timestamps or independent speaker alignment.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 1029–1034, 1094–1121. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 5 — law, plots and the smith
+
+The Citizens discuss [the Fall](../lore/the-fall.md), conditional legal exposure and Elias’s ban on new inventions. These assessments do not amount to current verdicts. The [blacksmith](../characters/mysterious-blacksmith.md) accuses the Court of arriving weeks after his family’s murder despite promised protection, then admits repeatedly killing its messengers to exhaust a rural resurrection plot. His account challenges the party’s confidence without independently proving every allegation. In Alora, Court members celebrate the general’s retirement while guarding bodies and possessions and examining victus objects. The party plans a theatrical recovery.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:32:00–00:57:10; 02:27:00–02:38:30; 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.

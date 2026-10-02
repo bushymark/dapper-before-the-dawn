@@ -89,3 +89,12 @@ Wednesday September 30 brings the Citizens and Drifters together again.[^s004-da
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 44–49, 866–977, 1055–1058, 1122–1133. No independently verified audio timestamp or speaker alignment.
 
 [^vaeldraxin-correction]: User correction note, line 1 (dragon name Vaeldraxin and short name Vael), line 3 (previous campaign’s principal antagonist, creator of the Howl, and defeat in the final battle by the Pillars, the previous player characters; the Pillars also brought down the Howl).
+
+
+# October 1 — combined Session 5
+
+The combined party resolves wreck equipment, learns the temporary-body deadline, crosses the forest, discovers the blacksmith’s retaliation against Court messengers, and reaches Alora Valley. The cursed blade is in Haskel’s custody. Smidgen provides brief shelter near the general’s retirement gathering, where eight body containers are visible. A theatrical heist is proposed but not carried out.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:00:03–00:29:59; 01:22:00–02:53:00; 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.

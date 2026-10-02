@@ -36,3 +36,12 @@ The still-torn spectral vessel is pushed, piloted and protected during the retur
 [^s003-gap-recollection]: User retrospective gap note, line 3 (Elias’s apparent knowledge and theory), lines 5–7 (mass, speed and focus), line 9 (contributions, rune crafting, whale/ship plan and fire, water, lightning, earth), line 11 (scope). This is recollection, not recovered audio or transcript.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 86–122, 185–233, 722–846, 890–894, 973–977. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 5 — wreck and cart
+
+At the beginning, the wreck’s wooden frame is burdened by sleek metal, chrome and alloy piping following the return. Cole briefly lifts the vessel with help from Haskel’s gravity effect, but its size and collision with trees make carrying it impractical. The party proceeds on foot and later uses the smith’s cart. No repaired flight or new vessel name is established.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:01:57–00:02:45; 01:14:00–01:19:00; 02:52:00–03:06:00. Local machine transcription; no independent audio listening or speaker diarization.

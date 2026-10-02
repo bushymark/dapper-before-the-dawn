@@ -34,3 +34,12 @@ Koris remanifests Swamp Poppy and later uses stillness magic to slow meteors and
 [^s003]: Generated transcript lines 1057–1365, 3581–3977, 4093–4239; shared transition 4415–4573; gap 4975.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 123–184, 847–865, 923–929, 971–977, 1009–1053. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 5 — the blade and missing belongings
+
+Koris recovers her enchanted satchel intact but emptied; the telescope, tuition money and mother’s handkerchief/victus are missing. She hides tracks during travel, senses blood and the cursed blade at the forge, and recruits Haskel to investigate. She wraps the blade without direct contact and gives it to him because her temporary body cannot carry it. She initially favors surrender to the Court, then reconsiders to learn whether her other cursed objects remain recoverable. The choice does not settle their fate.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:10:26–00:20:20; 00:30:20–00:31:10; 01:53:00–01:58:00; 02:12:00–02:40:30; 04:05:00–04:13:30. Local machine transcription; no independent audio listening or speaker diarization.

@@ -13,3 +13,5 @@ description: Factions — campaign history and connections.
 Wiki home
 
 - [The Citizens](the-citizens.md)
+
+- [The Bloom](the-bloom.md)

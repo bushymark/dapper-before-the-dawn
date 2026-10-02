@@ -86,3 +86,12 @@ The group returns from the astral escape to the wreck in temporary physical form
 [^s003]: Supplied Session 3 transcript, 2835–2869, 3219–4479, 4977–5097. No verified audio timestamps or independent speaker alignment.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 866–977, 1055–1133. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 5 — mission remains deferred
+
+The Drifters repeatedly explain that the sun’s shattering and the nearby falling object drove their attempt to obtain an airship, fearing another threat to Rios. Citizens offer reassurance but no complete explanation of why the sky is restricted. The immediate objective remains recovering bodies in Alora; no new airship acquisition or sun investigation is completed.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 01:00:00–01:09:00; 03:19:00–03:42:00; 04:13:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.

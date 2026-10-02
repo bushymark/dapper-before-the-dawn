@@ -44,3 +44,12 @@ Elias perfects the focus throughout the chase and holds the trigger for all four
 [^s003-gap-recollection]: User retrospective gap note, line 3 (Elias’s apparent knowledge and theory), lines 5–7 (mass, speed and focus), line 9 (contributions, rune crafting, whale/ship plan and fire, water, lightning, earth), line 11 (scope). This is recollection, not recovered audio or transcript.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 248–249, 633–651, 866–888, 953–957, 1075–1086. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 5 — the limits of creation
+
+Elias’s badly damaged robotic feline returns from the bushes. He identifies himself as a former prisoner of [the Fall](../lore/the-fall.md), with a continuing ban on inventing new creations. He may repair, maintain and use existing things. The late clarification permits reproducing existing designs, including an already-invented explosive. No explosive is made or used. A legal assessment suggests astral magic may be treated differently from ordinary construction; no new sentence is imposed. His fuller name is too garbled to establish its spelling.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:14:15–00:18:30; 00:35:00–00:43:30; 00:55:00–00:57:10; 04:00:00–04:04:00. Local machine transcription; no independent audio listening or speaker diarization.

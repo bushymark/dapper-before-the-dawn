@@ -21,3 +21,5 @@ Wiki home
 - [Death and cosmic passage](session-003-cosmic-passage.md)
 
 - [Physical return in victus amalgams](session-004-physical-return.md)
+
+- [Session 5 — forge discovery and Alora arrival](../sessions/session-005-combined.md)

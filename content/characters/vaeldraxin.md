@@ -29,3 +29,12 @@ Vael’s name is also written **Vael’Draxin**.[^primer][^vaeldraxin-correction
 [^vaeldraxin-correction]: User correction note, line 1 (dragon name Vaeldraxin and short name Vael), line 3 (previous campaign’s principal antagonist, creator of the Howl, and defeat in the final battle by the Pillars, the previous player characters; the Pillars also brought down the Howl).
 
 [^snail-killer-correction]: User correction note, line 1: Vael killed the snail; the transcript was incorrect. Corrects “Bail” in original Session 4 paragraph 1065.
+
+
+# Session 5 — Eok’s account
+
+The Citizens’ recalled history describes sightings of Vaeldraxin beyond Rios, an army prepared to oppose him, and the Court claiming that its imminent victory drove him back to the forbidden island when he stopped appearing. This is an attributed historical claim, not a replacement for the confirmed Pillars’ victory. The Drifters contest the implications of that account.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 01:03:00–01:06:00. Local machine transcription; no independent audio listening or speaker diarization.

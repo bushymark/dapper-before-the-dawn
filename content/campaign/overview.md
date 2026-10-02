@@ -43,3 +43,12 @@ The Citizens’ Session 2 adventures are not yet chronicled here.[^ending-dictat
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 866–977, 1055–1058, 1075–1133. No independently verified audio timestamp or speaker alignment.
 
 [^vaeldraxin-correction]: User correction note, line 1 (dragon name Vaeldraxin and short name Vael), line 3 (previous campaign’s principal antagonist, creator of the Howl, and defeat in the final battle by the Pillars, the previous player characters; the Pillars also brought down the Howl).
+
+
+# Latest state — Session 5
+
+The party is in Alora Valley in temporary forms, now aware of the approximate support deadline. Their bodies appear in containers by the general’s retirement stage. Cole and Maren propose a play as cover for recovery; restoration remains incomplete. Haskel carries a cursed blade removed from the blacksmith’s basement. The party has promised to help starving wolves and learned troubling limits to Eok’s resurrection system.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:20:25–00:29:59; 01:22:00–01:29:30; 02:38:00–02:42:00; 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.

@@ -62,3 +62,12 @@ Cole tells Emeric **“that’s a mantle.”** Emeric defers further discussion.
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 86–102, 340–382, 553–598, 722–786, 895–905, 982–1008, 1094–1121. No independently verified audio timestamp or speaker alignment.
 
 [^s004-mantle-correction]: User correction note, line 1: the end-of-session word is “mantle,” not “mental,” and is very significant in world lore. This clarifies the same exchange rendered “mentor” at original paragraph 1004 and “mental” at 1008–1009.
+
+
+# Session 5 — the forge and the proposed play
+
+Cole retrieves a bent crowbar and lifting belt; his pike and shield are absent. He tests lifting the wreck with Haskel’s low gravity, then abandons carriage as impractical. At [Recknar’s forge](mysterious-blacksmith.md), he lights the hearth, hears many angry voices that seem aligned with the smith’s rage, and offers revenge if Tallow is encountered. His appeal fails to sustain the smith’s hope. With Maren, he proposes a theatrical recovery of the party’s bodies; it remains a plan.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:06:45–00:09:00; 01:14:00–01:19:00; 02:09:00–02:11:30; 02:48:00–02:52:00; 03:59:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.

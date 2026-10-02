@@ -38,3 +38,12 @@ Maochao arrives aboard the White Fang, resists Emeric’s Calm, and attacks Cole
 [^s003]: Supplied Session 3 transcript, 1375–1545, 2425–2495, 3219–3555. No verified audio timestamps or independent speaker alignment.
 
 [^portrait-confirmation]: User portrait-identity confirmation, line 1 (Irdra is the general at the gate) and line 3 (meow-shau depicts the White Fang’s captain; his name’s spelling remains unconfirmed).
+
+
+# Session 5 — retirement celebration
+
+[Smidgen](smidgen.md) identifies the general as the White Fang’s captain holding a retirement party in [Alora Valley](../places/alora-valley.md), while refusing to rest until the pursued people are caught. At session end a rakshasa in party clothes with a rapier is visible at that gathering. Bindings, recovered possessions and eight coffin-like containers stand near the stage. His canonical spelling remains unconfirmed; “Mao Shao / Meowsh / Miasha” are further transcription forms, not approved aliases.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 03:45:00–03:49:00; 04:13:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.

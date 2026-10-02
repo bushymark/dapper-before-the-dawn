@@ -33,6 +33,11 @@ description: Characters — campaign history and connections.
 - [Irdra — general at the gate](general-at-the-barrier.md)
 - [Whipperwill’s captain — name unknown](wickerwill-captain.md)
 
+- [Recknar — the mysterious blacksmith](mysterious-blacksmith.md)
+- [Smidgen — the patchwork](smidgen.md)
+- [Tallow — spelling provisional](tallow.md)
+- [Yan Savos — spelling provisional](yan-savos.md)
+
 ### Other beings
 
 - [Apherion](apherion.md)

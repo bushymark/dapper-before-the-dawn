@@ -70,3 +70,12 @@ At the wreck, Cole recognizes something associated with Emeric’s gauntlet or i
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 108–122, 422–440, 795–807, 881–883, 910–921, 956–1008. No independently verified audio timestamp or speaker alignment.
 
 [^s004-mantle-correction]: User correction note, line 1: the end-of-session word is “mantle,” not “mental,” and is very significant in world lore. This clarifies the same exchange rendered “mentor” at original paragraph 1004 and “mental” at 1008–1009.
+
+
+# Session 5 — the deadline disclosed
+
+Emeric publicly reveals the roughly thirty-hour support limit, the unspecified possibility of extension and his refusal to accept further group bargains alone. He says the presence could not find their bodies and used available material instead. This supersedes his nondisclosure at the end of Session 4. His healing supplies, gifted sword and orb are missing from the wreck. At the forge he recognizes the smith’s sleeplessness, malnourishment and distress; the party leaves without establishing the man’s later fate.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 00:09:00–00:10:26; 00:20:25–00:25:00; 01:45:00–01:48:30; 02:44:30–02:46:30. Local machine transcription; no independent audio listening or speaker diarization.

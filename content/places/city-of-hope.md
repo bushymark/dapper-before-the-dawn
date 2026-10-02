@@ -31,3 +31,12 @@ Travelers encounter a patchwork city that built upward to avoid creating an excl
 [^user-spelling]: User correction in this campaign-wiki chat on 2026-09-30; preserved correction record.
 
 [^transcript]: Supplied transcript lines 791–915.
+
+
+# Session 5 — population estimate
+
+Therica gives **845** as Dochas Ùr’s population while discussing its rebuilding and the differences between Rios and Eok. This is her estimate in that conversation, replacing neither earlier approximate testimony nor an unavailable census.[^s005]
+
+[Session 5](../sessions/session-005-combined.md).
+
+[^s005]: Original recording, 03:06:00–03:10:30. Local machine transcription; no independent audio listening or speaker diarization.
