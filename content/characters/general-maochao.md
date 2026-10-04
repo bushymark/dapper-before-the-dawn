@@ -47,3 +47,12 @@ Maochao arrives aboard the White Fang, resists Emeric’s Calm, and attacks Cole
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 03:45:00–03:49:00; 04:13:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+The general remains a significant threat at the retirement stage. Later he studies a map while coordinates are read out and possessions are taken off a table; a concerned page supplies news. His attention shifts away from the coffins to a problem the party cannot identify. The Court’s spoken rank for him is rendered “preface,” with its spelling unresolved. The party has not fought him again or executed the diversion.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:54:00–00:56:00; 01:51:00–01:54:00; 02:02:00–02:04:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

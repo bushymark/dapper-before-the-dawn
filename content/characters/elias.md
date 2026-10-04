@@ -53,3 +53,12 @@ Elias’s badly damaged robotic feline returns from the bushes. He identifies hi
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:14:15–00:18:30; 00:35:00–00:43:30; 00:55:00–00:57:10; 04:00:00–04:04:00. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Elias proposes the two-team plan and modifies existing theatrical effects into a larger diversion with Cole’s help. He describes it as copying known work, but the GM says the modification could count against his continuing invention restriction. Haskel permits him to proceed after a private conversation about ambition and doing good; this does not clear him legally. Elias later intends to imitate the coffin-opening symbol after watching Haskel, but has not done so. His damaged mechanical feline is considered as a possible carrier, not shown transporting a coffin.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:58:30–01:01:00; 01:16:00–01:29:59; 01:39:00–01:43:00; 02:04:00–02:05:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

@@ -56,3 +56,12 @@ Therica travels in a clay/polymer action-figure-like body and requests rest afte
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 01:22:00–01:24:00; 03:07:00–03:10:30; 04:11:00–04:13:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Therica joins the diversion team. At the theater tent she knocks a page unconscious with a chair and hides him beneath costumes; he is not killed. She reports from Smidgen that the town chooses its mayor by whoever can sit on a throne of bees longest. She recalls a Forged founding Pillar when the group offers refuge in Rios, while the actual state of Dochas Ùr’s leadership remains unknown. Her temporary form is also deteriorating.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 01:02:00–01:04:00; 01:06:00–01:10:30; 02:00:00–02:02:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

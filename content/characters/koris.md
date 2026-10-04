@@ -43,3 +43,12 @@ Koris recovers her enchanted satchel intact but emptied; the telescope, tuition 
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:10:26–00:20:20; 00:30:20–00:31:10; 01:53:00–01:58:00; 02:12:00–02:40:30; 04:05:00–04:13:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Koris accompanies Maren, Emeric and Therica to the theater tent and is entrusted with the prepared diversion device. Her enchanted backpack is not an extradimensional space large enough to store the group’s bodies. Apherion proposes testing whether her crocodile-like form returns after death; Emeric explicitly rejects it. No experiment occurs. The later recovery discussion makes collecting the Citizens’ victus objects a requirement, not optional loot.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:31:00–00:38:00; 01:06:00–01:10:30; 01:18:00–01:21:59; 02:25:00–02:27:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

@@ -25,3 +25,12 @@ Dayne’s household context identifies the Glass Needle as an academy connected 
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:34:00–00:36:00; 03:31:00–03:32:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Dayne invokes the Glass Needle’s authority while offering to take responsibility for Elias. The GM clarifies that his prestigious academy voice can influence decision-makers but cannot make Court rules bend for him. An earlier envoy proposal refers to “Golden Needle”; whether it names the same institution remains unknown.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:17:18–00:17:30; 00:40:00–00:54:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

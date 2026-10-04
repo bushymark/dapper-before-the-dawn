@@ -28,3 +28,12 @@ She provides **five sausage links** for the starving wolves the party hopes to h
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+The party remains sheltered in Smidgen’s home while preparing its rescue. Her worship for the day is described as Pazuzu, god of birds. When a grain-tower bell rings, she explains that an eastern settlement sends notice before a new day begins. The settlement’s name and the reason for advance dawn knowledge remain unconfirmed. Therica attributes the town’s throne-of-bees mayoral custom to her.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:04:53–00:05:25; 01:02:00–01:04:00; 01:34:00–01:35:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

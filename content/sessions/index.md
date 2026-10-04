@@ -14,3 +14,5 @@ Wiki home
 - [September 30 — Session 4: astral escape and borrowed bodies](session-004-combined.md)
 
 - [October 1 — Session 5: the silent forge and a play within a play](session-005-combined.md)
+
+- [October 2 — Session 6, Citizens and Drifters](session-006-combined.md): trust, disguises and preparations before dawn.

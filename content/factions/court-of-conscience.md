@@ -85,3 +85,12 @@ The Citizens discuss [the Fall](../lore/the-fall.md), conditional legal exposure
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:32:00–00:57:10; 02:27:00–02:38:30; 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+The party learns more about [Court roles and judgment](../lore/court-roles-and-judgment.md): case-by-case hearings, archivists who can mark criminals through victus, and the difference between influential scholarly testimony and power to waive rules. Haskel’s supervision of Elias remains an obstacle to separating the team. The Court’s guarded coffins can be opened through a traced symbol. Elias’s modified diversion is not automatically lawful merely because it uses existing effects; no new judgment is issued.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:40:00–00:54:00; 01:22:00–01:29:59; 01:46:00–01:56:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

@@ -43,3 +43,12 @@ Dayne comforts Koris, discusses the Court and his family obligations, and partic
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:19:33–00:20:25; 00:33:00–00:42:00; 02:53:00–03:00:00; 03:39:00–03:42:00; 04:11:00–04:13:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Dayne offers to take responsibility for Elias and Haskel, but Haskel will not transfer custody. Dayne wants to return to his children; his academy position can influence important listeners without placing him above Court rules. He joins Cole, Haskel and Elias on recovery, with loading the bodies among his proposed tasks. His scholarly importance does not establish a formal Court rank or a completed employment arrangement.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:40:00–00:58:00; 00:58:30–01:01:00; 02:06:00–02:11:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

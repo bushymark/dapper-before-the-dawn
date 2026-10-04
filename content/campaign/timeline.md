@@ -98,3 +98,12 @@ The combined party resolves wreck equipment, learns the temporary-body deadline,
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:00:03–00:29:59; 01:22:00–02:53:00; 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# October 2 — Session 6
+
+**Friday, October 2, 2026 — combined Session 6:** All Citizens and Drifters continue the Alora recovery plan. Therica incapacitates and conceals a page; Maren retrieves theatrical materials; Emeric prepares disguises; Elias assembles the diversion. Haskel grants conditional access to the coffins. The general receives unexplained coordinate information. The session ends before the main operation, with dawn approaching and the temporary forms deteriorating. The later table discussion defines recovery conditions without narrating their execution.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:05:04–02:27:55. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

@@ -40,3 +40,12 @@ Therica gives **845** as Dochas Ùr’s population while discussing its rebuildi
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 03:06:00–03:10:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+The group offers a possible home in Rios if the Citizens lose their place in Eok, recalling that a Forged was among Dochas Ùr’s founding Pillars. Haskel is willing to consider refuge only if it does not bring war. Therica’s authority is discussed alongside the realization that the party may have been away for more than a month. Whether House Glaren has taken power remains unknown; no asylum decision or return occurs.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 01:59:00–02:02:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

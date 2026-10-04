@@ -33,3 +33,14 @@ A Forged from Rios named **[Yan Savos](../characters/yan-savos.md)** reportedly 
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:25:00–00:29:59; 01:22:00–01:29:30; 02:27:00–02:38:30; 02:44:00–02:46:30; 02:53:00–03:06:30; 03:50:00–03:52:00. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — recovery limits and revised assumptions
+
+The assumption that officials definitely severed the party’s links is revisited: the Court appears puzzled by the failure to revive them, and any severance could have been undone for questioning. This is a later assessment, not proof of the exact procedure used. It qualifies the Session 4 account without erasing it.
+
+The GM’s final clarification requires dawn within covered territory, body–soul proximity and recovery of the Citizens’ victus objects. The plot reaches from Alora toward the smith’s forge and stops there. Escape beyond it with dead companions does not guarantee return. Temporary-form expiry and violent destruction are not fully interchangeable, and no collapse experiment is performed. Possible capture/Fall consequences are discussed conditionally, not suffered on-screen.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:23:14–00:27:07; 02:15:00–02:27:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

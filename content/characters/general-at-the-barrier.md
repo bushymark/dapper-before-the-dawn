@@ -38,3 +38,12 @@ Nathaniel said the woman from Maren’s dream was well known. Her wider reputati
 [^sea-dictation]: User retrospective note, heading “sea journey, Howl crossing and Eok testimony”: paragraphs 1–2 (captain, affliction and Titans), 3–4 (Howl crossing and perceptions), 5–8 (Nathaniel’s fragmentary Eok account and within-note victus correction).
 
 [^portrait-confirmation]: User portrait-identity confirmation, line 1 (Irdra is the general at the gate) and line 3 (meow-shau depicts the White Fang’s captain; his name’s spelling remains unconfirmed).
+
+
+# Session 6 — recollection of the Rios visit
+
+During the recovery discussion, the Rios party recalls Irdra’s visit to the barrier about fourteen years earlier: the invitation to join the Court and the proposed return of two to three hundred emissaries. Court-side knowledge places the former leaders’ imprisonment close to the fleet’s journey and describes Irdra recommending trade while leaving Rios to itself after the refusal. No present vendetta is known. These recollections provide another account of the visit; they do not prove that Maren was the child in his dream or settle its historical truth.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 01:53:00–01:57:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

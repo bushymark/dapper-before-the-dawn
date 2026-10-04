@@ -79,3 +79,12 @@ Emeric publicly reveals the roughly thirty-hour support limit, the unspecified p
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:09:00–00:10:26; 00:20:25–00:25:00; 01:45:00–01:48:30; 02:44:30–02:46:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Emeric’s temporary thumb begins coming loose. With the party’s consent, he asks Apherion what is required for restoration and promises to relay its words without editing. He rejects testing death on a companion and reassures Koris when the presence proposes her as an experiment. He assembles a vampire-wizard disguise for Maren and joins the performance team. The presence’s uncertainty leaves collapse consequences unresolved.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:20:57–00:33:00; 00:58:30–01:16:59. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

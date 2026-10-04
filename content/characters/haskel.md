@@ -43,3 +43,12 @@ Haskel maintains low gravity during travel. A legal assessment distinguishes the
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:53:00–00:57:10; 01:14:00–01:17:00; 02:12:00–02:19:00; 02:38:00–02:42:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Haskel insists Elias remain under his supervision and refuses Dayne’s offer to take over. He fears imprisonment and losing his hard-won station, yet agrees that the bodies should be returned before proceedings. He privately questions Elias’s intentions while allowing the enlarged diversion to proceed despite its legal risk. He agrees to open the coffins on a promise of no further murder. Possible refuge in Rios is discussed, conditional on avoiding war; no relocation or surrender occurs.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:35:00–00:58:00; 01:22:00–01:29:59; 01:46:00–02:02:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

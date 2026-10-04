@@ -15,3 +15,5 @@ Wiki home
 - [The Citizens](the-citizens.md)
 
 - [The Bloom](the-bloom.md)
+
+- [Theater of the Mind Flayer](theater-of-the-mind-flayer.md) — title spelling provisional.

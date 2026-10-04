@@ -19,3 +19,5 @@ Wiki home
 - [Glass Needle — provisional](glass-needle.md)
 
 - [First Woods — spelling provisional](first-woods.md)
+
+- [Resolute](resolute.md) — guarded airship, spelling provisional.

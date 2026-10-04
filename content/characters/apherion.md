@@ -44,3 +44,12 @@ The gauntlet privately urges Emeric not to waste daylight, and offers to tell hi
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:20:25–00:25:00; 01:45:00–01:46:00. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Emeric asks for restoration instructions and openly relays the response. Apherion considers life and death similar superimposed states and broadly agrees with the party’s understanding, but cannot guarantee what complete temporary-body collapse means. It suggests testing death on a companion and then on Koris’s crocodile-like form. Emeric refuses. Its reference to someone stronger does not establish a new identity, ancestry or mantle mechanic. No further sacrifice or bargain is completed.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:27:18–00:33:00; 01:41:00–01:42:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

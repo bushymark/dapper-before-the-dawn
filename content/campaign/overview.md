@@ -52,3 +52,12 @@ The party is in Alora Valley in temporary forms, now aware of the approximate su
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:20:25–00:29:59; 01:22:00–01:29:30; 02:38:00–02:42:00; 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# State after Session 6
+
+The group prepares its rescue in Alora: theater supplies are taken, disguises prepared, and an enlarged diversion assembled. Haskel agrees to open the guarded coffins on a no-further-murder promise. The plan includes collecting the Citizens’ victus objects and remaining within resurrection coverage for dawn. Play stops before the fireworks, main confrontation, body recovery or resurrection. The general has been distracted by unexplained map coordinates; the home leadership question remains unresolved.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 01:06:00–01:29:59; 01:59:00–02:27:55. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

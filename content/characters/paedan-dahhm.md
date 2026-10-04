@@ -27,3 +27,12 @@ The party learned that Therus had turned in his parents and that they were servi
 [^arrival-dictation]: User retrospective note, heading “arrival, Court leadership and airship captain”: paragraphs 1–2 (Therus, Paedan and Morgaen), paragraph 3 (reported gods, city levels, Maochao and species observed).
 
 [^audience-dictation]: User retrospective note, heading “Therus audience and restricted movement”: paragraph 1 (ship, cube and encounter space), 2 (child, family and leadership), 3 (guardian-beast claims), 4 (rejection), 5 (mental-link access), 6 (escort and restrictions).
+
+
+# Session 6 — preparations before dawn
+
+The discussion of Irdra’s Rios visit places Paedan and his wife’s imprisonment close to that fleet’s journey. The source does not establish the imprisonment’s exact cause or prove the visit caused it. Their son’s succession and the earlier audience remain recorded separately.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 01:54:00–01:56:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

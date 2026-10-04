@@ -95,3 +95,12 @@ The Drifters repeatedly explain that the sun’s shattering and the nearby falli
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 01:00:00–01:09:00; 03:19:00–03:42:00; 04:13:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+The immediate priority remains body recovery. A guarded [Resolute](../places/resolute.md) has arrived in Alora, with other airships nearby. Another seizure is discussed as an escape possibility, but whether it would summon a guardian beast remains unproved. No renewed airship acquisition or sky investigation occurs.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 02:20:00–02:26:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

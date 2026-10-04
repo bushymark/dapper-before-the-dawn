@@ -71,3 +71,12 @@ Cole retrieves a bent crowbar and lifting belt; his pike and shield are absent. 
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:06:45–00:09:00; 01:14:00–01:19:00; 02:09:00–02:11:30; 02:48:00–02:52:00; 03:59:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Cole argues for reducing the number of simultaneous threats rather than taking on the general and the whole garrison together. He joins Haskel, Dayne and Elias on body recovery, assists Elias’s diversion preparations and considers how his lifting belt can move the coffins. The final approach is to open them and use the cart for the bodies. The no-further-murder promise remains part of the agreement; no rescue fight occurs.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:54:00–01:01:00; 01:19:00–01:20:59; 01:37:00–01:46:00; 01:59:00–02:11:59. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

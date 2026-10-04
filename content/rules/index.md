@@ -14,3 +14,5 @@ Wiki home
 - [Session 4 adjudications](session-004-adjudications.md)
 
 - [Session 5 adjudications](session-005-adjudications.md)
+
+- [Session 6 adjudications](session-006-adjudications.md).

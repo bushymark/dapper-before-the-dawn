@@ -70,3 +70,12 @@ Maren retains rope and robe but finds potions, kits and staff missing. His quest
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:03:03–00:06:40; 01:50:00–01:53:30; 02:53:00–03:10:00; 03:59:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+Maren’s theater proposal becomes part of a split diversion. He transports pyrotechnic supplies quietly between the tent and Elias, while Emeric prepares his vampire-wizard disguise. He will perform with Emeric, Koris and Therica to give the recovery team a window. A proposed new bonding procedure is deferred rather than completed; the party instead plans to relay through existing links. The play has not begun.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:05:04–00:18:27; 00:58:30–01:21:59; 02:06:00–02:14:59. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

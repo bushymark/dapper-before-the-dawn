@@ -12,3 +12,5 @@ Wiki home
 - [Resurrection plots and victus](resurrection-plots-and-victus.md)
 - [The Fall](the-fall.md)
 - [The blacksmith’s cursed blade](blacksmiths-cursed-blade.md)
+
+- [Court coffins](court-body-containment-coffins.md) · [Court roles and judgment](court-roles-and-judgment.md).

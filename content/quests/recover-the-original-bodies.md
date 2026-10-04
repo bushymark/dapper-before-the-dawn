@@ -35,3 +35,12 @@ Emeric discloses the roughly thirty-hour limit to the party, superseding the pre
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:20:25–00:29:59; 03:42:00–04:15:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 6 — preparations before dawn
+
+The recovery plan now has two teams: Koris, Maren, Emeric and Therica provide performance/pyrotechnic diversion, while Cole, Haskel, Dayne and Elias open the coffins and load the bodies onto the cart. The supplies are retrieved and the diversion assembled, but its check and activation are deferred. Haskel conditions opening on no further murder. The Citizens’ victus possessions must be collected as well. Dawn, plot coverage and body–soul proximity limit escape; violent destruction is not guaranteed safe. No coffin is opened or body recovered. The final allocation of fighting, loading and retreat remains dependent on what the distraction actually achieves.[^s006]
+
+[Session 6](../sessions/session-006-combined.md).
+
+[^s006]: Original recording, 00:58:30–01:21:59; 01:37:00–01:46:00; 01:59:00–02:27:55. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.

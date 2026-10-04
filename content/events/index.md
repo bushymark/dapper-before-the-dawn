@@ -23,3 +23,5 @@ Wiki home
 - [Physical return in victus amalgams](session-004-physical-return.md)
 
 - [Session 5 — forge discovery and Alora arrival](../sessions/session-005-combined.md)
+
+- [The Alora theater supply raid](theater-supply-raid.md).
