@@ -9,6 +9,9 @@ character_role: PC
 party: the-citizens
 ---
 
+![Portrait of Dayne](../assets/portraits/dayne.png)
+
+
 # Identity
 
 **Dayne** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
@@ -52,3 +55,12 @@ Dayne offers to take responsibility for Elias and Haskel, but Haskel will not tr
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:40:00–00:58:00; 00:58:30–01:01:00; 02:06:00–02:11:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Dayne exchanges respect for scholarship and dialogue with Maren, then stands beside Cole to defend Haskel and Elias. An improvised flaming torch takes on purpose in his grip. The general suplexes him through a greenhouse; Dayne responds with a powerful critical strike that breaks the torch. He is subsequently wounded unconscious and carried as leverage, stabilizes, and receives five vitality from Emeric. The last claw swipe leaves him barely conscious. Elias’s lynx helps him reach the cart. He returns to an older human body of poised bearing, with black hair and silver streaks; his wedding-ring victus and pocket watch are recovered. Contacting his family remains urgent and unresolved.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:03:00–00:05:40; 00:47:00–00:52:00; 01:27:00–01:41:30; 02:02:00–02:11:30; 02:25:00–02:31:40; 02:34:00–02:41:30; 02:59:00–03:00:50; 03:04:00–03:08:30.

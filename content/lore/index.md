@@ -14,3 +14,6 @@ Wiki home
 - [The blacksmith’s cursed blade](blacksmiths-cursed-blade.md)
 
 - [Court coffins](court-body-containment-coffins.md) · [Court roles and judgment](court-roles-and-judgment.md).
+
+- [Mechanical gorgons](mechanical-gorgons.md).
+- [Elias’s mechanical lynx](elias-mechanical-lynx.md).

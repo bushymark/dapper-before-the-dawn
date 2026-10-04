@@ -44,3 +44,12 @@ The GM’s final clarification requires dawn within covered territory, body–so
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:23:14–00:27:07; 02:15:00–02:27:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+The remaining binder sustains a spell that immediately restores the general after Cole’s killing blow; the effect persists through Dayne’s follow-up. Killing the binder by a fall ends that support. This immediate combat restoration is distinct from the group’s return at dawn. After recovering all eight original bodies and the Citizens’ victus objects, the temporary forms fail in the woods and all eight people awaken in their originals. Dayne’s victus is a wedding ring; Haskel’s is a compass; Koris’s is a decorated straw hat. Later tracking/destruction concerns and whether contributing essence changed the objects remain unresolved; none is destroyed.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:58:00–01:02:50; 01:11:00–01:13:30; 02:18:00–02:19:00; 02:25:00–02:31:40; 02:47:00–02:59:00; 03:04:00–03:08:30.

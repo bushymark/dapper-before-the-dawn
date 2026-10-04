@@ -107,3 +107,12 @@ The combined party resolves wreck equipment, learns the temporary-body deadline,
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:05:04–02:27:55. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+**October 4,2026 — combined Session 7, all players.** The retirement diversion is performed; a fight follows, one binder dies, the general is partly petrified but survives, and Bernard offers limited aid. The party escapes with all eight original bodies and returns to them at dawn in the woods. Further flight continues, with family contact, refuge and Court status unresolved.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:00:00–03:08:30.

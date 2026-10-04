@@ -56,3 +56,12 @@ The general remains a significant threat at the retirement stage. Later he studi
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:54:00–00:56:00; 01:51:00–01:54:00; 02:02:00–02:04:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+The general is captivated by the retirement play but notices the recovery team. He demands Haskel’s surrender and fights with a rapier, exposed counterstrike, riposte, disarm and focused pursuit. Binder support immediately restores him after Cole kills him; after Elias’s lynx kills the binder, that support ends. He suplexes Dayne through a greenhouse, wounds him unconscious and carries him as leverage. Therica’s diverted gorgon shot partly petrifies and blinds him. He still injures Dayne with his claws, but is left alive as Bernard enables the party’s escape. Cole’s final demand that he retire succeeds as intimidation and draws a tear; actual retirement is not shown. The name’s spelling remains unconfirmed.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:15:20–00:34:00; 00:45:00–01:13:30; 01:27:00–01:29:30; 02:02:00–02:04:30; 02:26:30–02:28:30; 02:36:30–02:47:00.

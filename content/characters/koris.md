@@ -9,6 +9,9 @@ character_role: PC
 party: the-citizens
 ---
 
+![Portrait of Koris](../assets/portraits/koris.png)
+
+
 # Identity
 
 **Koris** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
@@ -52,3 +55,12 @@ Koris accompanies Maren, Emeric and Therica to the theater tent and is entrusted
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:31:00–00:38:00; 01:06:00–01:10:30; 01:18:00–01:21:59; 02:25:00–02:27:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Koris lends the cursed blade to Cole while insisting it remains in her charge. She handles the pyrotechnic diversion, and Swamp Poppy nonlethally subdues the shield guard. Poppy later attacks the general and dismisses as the gorgon petrifies his leg. Koris retrieves Dayne’s pocket watch and selected belongings while leaving her tuition money; her mother’s handkerchief is accounted for in her box. At dawn she returns as a small white-furred traveler with lavender eyes, pink nose and a decorated straw-hat victus with a large red flower and woven vines. Destruction of her victus is debated but does not happen.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:05:40–00:09:40; 00:23:00–00:26:00; 01:13:50–01:20:30; 01:49:00–01:53:00; 02:28:00–02:31:40; 02:55:00–02:57:20; 03:04:00–03:06:50.

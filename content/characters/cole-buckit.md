@@ -80,3 +80,12 @@ Cole argues for reducing the number of simultaneous threats rather than taking o
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:54:00–01:01:00; 01:19:00–01:20:59; 01:37:00–01:46:00; 01:59:00–02:11:59. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Koris permits Cole to wield the cursed blade while retaining her claim to it. He and Dayne defend the others against the general. His first critical strike kills the general only for binder magic to restore him; later attacks badly wound him after that support ends. A golden humanoid outline accompanies Sure Strike after the sword’s effect triggers with an ally dying; its identity and full effect remain unresolved. Cole pulls the getaway cart and calls for the general to retire; the successful intimidation does not prove retirement occurred. At dawn he returns to his armored body of flame, lightning and wind, with no visible flesh.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:05:40–00:08:50; 00:54:00–01:02:50; 01:31:00–01:37:30; 02:04:00–02:10:30; 02:39:00–02:47:00; 02:53:00–02:55:00.

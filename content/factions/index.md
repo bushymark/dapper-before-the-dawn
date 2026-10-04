@@ -17,3 +17,5 @@ Wiki home
 - [The Bloom](the-bloom.md)
 
 - [Theater of the Mind Flayer](theater-of-the-mind-flayer.md) — title spelling provisional.
+
+- [The Leading Men — title provisional](the-leading-men.md).

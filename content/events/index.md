@@ -25,3 +25,5 @@ Wiki home
 - [Session 5 — forge discovery and Alora arrival](../sessions/session-005-combined.md)
 
 - [The Alora theater supply raid](theater-supply-raid.md).
+
+- [Alora escape and restoration](alora-escape-and-restoration.md).

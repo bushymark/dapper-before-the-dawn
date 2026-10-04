@@ -94,3 +94,12 @@ The party learns more about [Court roles and judgment](../lore/court-roles-and-j
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:40:00–00:54:00; 01:22:00–01:29:59; 01:46:00–01:56:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Court forces oppose recovery at Alora: binders provide spell support, a forward guard uses an anti-magic mirror shield, and a mechanical gorgon approaches with petrifying light. One binder dies in a fall; another binder and the shield guard are subdued nonlethally. Bernard von Kepler intervenes after receiving Haskel’s Astral Sea account and promises to speak to the Court. No institutional pardon or protection guarantee follows; the party flees.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:35:00–01:20:30; 02:11:30–02:45:30.

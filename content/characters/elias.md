@@ -9,6 +9,9 @@ character_role: PC
 party: the-citizens
 ---
 
+![Portrait of Elias](../assets/portraits/elias.png)
+
+
 # Identity
 
 **Elias** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
@@ -62,3 +65,12 @@ Elias proposes the two-team plan and modifies existing theatrical effects into a
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:58:30–01:01:00; 01:16:00–01:29:59; 01:39:00–01:43:00; 02:04:00–02:05:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Elias learns the coffin gesture, while his restrained fireworks leave visible evidence on a critical crafting failure. He adopts the rescued mechanical lynx as his invention and commands it to tackle the remaining binder from the tower; the fall kills the binder. His knowledge check reveals that mirror shields cannot reflect gorgon petrification. He collects Dayne’s wedding-ring victus and Maren’s key, then directs the lynx to help Dayne escape. At dawn he returns as a sickly-looking, scarred man in his forties, with a full clockwork arm and dull green eyes. He works on the cart’s damaged wheel, and later considers whether giving essence during the Astral escape altered the victus objects. No answer or victus destruction follows.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:12:20–00:15:20; 00:23:00–00:25:00; 01:09:00–01:13:30; 02:23:00–02:26:30; 02:39:00–02:41:30; 03:00:50–03:08:30.

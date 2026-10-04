@@ -61,3 +61,12 @@ The group prepares its rescue in Alora: theater supplies are taken, disguises pr
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 01:06:00–01:29:59; 01:59:00–02:27:55. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+The combined party escapes Alora with eight original bodies and the Citizens’ victus objects, then returns to those bodies at dawn. The general survives partly petrified; Bernard promises limited assistance and Court testimony. Airship access, the sky investigation, family contact and legal status remain unresolved.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 02:11:30–03:08:30.

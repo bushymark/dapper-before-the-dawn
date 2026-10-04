@@ -1,7 +1,8 @@
 ---
 type: Quest
 title: Recover the original bodies
-description: Recover the guarded bodies in Alora before the temporary forms fail.
+description: Original bodies recovered and restored at dawn after the Alora escape;
+  legal status remains unresolved.
 tags:
 - dapper-before-the-dawn
 - session-4
@@ -44,3 +45,12 @@ The recovery plan now has two teams: Koris, Maren, Emeric and Therica provide pe
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:58:30–01:21:59; 01:37:00–01:46:00; 01:59:00–02:27:55. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+The immediate recovery succeeds: Haskel teaches Elias the opening gesture, the coffins are unlocked and all eight original bodies loaded onto the cart. The Citizens’ victus objects are retrieved. After the fight and escape, the temporary forms collapse at dawn in the woods and all seven PCs and Therica awaken in their original bodies. Selected equipment is saved, but the hurried inventory does not establish complete recovery of every possession. Escape, restoration and body retrieval do not clear Court charges.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:12:20–00:15:20; 00:26:00–00:32:30; 02:18:00–02:19:00; 02:25:00–02:49:30.

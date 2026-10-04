@@ -18,3 +18,12 @@ Cole strikes him in an apparent attempt to knock him unconscious. He falls bleed
 [Session 3](../sessions/session-003-combined.md).
 
 [^s003]: Generated transcript lines 397–405, 537–595, 2685–2741.
+
+
+# Session 7 — escape and return
+
+A blind astronomer called Bernard von Kepler appears at Alora and helps Haskel negotiate an escape. He is described separately on the [Bernard page](bernard-von-kepler.md). Whether this is Whipperwill’s captain has not been explicitly settled; matching name and blindness alone do not establish the identity.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 02:11:30–02:22:30.

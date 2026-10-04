@@ -8,6 +8,9 @@ character_role: PC
 party: the-drifters
 ---
 
+![Portrait of Maren](../assets/portraits/maren.png)
+
+
 # Session history
 
 [September 28 session](../sessions/2026-09-28-drifters-s001.md) depicts Maren waking from the child-emissary dream, wearing a distinctive key and scholarly equipment, and preparing for the remembrance festival. He keeps the key rather than offering it to the ceremony. The folded cloak's cause is not established.[^transcript]
@@ -79,3 +82,12 @@ Maren’s theater proposal becomes part of a split diversion. He transports pyro
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:05:04–00:18:27; 00:58:30–01:21:59; 02:06:00–02:14:59. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Maren performs the wind of retirement beside Emeric, helps draw away the guards, and uses gusts to cut a binder’s scroll without killing him. His cloak shifts from moving tassels and urgency to rigid, plate-like folds and an immovable phalanx impression. Daze leaves the general off guard; Revealing Light dazzles him. Maren retrieves his staff and escapes. At dawn he returns to his young, freckled human body, about 5 feet 10 inches tall with shaggy reddish-brown hair. The restored appearance and portrait do not resolve his earlier dream.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:15:20–00:21:50; 00:36:00–00:43:30; 01:21:30–01:24:30; 01:53:00–01:56:00; 02:33:00–02:34:00; 02:48:00–02:52:30.

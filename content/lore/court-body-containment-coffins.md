@@ -20,3 +20,12 @@ Opening a container takes about **three actions**, described as six to ten secon
 [Recovery quest](../quests/recover-the-original-bodies.md), [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:18:28–00:20:31; 01:37:00–01:46:00; 02:04:00–02:11:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Haskel teaches Elias the gesture for immediate use, with retention uncertain without practice. The recovery team unlocks the coffins but is noticed while struggling to open them quietly. The original bodies are ultimately loaded onto the cart; the GM explicitly confirms this during the retreat. The scene does not assign every loading action to a specific character. All eight originals leave Alora.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:12:20–00:15:20; 00:26:00–00:32:30; 02:32:00–02:33:00; 02:46:00–02:49:30.

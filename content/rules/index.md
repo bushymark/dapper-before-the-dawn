@@ -16,3 +16,5 @@ Wiki home
 - [Session 5 adjudications](session-005-adjudications.md)
 
 - [Session 6 adjudications](session-006-adjudications.md).
+
+- [Session 7 adjudications](session-007-adjudications.md).

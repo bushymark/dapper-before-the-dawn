@@ -19,3 +19,12 @@ Therica knocks a page unconscious and hides him in the tent. Maren carries mater
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 01:06:00–01:21:59. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+The troupe’s borrowed supplies and rigging are used for Emeric and Maren’s retirement play, pyrotechnic diversion, and Therica’s lasso attempt. The successful performance enthralls the general, but visibly premature fireworks expose the diversion. No formal alliance with the troupe is established, and its title’s spelling remains provisional.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:15:20–00:26:00; 02:26:30–02:28:30.

@@ -25,3 +25,12 @@ Swamp Poppy is initially absent/unmanifested after death; Koris uses the full ma
 [^s003]: Generated transcript lines 1057–1365, 1797–1901; feline construct 2823–2833.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 130–184, 535–549, 858–865, 1009. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 7 — escape and return
+
+Swamp Poppy accompanies Koris into the Alora fight, nonlethally subdues the shield guard, then attacks the general. As the gorgon partly petrifies the general’s leg, Poppy dismisses rather than sharing that effect. The GM excludes Poppy from Emeric’s bonding ability; this ruling is scoped to the ability, not a statement about the souls of all companions.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:34:00–00:35:00; 01:13:50–01:20:30; 01:49:00–01:53:00; 02:28:00–02:29:30; 02:42:00–02:43:30.

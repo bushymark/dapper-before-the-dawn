@@ -65,3 +65,12 @@ Therica joins the diversion team. At the theater tent she knocks a page unconsci
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 01:02:00–01:04:00; 01:06:00–01:10:30; 02:00:00–02:02:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Therica first fails to interfere with the general from the stage rigging, then lassos the incoming mechanical gorgon. It lifts her away before the rope jerks its shot onto the general, partly petrifying him and sparing Dayne. She crashes onto the stage unconscious and dying; Emeric transfers five vitality to her, and she reaches the cart. At dawn she returns to her original body, described as a red-haired woman around 37 with marked skin. She urges continued flight rather than debating victus destruction at the clearing. She remains an NPC.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 01:20:30–01:21:20; 01:53:00–01:54:00; 02:26:30–02:36:30; 02:39:00–02:40:00; 02:48:00–02:50:00; 03:05:00–03:05:30.

@@ -53,3 +53,12 @@ Emeric asks for restoration instructions and openly relays the response. Apherio
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:27:18–00:33:00; 01:41:00–01:42:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+During the flight, Emeric’s temporary arm and gauntlet detach and melt away before he awakens in his original body. The narration does not separately establish what happened to Apherion, whether its link persists, or the future location of the gauntlet/presence.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 02:47:00–02:51:00.

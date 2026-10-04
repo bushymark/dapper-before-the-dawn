@@ -22,6 +22,8 @@ description: Characters — campaign history and connections.
 
 ## Non-player characters
 
+- [Bernard von Kepler — spelling provisional](bernard-von-kepler.md) — blind astronomer; relationship to Whipperwill’s captain unresolved.
+
 - [Therica Ashtongue](therica-ashtongue.md)
 - [Sledge](sledge.md)
 - [Nataniel — expectant father from Eok](eokian-expectant-father.md)

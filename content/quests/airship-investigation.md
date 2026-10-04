@@ -104,3 +104,12 @@ The immediate priority remains body recovery. A guarded [Resolute](../places/res
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 02:20:00–02:26:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+The party has escaped Alora and recovered its original bodies, but still has no airship or resolved explanation for the sun event. Haskel briefly considers taking Resolute, then seeks Bernard’s help instead. No ship is seized. The group ends in flight, considering refuge at the blacksmith’s mine and contact with Citizen families.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 02:11:30–02:22:30; 02:39:00–03:08:30.

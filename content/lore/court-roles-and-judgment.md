@@ -23,3 +23,12 @@ Elias’s enlarged diversion device could be evidence of disregarding his invent
 [Court of Conscience](../factions/court-of-conscience.md), [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:40:00–00:54:00; 01:22:00–01:29:59; 01:46:00–01:56:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Bernard von Kepler receives Haskel’s Astral Sea account, offers limited aid and promises to speak to the Court. He cannot guarantee safety and objects to discovery being paired with destruction. His intervention permits escape; it is not a pardon. The party’s precise legal disposition remains unresolved. His appearance fits the honored Bernard discussed earlier, but his relationship to Whipperwill’s blind captain remains unconfirmed.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 02:11:30–02:22:30; 02:38:00–02:43:00; 03:07:00–03:08:30.

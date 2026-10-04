@@ -88,3 +88,12 @@ Emeric’s temporary thumb begins coming loose. With the party’s consent, he a
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:20:57–00:33:00; 00:58:30–01:16:59. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Emeric stars as a vampire lord in the retirement play. Calm does not suppress the general after the spell-DC correction. He retrieves his orb, two victus objects and Koris’s belongings, and transfers five vitality each to Dayne and Therica during the retreat. His temporary arm and gauntlet detach and dissolve as the cart breaks at dawn; he then returns to a red-skinned, horned original body wearing purple and holding his orb. One horn is scarred. This scene does not separately establish Apherion’s continuing whereabouts.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:15:20–00:21:50; 00:32:00–00:34:00; 00:42:00–00:43:30; 01:25:00–01:27:00; 01:56:00–02:01:30; 02:34:00–02:36:30; 02:47:00–02:51:00.

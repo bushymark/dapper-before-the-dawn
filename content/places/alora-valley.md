@@ -35,3 +35,12 @@ The rural-looking settlement is described as vast despite having no obvious vall
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:03:16–00:05:25; 01:02:00–01:10:30; 01:30:00–01:37:30. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+The retirement celebration becomes a fight after the play/fireworks diversion draws off most guards. The party retrieves its bodies and selected possessions, while a mechanical gorgon partly petrifies the general. With Bernard’s intervention, all eight escape by cart into the woods and are restored at dawn. The gorgon is left intact and the general alive. The party does not return to Alora before the session ends.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:15:20–00:34:00; 02:11:30–02:49:30; 03:03:30–03:08:30.

@@ -9,6 +9,9 @@ character_role: PC
 party: the-citizens
 ---
 
+![Portrait of Haskel](../assets/portraits/haskel.png)
+
+
 # Identity
 
 **Haskel** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
@@ -52,3 +55,12 @@ Haskel insists Elias remain under his supervision and refuses Dayne’s offer to
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:35:00–00:58:00; 01:22:00–01:29:59; 01:46:00–02:02:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+Haskel teaches Elias the coffin-opening gesture with a requested promise against spreading violence or evil. He resists the general’s demand to surrender, attacks with gravity/force, and warns Cole about the general’s counters. He retrieves his compass victus and shares his Astral Sea experience with Bernard von Kepler, who promises limited aid and Court testimony without guaranteed safety. Haskel escapes a gorgon sweep through a low-gravity swimming motion. At dawn his original featureless metallic Forged body returns, with solid starlight-blue eyes; he dons a discarded theater wig and hides behind his high collar. He remains with the others, not pardoned or released from all duties.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 00:12:20–00:15:20; 00:30:00–00:32:30; 00:45:00–00:47:00; 01:03:00–01:09:00; 01:41:00–01:45:00; 02:18:00–02:22:30; 02:42:00–02:45:30; 02:57:00–02:59:00.

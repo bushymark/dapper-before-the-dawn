@@ -32,3 +32,12 @@ He gives the party a cart and offers shelter and use of the forge. Cole lights t
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 01:31:00–01:59:30; 02:00:00–02:53:00. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 7 — escape and return
+
+After restoration the group proposes hiding in the mine below his house and checking whether he needs help. Concern that he may be dead is speculation, not an observed death; neither a return visit nor aid occurs before the session ends.[^s007]
+
+[Session 7](../sessions/session-007-combined.md).
+
+[^s007]: Original recording, 03:03:30–03:06:15.

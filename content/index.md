@@ -14,6 +14,7 @@ A Pathfinder 2e campaign set twenty years after the Pillars of Dochas Ùr brough
 - [Session 4 — the return](sessions/session-004-combined.md)
 - [Session 5 — the silent forge and the planned heist](sessions/session-005-combined.md)
 - [Session 6 — trust, disguises and preparations before dawn](sessions/session-006-combined.md)
+- [Session 7 — the retirement play and escape at dawn](sessions/session-007-combined.md)
 - [Characters](characters/index.md) · [Places](places/index.md) · [Factions](factions/index.md)
 - [Events](events/index.md) · [Quests](quests/index.md) · [Lore](lore/index.md)
 - [Campaign timeline](campaign/timeline.md)

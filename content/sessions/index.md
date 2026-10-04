@@ -16,3 +16,5 @@ Wiki home
 - [October 1 — Session 5: the silent forge and a play within a play](session-005-combined.md)
 
 - [October 2 — Session 6, Citizens and Drifters](session-006-combined.md): trust, disguises and preparations before dawn.
+
+- [Session 7 — the retirement play and escape at dawn](session-007-combined.md) — October 4, all Citizens and Drifters.
