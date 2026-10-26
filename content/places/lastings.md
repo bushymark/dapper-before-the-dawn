@@ -7,6 +7,12 @@ tags:
 - the-drifters
 ---
 
+# Session 2 — before the Drifters
+
+The Citizens first come together while Dayne conducts a Glass Needle faculty interview. Koris enters through the visitor-time system; children demonstrate a heat-reactive invention; Dayne settles a shopkeeper confrontation before gorgons intervene. A platform accident ends without deaths but costs Finn his crown. The group departs aboard Whipperwill toward the school.[^s002-arrival][^s002-grimm][^s002-rescue][^s002-departure]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Arrival and observed layout
 
 The destination city, previously called Lastings, had upper and lower levels. While exploring, the party saw humans and other species in the upper level but noticed no orcs; they saw dwarves below but no elves. These are observations from the party’s route, not a complete census or proof of exclusion rules.[^arrival-dictation]
@@ -69,3 +75,11 @@ Dayne’s wife and two children are said to be in Lastings. The group discusses 
 [^s008-p2]: Original Part 2 recording; Part2 02:07–02:16; 02:54–02:58; supplied P214–223,283–290.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 02:07–02:16; 02:54–02:58; supplied P214–223,283–290.
+
+[^s002-arrival]: Original Session 2 recording, 00:07–00:18; 00:50–00:56. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-grimm]: Original Session 2 recording, 01:02–01:20; 01:38–01:45. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

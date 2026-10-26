@@ -7,11 +7,17 @@ tags:
 - session-4
 ---
 
+# Session 2 — before the Drifters
+
+Headmistress Vesper asks Dayne to assess a faculty candidate in Lastings. He rejects Dr. Ustalav and instead offers Elias a post, subject to Court arrangements, along with a route for the three inventors and Koris to present their work for admission and scholarships. The Glass Needle is visible as a pale-green, tapering tower linked by branching transport routes. The group sets off toward it aboard Whipperwill; arrival and completed enrollment are not shown.[^s002-road][^s002-interview][^s002-offer][^s002-departure]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # References
 
 Koris says she had intended to go to the Glass Needle to learn control of something transcribed as “my family,” whose exact referent is garbled. That object of study is not silently rewritten as family, familiar or powers. The tip of the Glass Needle is visible many miles from the wreck.[^s004]
 
-The Session 3 steering discussion also mentions this landmark below the airship. Its school/institution role is suggested by those exchanges, but full structure and canonical spelling remain unconfirmed.[^s004]
+The Session 3 steering discussion also mentions this landmark below the airship. Its role as a school is explicit in [Session 2](../sessions/session-002-citizens.md), while its full structure remains only partly described.[^s002-offer][^s004]
 
 [Koris](../characters/koris.md), [Alora lead](alora-valley.md).
 
@@ -20,7 +26,7 @@ The Session 3 steering discussion also mentions this landmark below the airship.
 
 # Session 5 — Academy pressures
 
-Dayne’s household context identifies the Glass Needle as an academy connected with his work and his wife’s dealings. Recent pressure is described to draw scholars, academics and scientists into it after a place rendered “Corvallis” is no more. That name and what happened there remain unresolved; the account does not explain Koris’s intended subject of study.[^s005]
+Dayne’s household context identifies the Glass Needle as an academy connected with his work and his wife’s dealings. Recent pressure is described to draw scholars, academics and scientists into it after a place rendered “Corvallis” is no more. The earlier [Corvallis account](corvallis.md) establishes a destroyed university city, while the exact disaster remains unresolved. This does not explain Koris’s intended subject of study.[^s005]
 
 [Session 5](../sessions/session-005-combined.md).
 
@@ -47,3 +53,11 @@ Dayne and the group consider reaching academics for useful information, while Ko
 [^s008-p2]: Original Part 2 recording; Part2 01:09–01:12; 02:12–02:15; supplied P107–109,220–221.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 01:09–01:12; 02:12–02:15; supplied P107–109,220–221.
+
+[^s002-road]: Original Session 2 recording, 00:00–00:07; 00:31–00:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-interview]: Original Session 2 recording, 01:46–02:02; 02:15–02:25. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

@@ -16,6 +16,12 @@ party: the-citizens
 
 **Koris** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
 
+# Session 2 — before the Drifters
+
+Koris arrives in Lastings from Ti’Swa seeking Glass Needle admission, bringing tuition, family keepsakes, cursed objects and Poppy. She gives some of her visitor time to a boy, then receives a week from Dayne. Poppy bites Ustalav during the struggle over the invention. Koris later takes temporary custody of the white-haired child’s heat-draining snow globe and promises to return it, bearing the cold herself. She joins the school-bound voyage. This is her collection before the later wreck, not a restoration of her missing possessions in Session 8.[^s002-arrival][^s002-rescue][^s002-globe][^s002-departure]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Adventures
 
 Koris calls forth the crocodilian companion Swamp Poppy to protect the children. It attacks Cole despite instructions to avoid hurting people. She crosses back toward the children with help from Maren’s wind, reassures them about their victus objects, and accompanies them across the gap after they grow wings. Ancestry and the mechanism behind the companion are unresolved.[^s003]
@@ -77,3 +83,11 @@ Koris’s foraging supplies food for five, supplemented by the old sausages so D
 [^s008-p2]: Original Part 2 recording; Part1 00:31–00:38; Part2 00:48–00:55; 01:07–01:12; 01:24–01:27; 03:12–03:14; supplied P18–26,83–89,105–109,142–146,292–295.
 
 [^s008-yt]: Supplied YouTube transcript; Part1 00:31–00:38; Part2 00:48–00:55; 01:07–01:12; 01:24–01:27; 03:12–03:14; supplied P18–26,83–89,105–109,142–146,292–295.
+
+[^s002-arrival]: Original Session 2 recording, 00:07–00:18; 00:50–00:56. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-globe]: Original Session 2 recording, 02:02–02:15; 02:35–02:40. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

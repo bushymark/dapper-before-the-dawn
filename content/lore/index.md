@@ -21,3 +21,5 @@ Wiki home
 - [The sun’s living cycle](the-suns-living-cycle.md).
 - [Guardian beasts](guardian-beasts.md).
 - [Koris’s cursed collection](koris-cursed-collection.md).
+
+- [Lifespan](lifespan.md) · [Whipperwill’s chain reactor](chain-reactor.md) · [The miner’s snow globe](white-haired-childs-snow-globe.md).

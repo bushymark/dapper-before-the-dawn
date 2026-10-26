@@ -8,6 +8,12 @@ tags:
 - session-5
 ---
 
+# Session 2 — before the Drifters
+
+Elias has been released after years of petrification but remains restricted from inventing and tinkering. Bernard refuses his request to alter the engine and places him in Haskel’s custody. A proposed teaching appointment needs Court arrangements; no full release from those restrictions is established.[^s002-ship][^s002-offer]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Sentence and return
 
 The Court’s punishment, rendered **the Fall** (also “falls”), petrifies a convicted person for a term chosen according to the offense. The explanation is that when person and society are incompatible, society may change while the person waits. Friends and loved ones may choose to accompany the prisoner after a public announcement. When the term ends, the debt is considered paid. The experience is described as instantaneous to the petrified person even though years pass outside.[^s005]
@@ -36,3 +42,7 @@ The GM recalls that friends or loved ones may voluntarily share someone’s sent
 [^s008-p2]: Original Part 2 recording; Part2 00:31–00:32; 02:07–02:23; supplied P68,214–240.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:31–00:32; 02:07–02:23; supplied P68,214–240.
+
+[^s002-ship]: Original Session 2 recording, 00:18–00:31; 02:31–02:35. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

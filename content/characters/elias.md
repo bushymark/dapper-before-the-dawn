@@ -16,6 +16,12 @@ party: the-citizens
 
 **Elias** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
 
+# Session 2 — before the Drifters
+
+Elias travels under Haskel’s supervision after release from the Fall. The ban on inventing and tinkering prevents him from modifying Whipperwill’s chain reactor. He advises the young inventors on their unstable material, then redirects it during the platform crisis despite glass cutting his hands. The GM says this also averts a much larger thermal catastrophe. Dayne offers him a teaching position subject to Court arrangements; Elias advocates for the children’s places. He later explains magic and science to Koris. His Corvallis materials remain sealed aboard the ship for eventual destruction; they are not destroyed in this session.[^s002-ship][^s002-rescue][^s002-offer][^s002-departure]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Adventures
 
 Elias helps get children below, activates a blue-glowing feline construct using his clockwork hand, and attempts to reroute the damaged engine for a time jump. The engine lacked sufficient power, forcing a fallback teleportation. The feline construct is distinct from Koris’s Swamp Poppy. Device names remain provisional.[^s003]
@@ -87,3 +93,11 @@ Elias’s surname is given as Silverstrand, with spelling still unconfirmed. He 
 [^s008-p2]: Original Part 2 recording; Part1 00:24–00:25; Part2 00:18–00:20; 00:31–00:42; 01:58–02:00; 03:14–03:17; supplied P18,57–58,68–77,195–197,299–302.
 
 [^s008-yt]: Supplied YouTube transcript; Part1 00:24–00:25; Part2 00:18–00:20; 00:31–00:42; 01:58–02:00; 03:14–03:17; supplied P18,57–58,68–77,195–197,299–302.
+
+[^s002-ship]: Original Session 2 recording, 00:18–00:31; 02:31–02:35. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

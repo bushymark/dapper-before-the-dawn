@@ -8,6 +8,12 @@ tags:
 - session-3
 ---
 
+# Earlier Citizens chapter
+
+The earlier [Citizens-only Session 2](session-002-citizens.md) ends with the Citizens and three children departing Lastings for Glass Needle aboard Whipperwill. Finn loses his crown during the preceding platform accident; no recovery is established. Bernard von Kepler is identified as the ship’s captain.[^s002-rescue][^s002-identity][^s002-departure]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Airship confrontation
 
 The Citizens are aboard a living-wood airship, called [Whipperwill](../places/wickerwill.md). The ship’s spelling is confirmed.[^s003-name-correction] Its blind captain, transcribed as Bernard/Berner/Burner, favors a traditional wheel and claims it gives him a feel for the living vessel. Three children travel with them. Masked boarders, affected by invisibility, emerge from below.[^opening]
@@ -94,3 +100,9 @@ At the next known point, the group is discussing a boat and an astral whale. Day
 [^s003-name-correction]: User correction note, line 1 (Whipperwill); line 2 (Apherion identifies the voice/presence and appears connected to Emeric, dictated “Emerich”). The connection’s nature is unconfirmed.
 
 [^s003-gap-recollection]: User retrospective gap note, line 3 (Elias’s apparent knowledge and theory), lines 5–7 (mass, speed and focus), line 9 (contributions, rune crafting, whale/ship plan and fire, water, lightning, earth), line 11 (scope). This is recollection, not recovered audio or transcript.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-identity]: Original Session 2 recording, 00:18–00:31; 02:31–02:35. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

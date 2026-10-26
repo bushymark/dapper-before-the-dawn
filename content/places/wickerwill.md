@@ -7,6 +7,12 @@ tags:
 - session-3
 ---
 
+# Session 2 — before the Drifters
+
+Bernard von Kepler captains the living-wood-and-metal airship, with Haskel accompanying Elias under release restrictions. A chain reactor supplies controlled energy through temporal splitting and recombination. Corvallis research materials remain sealed in the lower hold, intended for destruction. The Citizens and three young inventors depart Lastings for Glass Needle aboard her at the end of Session 2, before the contested boarding of Session 3.[^s002-ship][^s002-departure]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Vessel and name
 
 **Whipperwill** is the Citizens’ living-wood airship. Its blind [captain](../characters/wickerwill-captain.md) favors a traditional wheel. Later, a living boat appears in the cosmic passage and dislikes the name Whipperwill, requesting a new one. It appears to continue the airship’s story, but the transition is unexplained and no replacement name is known.[^s003-name-correction][^s003]
@@ -58,3 +64,7 @@ The party returns to the physical wreck and agrees to rebuild it. The two halves
 [^s008-p2]: Original Part 2 recording; Part2 01:24–01:27; 01:53–02:00; 03:14–03:17; supplied P142–146,184–197,299–302; targeted video Part2 03:14:05.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 01:24–01:27; 01:53–02:00; 03:14–03:17; supplied P142–146,184–197,299–302; targeted video Part2 03:14:05.
+
+[^s002-ship]: Original Session 2 recording, 00:18–00:31; 02:31–02:35. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

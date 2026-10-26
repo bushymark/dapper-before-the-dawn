@@ -22,7 +22,7 @@ description: Characters — campaign history and connections.
 
 ## Non-player characters
 
-- [Bernard von Kepler — spelling provisional](bernard-von-kepler.md) — blind astronomer; relationship to Whipperwill’s captain unresolved.
+- [Bernard von Kepler — spelling provisional](bernard-von-kepler.md) — blind astronomer and Whipperwill’s captain; spelling provisional.
 
 - [Therica Ashtongue](therica-ashtongue.md)
 - [Sledge](sledge.md)
@@ -39,6 +39,10 @@ description: Characters — campaign history and connections.
 - [Smidgen — the patchwork](smidgen.md)
 - [Tallow — spelling provisional](tallow.md)
 - [Yan Savos — spelling provisional](yan-savos.md)
+
+- [Dr. Ustalav](doctor-ustalav.md) — rejected faculty candidate, spelling provisional.
+- [The three young inventors](glass-needle-young-inventors.md) — Finn, Tunky and their white-haired friend.
+- [Shamus the Grimm](shamus-the-grimm.md) — Rios visitor, spelling provisional.
 
 ### Other beings
 

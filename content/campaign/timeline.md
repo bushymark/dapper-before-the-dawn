@@ -34,7 +34,13 @@ An audience was granted shortly after arrival. The party encountered Therus thro
 
 # Other adventures
 
-Session 2 featured the Citizens; those adventures are not yet chronicled here.[^ending-dictation]
+The [Citizens’ earlier journey](../sessions/session-002-citizens.md) precedes the combined Session 3. It was played September 29, 2026.[^s002-date][^s002-departure]
+
+# Session 2 — before the Drifters
+
+Before the Drifters’ boarding, the Citizens meet in Lastings, help three young inventors survive a platform accident and set off for Glass Needle aboard Whipperwill. Dayne rejects Ustalav, offers Elias a teaching role subject to Court arrangements and opens a scholarship route. Koris takes temporary custody of a heat-draining snow globe. Played September 29, 2026, these events belong before Session 3.[^s002-date][^s002-rescue][^s002-offer][^s002-globe][^s002-departure]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
 
 # September 29, 2026 — combined Session 3
 
@@ -129,3 +135,14 @@ The combined party resolves wreck equipment, learns the temporary-body deadline,
 [^s008-p2]: Original Part 2 recording; Part1 00:02–00:39; Part2 00:00–03:17; supplied P1–302.
 
 [^s008-yt]: Supplied YouTube transcript; Part1 00:02–00:39; Part2 00:00–03:17; supplied P1–302.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-globe]: Original Session 2 recording, 02:02–02:15; 02:35–02:40. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+
+[^s002-date]: User confirmation, “It was 1 day after session 1.” Session 1 is dated September 28, 2026; therefore Session 2 is September 29. Session 3 independently shares that play date. Packet prefix October 26 is the import date.

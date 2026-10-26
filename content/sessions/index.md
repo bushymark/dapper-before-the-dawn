@@ -7,6 +7,8 @@ description: Sessions — campaign history and connections.
 
 - [September 28 — Drifters Session 1 ](2026-09-28-drifters-s001.md)
 
+- [Session 2 — the Citizens and the Glass Needle](session-002-citizens.md) — September 29, 2026; earlier than Session 3.
+
 Wiki home
 
 - [September 29 — combined Session 3](session-003-combined.md)

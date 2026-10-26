@@ -8,6 +8,12 @@ tags:
 character_role: NPC
 ---
 
+# Session 2 — before the Drifters
+
+Poppy accompanies Koris on her first visit to Lastings, prevents a dangerous jump toward an elevator and later bites Ustalav in the neck during his struggle over the children’s vial. The attack contributes to the platform crisis; no one dies. Poppy subsequently helps stow the snow globe Koris has promised to care for.[^s002-arrival][^s002-rescue][^s002-globe]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Observations
 
 [Koris](koris.md) calls Swamp Poppy out of a bag in a dark, nightmarish manifestation. She instructs it to protect the children without harming anyone, but it attacks Cole. Its crocodilian face appears to melt and reform against Cole’s heat.[^s003]
@@ -47,3 +53,9 @@ The GM recap and player clarify that Poppy is an alligator rather than a crocodi
 [^s008-p2]: Original Part 2 recording; Part1 00:24–00:25; Part2 00:14–00:15; 00:20–00:21; 01:10–01:12; supplied P17–18,55,60,107–109.
 
 [^s008-yt]: Supplied YouTube transcript; Part1 00:24–00:25; Part2 00:14–00:15; 00:20–00:21; 01:10–01:12; supplied P17–18,55,60,107–109.
+
+[^s002-arrival]: Original Session 2 recording, 00:07–00:18; 00:50–00:56. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-globe]: Original Session 2 recording, 02:02–02:15; 02:35–02:40. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

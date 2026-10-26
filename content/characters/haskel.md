@@ -16,6 +16,12 @@ party: the-citizens
 
 **Haskel** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
 
+# Session 2 — before the Drifters
+
+Haskel accompanies the newly released Elias under Bernard von Kepler’s supervision, with responsibility for his custody. He asks the captain about allowing work on the engine, but the request is denied. During the platform accident he pulls Finn to safety. He witnesses the faculty discussions for Court purposes and notes that any appointment for Elias needs proper documentation.[^s002-ship][^s002-rescue][^s002-offer]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Adventures
 
 Haskel attempts to control the vessel, channels elemental power and heals the injured captain. Near the engines he works with Elias. After the gap, he forms a starlight chain for the harpoon and whale towing. Haskell/Pascal variants are matched by continuing role and context, not accepted as aliases.[^s003]
@@ -77,3 +83,9 @@ Haskel sees an opportunity for relative safety in the woods and hopes Bernard’
 [^s008-p2]: Original Part 2 recording; Part2 00:23–00:46; 02:18–02:58; supplied P62–81,228–290.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:23–00:46; 02:18–02:58; supplied P62–81,228–290.
+
+[^s002-ship]: Original Session 2 recording, 00:18–00:31; 02:31–02:35. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

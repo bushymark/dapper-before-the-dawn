@@ -1,34 +1,37 @@
 {
   "edition": "public-curated",
   "source_pages": {
-    "campaign/overview.md": "c90aa7dc7a6c7968a7358a6cc54eb3389af2f4325fd6b68ae47ba4ae33f22f5e",
-    "campaign/timeline.md": "f35e298c6c2547f7adfb033459c835d85b7a49dbb06cebd1565bfd675f09f797",
+    "campaign/overview.md": "f894f93f06eb0e1e1e1e29953d572d1c2ed6eee1960545708838503520b13b2d",
+    "campaign/timeline.md": "0f245f901cdfb958951dbb448ff8d4ccfc7bf451cca288bc06e9834a45539603",
     "characters/apherion.md": "42fd5d84331cc3a802e9da548fe94040058a1cf5e2cd5016a6a719bbb20690d0",
-    "characters/bernard-von-kepler.md": "6d970f5f93566e53da01aa020a102d8b6861d0fd3ca134a62fde402a5dafe54c",
+    "characters/bernard-von-kepler.md": "5820ce88bde1313ca2ff57813cc0860edb68952295b6aa94152abe742f1cb2c7",
     "characters/cole-buckit.md": "faede602cfa409a4cebc58af41f671d1af2c84becd2430a8ab27d73f56902cbf",
-    "characters/dayne.md": "5ae8cbe7143878f6b8cc4bfd73e194d6536ca4c9ac1e7fd3e5149780d4fb7b5e",
-    "characters/elias.md": "8d2fe9e56380ae24be9586cbd3ec4bb07421271650cdd7d34a9833b3b1dd3a93",
+    "characters/dayne.md": "83513bf16f5bf3eb325c471e833e05d0282a22b5fd0a6750b6773557718f2d13",
+    "characters/doctor-ustalav.md": "1aa65dc0d9c76810edd70259bb48d9b461cde49ec7725ae347e287278a46bbdc",
+    "characters/elias.md": "4eb58a9e8476f9c3a57f31f96ff96f70410cac800133fdf61e7972831c7490ee",
     "characters/emeric-bellamy.md": "be1ecc077123948f167a2bf0861f21897d800191c9eebebf35cd283d53537e96",
     "characters/eokian-expectant-father.md": "7608699153fa9996a9fcfd37b6465f9c495852ffbd4732ea1da551c27ed93b4e",
     "characters/general-at-the-barrier.md": "cda59efd02ae836642de6dfae2918b84bead98989d6c978efc32acd466fb9e87",
     "characters/general-maochao.md": "56eb4a6137e1655e5262853ab0d6a95f285787f98a8302f85866cc961515eb89",
-    "characters/haskel.md": "a7c7c1d3fbbfa902bc4f2e6e4ad6167c2816bb19a06b03cee150677eb7677abc",
-    "characters/index.md": "92d9d7b4e24d01b5ea1b7a4dcb20d16a705208355faaca19a141d83fb534187d",
-    "characters/koris.md": "6d17f31288cfad15c6b43c41effa3c983321160dee3625d6729bb514e0142af7",
+    "characters/glass-needle-young-inventors.md": "8f9ef13236184aab535bf87cf8d5fdcd91b225b981fcd29a5dc92a96e2f0c415",
+    "characters/haskel.md": "bb026ad6f49e5259213d901ec328166a75a26ad65e8e555614a74f06c89aee95",
+    "characters/index.md": "4f2d4eea05657de94a6d43943fa1d58632307fbf9629932da1033f0e23dd46fb",
+    "characters/koris.md": "d32622e235f33f0f8a903e8c1f3e56fa0a18c4f87715c91fa29f3281008a36de",
     "characters/maren.md": "2fc16d84edccbca59e2cd44c842f7152269a1d93d16c7267ffc070d4688876b9",
     "characters/mysterious-blacksmith.md": "f5a22061d50110f319afc805598d44eca2b3709e0a8463b3eb3c26d65329853c",
     "characters/oma.md": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
     "characters/paedan-dahhm.md": "b23c009e05f21e187077bdf86e4fb113c8a62c1dc26363ecac1981a538e3c3ae",
     "characters/saga.md": "bf060c8342b49b851000a3e033931ef812a04727f599b7e1cc2dbb51f6ed744d",
+    "characters/shamus-the-grimm.md": "3b8a76f42b3b404280d3fbea5ac639add9d0091a3581020fbb9be91b847b0c0a",
     "characters/silvestro-cassetti.md": "9b69bdf60768d43d2a0043614fb417787ebec2b785565c4df2162945f3eade20",
     "characters/sledge.md": "430dd0f487b65e7da510189fd57dfd92d5325d0be782c86a032927dd00817b83",
     "characters/smidgen.md": "27ad20d0f53641e472d430bbd8d54a6d6073277ff1fd1c582aebcd5404d78cda",
-    "characters/swamp-poppy.md": "38759061b929ab97fb4f45872c5020632ffb0de7c1e3d2e3a3932c841a5f8915",
+    "characters/swamp-poppy.md": "af5d29368d786a386aad8f3856ab14d5d1067b19b5b46492f52ca60c6f439069",
     "characters/tallow.md": "37d196e8eb8be68bbad21b0b29b5d1b325a32ee64cb14be63ca034b80de33513",
     "characters/therica-ashtongue.md": "908e1e58bd5d32b32f34b4e850ed6d284b072f17e362eefe500db60c173ab157",
     "characters/therus.md": "1a74d6ce82e9fa46465ae9da31ad8e9cb960b6caa2d12aeeeac7311434afed94",
     "characters/vaeldraxin.md": "8324beb7da19b13a859d81a8167305fa84e4939374c537a542a9f195050abc28",
-    "characters/wickerwill-captain.md": "84515f608afb8922dd7405d2ca4fb7090200c78e6cf821607afd3e2b4886e879",
+    "characters/wickerwill-captain.md": "12c1a240e95c030af36605f93c9e8aaee50b4eba521a9ced5d6263232e199270",
     "characters/yan-savos.md": "ef370cc417d889ad6328198b0e1d69acec761492c2c692e201b0e44927ebe515",
     "events/airship-seizure-attempt.md": "70ba7aa3745bdff12f1a3fd5cabde0086c99258cec9866319ed5a136abe446bf",
     "events/alora-escape-and-restoration.md": "d888cade7d54dc383cde12131784b7317593134379bf5e0d4c716c5079bb80e8",
@@ -47,34 +50,38 @@
     "factions/house-glaren.md": "e485847da672076509ef9cade2760761867fe84f8dcc628631b6ce7bb66d158c",
     "factions/index.md": "dfdb5e3433313a494c175a31e12cca5ff3d0d73e5e9c84fdf1c338825237170c",
     "factions/the-bloom.md": "3ad2c4354283a274b6a3023193d2e3637e524aae7a9d0e38f20eb6ac7ff7cc07",
-    "factions/the-citizens.md": "1ea5489710c9b73d32df37d14431ba8d39cfddef1bdbf209c2068db59f8aa920",
+    "factions/the-citizens.md": "f76d6c9bf1ca937120a74f4f620243a764a044262b04b999eee40a1650e0e5ff",
     "factions/the-drifters.md": "b46b3259d8b0a50c371d367974b659dbf45e7ecc91df2fed9c8925e350c021a9",
     "factions/the-leading-men.md": "cb806fbb87ac9221641dc45b371c0690dd562b84f71d2c2f48eb18b4b551a4d0",
     "factions/theater-of-the-mind-flayer.md": "30958d406329bfc2fd3b3fe827c489b1cb8cd78209c9e54b2bc1007c3d3de365",
     "lore/blacksmiths-cursed-blade.md": "c80618216ccf4b665f176cc3da1036426c00f847a5aaad15edf322dd192e18e2",
+    "lore/chain-reactor.md": "6c06a0fc6e473805f5df4446324b47e087108bf6143c91fc556254eff3823524",
     "lore/court-body-containment-coffins.md": "13a1e00d261665994daa5178173b3621ba88ec5b4c1cb90db5ffbba1477cf439",
-    "lore/court-roles-and-judgment.md": "ac180defd7228f4019f15ef89a58905c48e91e3c195dd1a4c14aa53f096c88c7",
+    "lore/court-roles-and-judgment.md": "f5c149a7379e2e91be8ce79923087f79babd5a39a1e242ddbad4a92a2c475e56",
     "lore/elias-mechanical-lynx.md": "a6c5c8e40f2d72eae23541608b26f4c03aa04291daa5c2b6664054995c067734",
     "lore/guardian-beasts.md": "a67bd297f66a91163cc3f3773d47f5bf5b3c0ee1c06c8fb704d1ede11789beda",
-    "lore/index.md": "acdca8f4ec0cd5dc98e0fa468661918b57889cb8a3477a60212af513bd4f018e",
-    "lore/koris-cursed-collection.md": "974b4dd2a1b05d217caa80e87137ff43e9f60daad7795bc59e883388eea18c45",
+    "lore/index.md": "32c9a850959dc6fdfcac4ebf3404f5f3588de09ad7d2b36a1771497e6c40dcdf",
+    "lore/koris-cursed-collection.md": "09764e26acfdb0c59751f5e420cabd895443383bda57b194d0f06caa9d15e0c1",
+    "lore/lifespan.md": "6875acbdbf114820f30e0e3470c1aec79794aa867ed2e4e838e734162a0169fd",
     "lore/mantles.md": "c409c0dbde68d386abcdfc9f247701711b4d96678d0034f709528f67aa2cece7",
     "lore/mechanical-gorgons.md": "f8108cc577f814ffa107aa4dbea9315d3490fd2494eae0de1bdba8a3b8cd2c62",
     "lore/resurrection-plots-and-victus.md": "5f61af18f92fd798ffd6c88827cb86ccad7d8cfb60728858937b834bf1f729f9",
-    "lore/the-fall.md": "e2680cb29e09358d1587e2ecadb6725b42b7195545807148b7b00630b3fd825a",
+    "lore/the-fall.md": "b28b300cefba3a57705a75ffb5e9c062f1979012b527e830b030db8dd3af6ca0",
     "lore/the-suns-living-cycle.md": "76ec16574755402ad4046303630b3b8836e9ee7ab72961b412ee5ff9eb205496",
+    "lore/white-haired-childs-snow-globe.md": "c79c11a1df45e333e3af918ee8fc6a3746224bf901c47d0efca2354d462179e7",
     "places/alora-valley.md": "30b298875f26a9d3e82529b4d5b436505cfea8dce45c2cdc0008ca1a7d858fba",
     "places/brightfall.md": "7691d0a12c9841bd35cae6d5070747957d722d6cfd1e927de4014d08234e8fe6",
     "places/city-of-hope.md": "e1e2a625274d0b8b7c4885144482df423c5f4e338989df60547d0346d4642adb",
+    "places/corvallis.md": "cc03612756995903b09ad3e15945f74c9e1222c3746c9416195fc695a2eb5406",
     "places/first-woods.md": "fb91cb2287c787a423b0ce6e353a38b1873dc872df524856f68d255af9c83f49",
-    "places/glass-needle.md": "65de53aa0b859cf529434a4317f84517b1eabb105fb3963da6adcb04754b4be6",
-    "places/index.md": "18db8fe95f8aac554cc74a9b0a91929ad220daf3e54a1bfe5dd2b848116821d6",
-    "places/lastings.md": "081e63627971bcfdc09b5239855df26d869d866fdc8d7a7ce3612d2435d1addb",
+    "places/glass-needle.md": "a416c959430e6bb9ee28874572d24193970caf07fe6405b20b4874dab53b7862",
+    "places/index.md": "c1d552ba341053bde980ff83367ce2cd194469b2bb70441dedd28a173fcd2f91",
+    "places/lastings.md": "62b93e67943e81afd6adb8409a9472d65521fb753bebdcce589e9baa6b5b0d1e",
     "places/resolute.md": "b46f96a42f50a5f197b32ef4a37068b7fef5aeebb60004cbdc3069bb22901822",
     "places/the-last-ember.md": "6cd00df4a35a49ebfe04cbc7a29f4e9ca2347e42cffa4d2c6c755b8d4cddf763",
     "places/ti-swa.md": "b8a07a783d6688b77e476faaaab5ff6646663a69b1e85945d04e7bc65f59a600",
     "places/white-fang.md": "074d7115f70da33c7f0140a5e383eb5a33927242701a960e1fe243a6def5db8b",
-    "places/wickerwill.md": "8ba477b171575a30e45c0192dcb78715c32ea8a899553323a8354291b09ef4d2",
+    "places/wickerwill.md": "b1612b745343a1975a0058dc55627d6ff9e7cf8a5be4c315e18cd5702b688a30",
     "quests/airship-investigation.md": "6b3b758dc8ee638a6f9bf6d34c38b141bc37e8bcab1d79b39de75a88d57ff6cc",
     "quests/index.md": "e68298d32f1ddb71754b86101a2bef4ee128b724238139628163e8aad67dab53",
     "quests/recover-the-original-bodies.md": "dfc79d1abbf848b7098ecad1dee8bed1746eb6ae62bc5c50b445f672e9bca46b",
@@ -88,8 +95,9 @@
     "rules/session-007-adjudications.md": "c70aa36097122b50ed71c08a6b47132fe0ba50ba281759b375d355ca0ce72c64",
     "rules/session-008-downtime.md": "b1e5fe69df407a23d5055003aae8c24c18b195e9a1b47bfb59dfb6c1a0eb4a58",
     "sessions/2026-09-28-drifters-s001.md": "992219bc5ff93760e036343512e357231338c61d43e20b9c95e4527f8f7dfa66",
-    "sessions/index.md": "d83358295207b6a80d0ba7a88240b3c45ef4b5bdff2e83fe992b93ecd798ae67",
-    "sessions/session-003-combined.md": "e5cf783715099b185dda17eaf016dea7d99910bfe82c3a386fd8eced5eb7a5fd",
+    "sessions/index.md": "adf605e14f4b31cea90d95d99be868e22af87ae8c12f9fc93c68438cd4cff4a4",
+    "sessions/session-002-citizens.md": "e6c6d3eb8a0d4305aac1f5a233f9a102ab9c6e0d3afc70ebeb7349dc2ea58e17",
+    "sessions/session-003-combined.md": "2dae7845371fc95654e1a611eb45e45c17604b310b75f33cb3a70357141dbfaa",
     "sessions/session-004-combined.md": "368d932b56f917bd78377e0b40a0ddbfeafbc7b198a86e5f9040078c07e5dbb7",
     "sessions/session-005-combined.md": "c94a69e0e4c56a83bcee2ab199ec7e5a40f2394b5ba560fa54ad7a8f6bd365ce",
     "sessions/session-006-combined.md": "0928a25f68af1f98569e8f0e4140112783e6376e3fe2682675ae463434dc3bbd",
@@ -98,16 +106,16 @@
   },
   "editorial_review": {
     "campaign/overview.md": {
-      "source_sha256": "c90aa7dc7a6c7968a7358a6cc54eb3389af2f4325fd6b68ae47ba4ae33f22f5e",
-      "editorial_sha256": "b77297c5a4ea4af5e2b713cd5c35bd59359a8db6c7f5e5a1a7f80022db2fae04",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.417851+00:00"
+      "source_sha256": "f894f93f06eb0e1e1e1e29953d572d1c2ed6eee1960545708838503520b13b2d",
+      "editorial_sha256": "a5862c2511692f284bb65dbf289005bf6adefffb5f140dbb1b2c4940e9f45d74",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.198419+00:00"
     },
     "campaign/timeline.md": {
-      "source_sha256": "f35e298c6c2547f7adfb033459c835d85b7a49dbb06cebd1565bfd675f09f797",
-      "editorial_sha256": "ca73186d75ab8afc818cc625051f3a4cf8a0e0b14f42cb1508541046ff0283c6",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.418472+00:00"
+      "source_sha256": "0f245f901cdfb958951dbb448ff8d4ccfc7bf451cca288bc06e9834a45539603",
+      "editorial_sha256": "21135e515bbc72703644d402df03e3d71897e26ebacc159345a591feba0a180c",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.198896+00:00"
     },
     "characters/apherion.md": {
       "source_sha256": "42fd5d84331cc3a802e9da548fe94040058a1cf5e2cd5016a6a719bbb20690d0",
@@ -122,16 +130,16 @@
       "reviewed_at": "2026-10-26T15:33:45.419357+00:00"
     },
     "characters/dayne.md": {
-      "source_sha256": "5ae8cbe7143878f6b8cc4bfd73e194d6536ca4c9ac1e7fd3e5149780d4fb7b5e",
-      "editorial_sha256": "80c48a04753ac6f0174e9cf184ad55c8266fb197567672585e96dd7189f3d725",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.419631+00:00"
+      "source_sha256": "83513bf16f5bf3eb325c471e833e05d0282a22b5fd0a6750b6773557718f2d13",
+      "editorial_sha256": "79e1fbfc5c75b4610a5b27d751defb553916ccf609113607216b564ee1323c17",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.199469+00:00"
     },
     "characters/elias.md": {
-      "source_sha256": "8d2fe9e56380ae24be9586cbd3ec4bb07421271650cdd7d34a9833b3b1dd3a93",
-      "editorial_sha256": "40963f30f1fa79bfb918b26dde39534a0201da23e1a1ce7e07c2f9a24e7f7e1d",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.419926+00:00"
+      "source_sha256": "4eb58a9e8476f9c3a57f31f96ff96f70410cac800133fdf61e7972831c7490ee",
+      "editorial_sha256": "4716566b17742a643f0866d40ac04c3ee0f8a5adb73a6ef0b89f9a47d9400364",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.200031+00:00"
     },
     "characters/emeric-bellamy.md": {
       "source_sha256": "be1ecc077123948f167a2bf0861f21897d800191c9eebebf35cd283d53537e96",
@@ -158,22 +166,22 @@
       "reviewed_at": "2026-10-04T04:38:28.297526+00:00"
     },
     "characters/haskel.md": {
-      "source_sha256": "a7c7c1d3fbbfa902bc4f2e6e4ad6167c2816bb19a06b03cee150677eb7677abc",
-      "editorial_sha256": "fbe546befac704cdecd1d117fdc64f8672b49a9a217e3625346fdca78881828b",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.420523+00:00"
+      "source_sha256": "bb026ad6f49e5259213d901ec328166a75a26ad65e8e555614a74f06c89aee95",
+      "editorial_sha256": "eae9e56b82cef4b3bdf05147465495a219485415319a475347c9fc5b42de9b7f",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.200581+00:00"
     },
     "characters/index.md": {
-      "source_sha256": "92d9d7b4e24d01b5ea1b7a4dcb20d16a705208355faaca19a141d83fb534187d",
-      "editorial_sha256": "a820be533b4ef6bd19a02c9783fdae3bdafa51ca0ba6cb07e2aaafe892e84fff",
-      "reviewer": "agent/codex/session-007-editorial-review",
-      "reviewed_at": "2026-10-04T04:38:28.297910+00:00"
+      "source_sha256": "4f2d4eea05657de94a6d43943fa1d58632307fbf9629932da1033f0e23dd46fb",
+      "editorial_sha256": "68bcb0cb6c1142ee03b59234e3392ece8335382b5ce8048b47ee612bdce09935",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.200722+00:00"
     },
     "characters/koris.md": {
-      "source_sha256": "6d17f31288cfad15c6b43c41effa3c983321160dee3625d6729bb514e0142af7",
-      "editorial_sha256": "36c17b92224efabf1745c673fda4a651a69b1b68d305d9db6672d1658f89443a",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.420799+00:00"
+      "source_sha256": "d32622e235f33f0f8a903e8c1f3e56fa0a18c4f87715c91fa29f3281008a36de",
+      "editorial_sha256": "583b8187cc1032f1f972f299fe0838ac0db2b4cac7974c3f5a1e3f216fc8816e",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.201005+00:00"
     },
     "characters/maren.md": {
       "source_sha256": "2fc16d84edccbca59e2cd44c842f7152269a1d93d16c7267ffc070d4688876b9",
@@ -212,10 +220,10 @@
       "reviewed_at": "2026-10-01T16:18:30.701427+00:00"
     },
     "characters/swamp-poppy.md": {
-      "source_sha256": "38759061b929ab97fb4f45872c5020632ffb0de7c1e3d2e3a3932c841a5f8915",
-      "editorial_sha256": "fb1ee257243cf5c5108e2ad776ada973d098158e8425f30ad315525517d37f16",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.421589+00:00"
+      "source_sha256": "af5d29368d786a386aad8f3856ab14d5d1067b19b5b46492f52ca60c6f439069",
+      "editorial_sha256": "e0b97098e2f5a7e9ff61638d387f8c8e1542d29d0fbdf5e40c6e9be1a371936f",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.201432+00:00"
     },
     "characters/therica-ashtongue.md": {
       "source_sha256": "908e1e58bd5d32b32f34b4e850ed6d284b072f17e362eefe500db60c173ab157",
@@ -236,10 +244,10 @@
       "reviewed_at": "2026-10-02T15:01:34.314664+00:00"
     },
     "characters/wickerwill-captain.md": {
-      "source_sha256": "84515f608afb8922dd7405d2ca4fb7090200c78e6cf821607afd3e2b4886e879",
-      "editorial_sha256": "d076d18834b39f0fc854b80e2f7f614575100975b149d08f6eee25cb79b3a567",
-      "reviewer": "agent/codex/session-007-editorial-review",
-      "reviewed_at": "2026-10-04T04:38:28.299371+00:00"
+      "source_sha256": "12c1a240e95c030af36605f93c9e8aaee50b4eba521a9ced5d6263232e199270",
+      "editorial_sha256": "ac0067ce40aa4afce79917aca33cc92e0f29923477973cd00a16a717fc3c317e",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.201642+00:00"
     },
     "events/airship-seizure-attempt.md": {
       "source_sha256": "70ba7aa3745bdff12f1a3fd5cabde0086c99258cec9866319ed5a136abe446bf",
@@ -314,10 +322,10 @@
       "reviewed_at": "2026-10-26T15:33:45.423268+00:00"
     },
     "factions/the-citizens.md": {
-      "source_sha256": "1ea5489710c9b73d32df37d14431ba8d39cfddef1bdbf209c2068db59f8aa920",
-      "editorial_sha256": "8283cff5533257eaa480a7f51c12c04cb9ac558e2587a7ef549a1ec2e4b92a2d",
-      "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:13:16.132124+00:00"
+      "source_sha256": "f76d6c9bf1ca937120a74f4f620243a764a044262b04b999eee40a1650e0e5ff",
+      "editorial_sha256": "9af385ccc41f382a669f0af38a8636d6b143766523629b68b66749b15ebcf5a4",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.201827+00:00"
     },
     "factions/the-drifters.md": {
       "source_sha256": "b46b3259d8b0a50c371d367974b659dbf45e7ecc91df2fed9c8925e350c021a9",
@@ -326,10 +334,10 @@
       "reviewed_at": "2026-10-01T16:13:16.132431+00:00"
     },
     "lore/index.md": {
-      "source_sha256": "acdca8f4ec0cd5dc98e0fa468661918b57889cb8a3477a60212af513bd4f018e",
-      "editorial_sha256": "2f49fb5616cd37f87a07f8f29e3342991c94842f4d710102f8b639b7a1c07c0e",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.423819+00:00"
+      "source_sha256": "32c9a850959dc6fdfcac4ebf3404f5f3588de09ad7d2b36a1771497e6c40dcdf",
+      "editorial_sha256": "f6103a5ae4db69c27ff4a95e874ce65a8dda8ae5e6fb0c086f3bde2fed289353",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.202373+00:00"
     },
     "lore/mantles.md": {
       "source_sha256": "c409c0dbde68d386abcdfc9f247701711b4d96678d0034f709528f67aa2cece7",
@@ -350,22 +358,22 @@
       "reviewed_at": "2026-10-04T00:33:14.894145+00:00"
     },
     "places/glass-needle.md": {
-      "source_sha256": "65de53aa0b859cf529434a4317f84517b1eabb105fb3963da6adcb04754b4be6",
-      "editorial_sha256": "07786f797e5416e306cf3f432d2e8f873253726038a47942afd1d024d2b48457",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.425502+00:00"
+      "source_sha256": "a416c959430e6bb9ee28874572d24193970caf07fe6405b20b4874dab53b7862",
+      "editorial_sha256": "98fb5fbbfb294715bd150890a9219783e3721c2f74d45cf51f6a12071e5ab615",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.203485+00:00"
     },
     "places/index.md": {
-      "source_sha256": "18db8fe95f8aac554cc74a9b0a91929ad220daf3e54a1bfe5dd2b848116821d6",
-      "editorial_sha256": "a5f0b140e6c0f996b6fb3ff4d34a676413f0b3e4313eb6d35ac580b5393fe232",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.425617+00:00"
+      "source_sha256": "c1d552ba341053bde980ff83367ce2cd194469b2bb70441dedd28a173fcd2f91",
+      "editorial_sha256": "162e5cd125f28ff575ce89a9bc0b20ecdb2bc079df73ce36ec0150505c61bade",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.203593+00:00"
     },
     "places/lastings.md": {
-      "source_sha256": "081e63627971bcfdc09b5239855df26d869d866fdc8d7a7ce3612d2435d1addb",
-      "editorial_sha256": "3eda58902e5c9879d1824e11ce98683acc803a1129ed7e7fbf5bfe65bbcd3dbb",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.425847+00:00"
+      "source_sha256": "62b93e67943e81afd6adb8409a9472d65521fb753bebdcce589e9baa6b5b0d1e",
+      "editorial_sha256": "f0cb5f7faad96f25664c3a504e4fc393d90eb098688dbf2fc0a1064659432551",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.203830+00:00"
     },
     "places/ti-swa.md": {
       "source_sha256": "b8a07a783d6688b77e476faaaab5ff6646663a69b1e85945d04e7bc65f59a600",
@@ -380,10 +388,10 @@
       "reviewed_at": "2026-10-01T16:34:19.794717+00:00"
     },
     "places/wickerwill.md": {
-      "source_sha256": "8ba477b171575a30e45c0192dcb78715c32ea8a899553323a8354291b09ef4d2",
-      "editorial_sha256": "3d31752e2e3ce1d87095c7fd000586d3c975def6a9be6e8d9cb37953059a0d70",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.426432+00:00"
+      "source_sha256": "b1612b745343a1975a0058dc55627d6ff9e7cf8a5be4c315e18cd5702b688a30",
+      "editorial_sha256": "78ed7cba33f50b39cb4c447a376f8de8ecae5cf829200c49d0979148f275417d",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.204059+00:00"
     },
     "quests/airship-investigation.md": {
       "source_sha256": "6b3b758dc8ee638a6f9bf6d34c38b141bc37e8bcab1d79b39de75a88d57ff6cc",
@@ -434,16 +442,16 @@
       "reviewed_at": "2026-10-01T16:34:19.795265+00:00"
     },
     "sessions/index.md": {
-      "source_sha256": "d83358295207b6a80d0ba7a88240b3c45ef4b5bdff2e83fe992b93ecd798ae67",
-      "editorial_sha256": "17f5820cb2fd8f6ba0949e4f564affb887d075d0166e34955bcff818fc305a14",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.427578+00:00"
+      "source_sha256": "adf605e14f4b31cea90d95d99be868e22af87ae8c12f9fc93c68438cd4cff4a4",
+      "editorial_sha256": "4669107d5ba41ef0aa45383eb49b9a57952ae806bafc8e343048302342d4a288",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.204182+00:00"
     },
     "sessions/session-003-combined.md": {
-      "source_sha256": "e5cf783715099b185dda17eaf016dea7d99910bfe82c3a386fd8eced5eb7a5fd",
-      "editorial_sha256": "f7e61524371cf9efea6913bf940733f7c1ea2b0c787b9db25fb86eb7de95e923",
-      "reviewer": "codex/campaign-editorial-review",
-      "reviewed_at": "2026-10-01T16:23:40.370798+00:00"
+      "source_sha256": "2dae7845371fc95654e1a611eb45e45c17604b310b75f33cb3a70357141dbfaa",
+      "editorial_sha256": "6f3970ba6e3537026f19dd428f004c5e66619bde651f86cf6c60a271b02e394d",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.204886+00:00"
     },
     "sessions/session-004-combined.md": {
       "source_sha256": "368d932b56f917bd78377e0b40a0ddbfeafbc7b198a86e5f9040078c07e5dbb7",
@@ -494,10 +502,10 @@
       "reviewed_at": "2026-10-26T15:33:45.424512+00:00"
     },
     "lore/the-fall.md": {
-      "source_sha256": "e2680cb29e09358d1587e2ecadb6725b42b7195545807148b7b00630b3fd825a",
-      "editorial_sha256": "49d2cbe0217e1c4e739fd90b2541eeef771b45e8a93372403552f715cb4d313f",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.424722+00:00"
+      "source_sha256": "b28b300cefba3a57705a75ffb5e9c062f1979012b527e830b030db8dd3af6ca0",
+      "editorial_sha256": "6298f881c1916e1cf158cb4d9a4ff3646ac09a4426d47c177ef103687179c518",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.202934+00:00"
     },
     "places/first-woods.md": {
       "source_sha256": "fb91cb2287c787a423b0ce6e353a38b1873dc872df524856f68d255af9c83f49",
@@ -536,10 +544,10 @@
       "reviewed_at": "2026-10-04T04:38:28.301089+00:00"
     },
     "lore/court-roles-and-judgment.md": {
-      "source_sha256": "ac180defd7228f4019f15ef89a58905c48e91e3c195dd1a4c14aa53f096c88c7",
-      "editorial_sha256": "c346c780c2a90eed43dd37734027bb178e87b94c805561a4000b3f940aef8a79",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.423503+00:00"
+      "source_sha256": "f5c149a7379e2e91be8ce79923087f79babd5a39a1e242ddbad4a92a2c475e56",
+      "editorial_sha256": "740ea76487f87bde69984fb63fa226bae8593d368c858469823fdba90f6c4982",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.202251+00:00"
     },
     "places/resolute.md": {
       "source_sha256": "b46f96a42f50a5f197b32ef4a37068b7fef5aeebb60004cbdc3069bb22901822",
@@ -560,10 +568,10 @@
       "reviewed_at": "2026-10-04T00:33:14.896103+00:00"
     },
     "characters/bernard-von-kepler.md": {
-      "source_sha256": "6d970f5f93566e53da01aa020a102d8b6861d0fd3ca134a62fde402a5dafe54c",
-      "editorial_sha256": "8b54f51207987f450491f31c61d4e139743c6393cb6dba43483d2b6b67fb3d9d",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.419010+00:00"
+      "source_sha256": "5820ce88bde1313ca2ff57813cc0860edb68952295b6aa94152abe742f1cb2c7",
+      "editorial_sha256": "94134d73fd6d6352aefb19414486b24d98739c94737f97a19d822d049517e639",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.199160+00:00"
     },
     "events/alora-escape-and-restoration.md": {
       "source_sha256": "d888cade7d54dc383cde12131784b7317593134379bf5e0d4c716c5079bb80e8",
@@ -620,10 +628,10 @@
       "reviewed_at": "2026-10-26T15:36:29.176276+00:00"
     },
     "lore/koris-cursed-collection.md": {
-      "source_sha256": "974b4dd2a1b05d217caa80e87137ff43e9f60daad7795bc59e883388eea18c45",
-      "editorial_sha256": "6d8c938f018ac1651e81684f08c0584c9ac567ee25fc5a7f6f3c9ac227e72e59",
-      "reviewer": "agent/codex/session-008-editorial-review",
-      "reviewed_at": "2026-10-26T15:33:45.423999+00:00"
+      "source_sha256": "09764e26acfdb0c59751f5e420cabd895443383bda57b194d0f06caa9d15e0c1",
+      "editorial_sha256": "530dbb5d4d4720db71760c672cf91c62d1c45c4e4259afcbe5d881755771c5ae",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.202571+00:00"
     },
     "lore/the-suns-living-cycle.md": {
       "source_sha256": "76ec16574755402ad4046303630b3b8836e9ee7ab72961b412ee5ff9eb205496",
@@ -660,6 +668,54 @@
       "editorial_sha256": "617eed0d16b8e0cec1ebe48dd429565f8829de9d2650573c227a7b37e4247f4c",
       "reviewer": "agent/codex/session-008-editorial-review",
       "reviewed_at": "2026-10-26T15:36:29.175611+00:00"
+    },
+    "characters/doctor-ustalav.md": {
+      "source_sha256": "1aa65dc0d9c76810edd70259bb48d9b461cde49ec7725ae347e287278a46bbdc",
+      "editorial_sha256": "8252d1734a60e520c2ea13c852170da4beeedf85c584e5c151de5d934f5e2522",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.199670+00:00"
+    },
+    "characters/glass-needle-young-inventors.md": {
+      "source_sha256": "8f9ef13236184aab535bf87cf8d5fdcd91b225b981fcd29a5dc92a96e2f0c415",
+      "editorial_sha256": "6b301abf416db9cd5930d73a552c42734a02f28282659b619f8475a8b9ca6655",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.200277+00:00"
+    },
+    "characters/shamus-the-grimm.md": {
+      "source_sha256": "3b8a76f42b3b404280d3fbea5ac639add9d0091a3581020fbb9be91b847b0c0a",
+      "editorial_sha256": "5dfc4bc0bbea3a0d7d76fbf91ac5eb34dc6c84043af00a5fd6c5e6c8d42cb0cc",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.201192+00:00"
+    },
+    "lore/chain-reactor.md": {
+      "source_sha256": "6c06a0fc6e473805f5df4446324b47e087108bf6143c91fc556254eff3823524",
+      "editorial_sha256": "65af75030e09f9438219738fe8b79fe224393c906bb5eaec47e1abc1fa28bb81",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.202004+00:00"
+    },
+    "lore/lifespan.md": {
+      "source_sha256": "6875acbdbf114820f30e0e3470c1aec79794aa867ed2e4e838e734162a0169fd",
+      "editorial_sha256": "5ce6395b18716911174fe8aa17edccbaa587fba492ea3ce0fa77ced3d9e0056a",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.202727+00:00"
+    },
+    "lore/white-haired-childs-snow-globe.md": {
+      "source_sha256": "c79c11a1df45e333e3af918ee8fc6a3746224bf901c47d0efca2354d462179e7",
+      "editorial_sha256": "77813ad57f1128fab432b98ed3a65ca1321b9f83b78c282c48743ae0ada37dfe",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.203107+00:00"
+    },
+    "places/corvallis.md": {
+      "source_sha256": "cc03612756995903b09ad3e15945f74c9e1222c3746c9416195fc695a2eb5406",
+      "editorial_sha256": "3779854c7aa3783be8cb05428e17dd4f001db4751a560b32c2d8633638295908",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.203273+00:00"
+    },
+    "sessions/session-002-citizens.md": {
+      "source_sha256": "e6c6d3eb8a0d4305aac1f5a233f9a102ab9c6e0d3afc70ebeb7349dc2ea58e17",
+      "editorial_sha256": "c45c1306d627d09e8d5cf93a7547fa54751f84690f7db13c1245b48c56c11ea5",
+      "reviewer": "agent/codex/session-002-editorial-review",
+      "reviewed_at": "2026-10-26T20:42:45.204506+00:00"
     }
   },
   "assets": {

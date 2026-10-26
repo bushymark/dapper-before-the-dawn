@@ -24,3 +24,5 @@ Wiki home
 
 - [Brightfall — spelling provisional](brightfall.md).
 - [The Last Ember](the-last-ember.md).
+
+- [Corvallis](corvallis.md) — destroyed university city, spelling provisional.

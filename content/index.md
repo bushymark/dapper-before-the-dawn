@@ -10,6 +10,7 @@ A Pathfinder 2e campaign set twenty years after the Pillars of Dochas Ùr brough
 ## Read the chronicle
 
 - [Session 1 — the Drifters](sessions/2026-09-28-drifters-s001.md)
+- [Session 2 — the Citizens and the Glass Needle](sessions/session-002-citizens.md)
 - [Session 3 — Citizens and Drifters](sessions/session-003-combined.md)
 - [Session 4 — the return](sessions/session-004-combined.md)
 - [Session 5 — the silent forge and the planned heist](sessions/session-005-combined.md)
@@ -22,4 +23,4 @@ A Pathfinder 2e campaign set twenty years after the Pillars of Dochas Ùr brough
 
 Use Search to find a person, place, event or phrase. The graph and backlinks show how the campaign connects.
 
-This chronicle contains campaign spoilers. Some mysteries remain unresolved; accounts offered by characters reflect what they believe. Session 2’s adventures are not yet chronicled here.
+This chronicle contains campaign spoilers. Some mysteries remain unresolved; accounts offered by characters reflect what they believe.

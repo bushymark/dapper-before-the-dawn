@@ -16,6 +16,12 @@ party: the-citizens
 
 **Dayne** is a player character in [The Citizens](../factions/the-citizens.md).[^s003-roster]
 
+# Session 2 — before the Drifters
+
+Dayne represents Headmistress Vesper in a Glass Needle faculty interview. He helps Koris remain in Lastings by transferring a week of Lifespan, de-escalates Shamus’s confrontation and helps rescue the professor from the platform. He rejects Ustalav’s teaching approach and offers Elias a position, subject to Court arrangements, while opening a scholarship route for the three young inventors and Koris. The group departs for the school aboard Whipperwill.[^s002-road][^s002-arrival][^s002-grimm][^s002-rescue][^s002-offer]
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Adventures
 
 Dayne eventually stabilizes the wheel, helps redirect the damaged airship away from the city toward northern forest, and assists Koris across a gap. His briefcase is readied as an improvised weapon. Later in the cosmic passage, he shapes a starlight harpoon.[^s003]
@@ -77,3 +83,13 @@ Dayne notices unidentified red scales behind the Last Ember and discovers the sm
 [^s008-p2]: Original Part 2 recording; Part2 00:06–00:13; 00:28–00:31; 01:00–01:06; 02:07–02:16; 03:12–03:14; supplied P40–50,66–68,96–104,214–223,294–295.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:06–00:13; 00:28–00:31; 01:00–01:06; 02:07–02:16; 03:12–03:14; supplied P40–50,66–68,96–104,214–223,294–295.
+
+[^s002-road]: Original Session 2 recording, 00:00–00:07; 00:31–00:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-arrival]: Original Session 2 recording, 00:07–00:18; 00:50–00:56. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-grimm]: Original Session 2 recording, 01:02–01:20; 01:38–01:45. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.

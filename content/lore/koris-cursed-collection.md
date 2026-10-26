@@ -7,6 +7,14 @@ tags:
 - session-8
 ---
 
+# Session 2 — before the Drifters
+
+Before the wreck, Koris carries a cursed collection including a dangerous music box. She later accepts temporary custody of a miner’s snow globe that drains its bearer’s heat. The white-haired child who carried it warms up as Koris becomes cold. She promises to return it. This explains her later search for the globe without establishing its recovery after the wreck.[^s002-arrival][^s002-globe]
+
+[The miner’s snow globe](white-haired-childs-snow-globe.md).
+
+[Citizens-only Session 2](../sessions/session-002-citizens.md).
+
 # Objects in the satchel
 
 Koris checks that her recovered objects are safe and in their places. The spoken names include:[^s008-yt]
@@ -27,3 +35,7 @@ Her mother’s advice to help others and her grandmother’s advice to look afte
 [^s008-p2]: Original Part 2 recording; Part 1 00:30:30–00:32:00; Part 2 01:07:00–01:12:00; 01:24:00–01:27:00; supplied paragraphs 18, 105–109, 142–146.
 
 [^s008-yt]: Supplied YouTube transcript; Part 1 00:30:30–00:32:00; Part 2 01:07:00–01:12:00; 01:24:00–01:27:00; supplied paragraphs 18, 105–109, 142–146.
+
+[^s002-arrival]: Original Session 2 recording, 00:07–00:18; 00:50–00:56. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+[^s002-globe]: Original Session 2 recording, 02:02–02:15; 02:35–02:40. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
