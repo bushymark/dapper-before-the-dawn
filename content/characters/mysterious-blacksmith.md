@@ -41,3 +41,16 @@ After restoration the group proposes hiding in the mine below his house and chec
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 03:03:30–03:06:15.
+
+
+# Session 8 — refuge and a shared course
+
+The party returns to the Last Ember and Dayne finds bone ash in the forge. The GM explains that Recknar ended his own life there, settling the previous session’s fear without retroactively making it observed in Session 7. His workshop and keepsakes remain, and the GM confirms he had explicitly left the premises and supplies for the group to use. The red scales found behind the forge have no established owner or species.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:00–00:23; supplied P30–61.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:00–00:23; supplied P30–61.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:00–00:23; supplied P30–61.

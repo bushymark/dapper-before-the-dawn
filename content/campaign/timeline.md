@@ -116,3 +116,16 @@ The combined party resolves wreck equipment, learns the temporary-body deadline,
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:00:00–03:08:30.
+
+
+# Session 8 — refuge and a shared course
+
+**October 25, 2026 — combined Session 8, first remote session, all players.** An opening Brightfall vignette precedes the current action. The group returns to the Last Ember, discovers the smith’s death, recovers through food/tea/rest, and visits the airship wreck. Emeric’s private encounter loosens Apherion; he puts it back on. Debate ends in an agreed restoration and investigation course, not completed repairs or elapsed six weeks. The GM escalates the pursuit through enemy training.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:02–00:39; Part2 00:00–03:17; supplied P1–302.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:02–00:39; Part2 00:00–03:17; supplied P1–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:02–00:39; Part2 00:00–03:17; supplied P1–302.

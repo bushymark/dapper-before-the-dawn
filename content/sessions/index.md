@@ -18,3 +18,5 @@ Wiki home
 - [October 2 — Session 6, Citizens and Drifters](session-006-combined.md): trust, disguises and preparations before dawn.
 
 - [Session 7 — the retirement play and escape at dawn](session-007-combined.md) — October 4, all Citizens and Drifters.
+
+- [Session 8 — the Last Ember and the living sun](session-008-combined.md) — October 25, all Citizens and Drifters.

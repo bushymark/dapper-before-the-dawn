@@ -91,3 +91,16 @@ Maren performs the wind of retirement beside Emeric, helps draw away the guards,
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:15:20–00:21:50; 00:36:00–00:43:30; 01:21:30–01:24:30; 01:53:00–01:56:00; 02:33:00–02:34:00; 02:48:00–02:52:30.
+
+
+# Session 8 — refuge and a shared course
+
+Maren feels his unwritten memories of the Astral Sea beginning to fade. He asks detailed questions about Haskel’s living-sun account and argues that the unexplained impacts still warrant investigation. He supports rebuilding the ship alongside seeking information through the Court connection. The bug vignette is played by his player but is not established as Maren’s memory, dream or transformed body.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:02–00:22; Part2 00:31–00:32; 02:28–03:00; supplied P1–14,68,251–291.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:02–00:22; Part2 00:31–00:32; 02:28–03:00; supplied P1–14,68,251–291.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:02–00:22; Part2 00:31–00:32; 02:28–03:00; supplied P1–14,68,251–291.

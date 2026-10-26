@@ -53,3 +53,18 @@ The remaining binder sustains a spell that immediately restores the general afte
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:58:00–01:02:50; 01:11:00–01:13:30; 02:18:00–02:19:00; 02:25:00–02:31:40; 02:47:00–02:59:00; 03:04:00–03:08:30.
+
+
+# Session 8 — refuge and a shared course
+
+Elias recalls three properties: an archivist’s inkblade can sever the soul–victus link; a linked victus enables extreme restoration from even a body fragment within a plot; and its unique resonance leaves a trackable trail for up to several weeks. Ordinary plot magic also helps others but not to that extreme. Temporary objects are issued at birth, replaced at the first draft around 10 and potentially changed again at the second draft around 16–17, depending on service. These later age details refine the earlier unreliable voyage briefing rather than silently replacing its history. The rituals require enormous residuum, linked in the GM account to trade with Rios and interest in the Astral Sea. No source of new fuel is actually secured.
+
+No known easy alteration preserves all benefits while suppressing tracking. Severance may leave the physical keepsake intact but remove magic, cause prolonged despair and worsen evasion charges. The group discusses but performs no severance. Dayne’s damaged ring is not declared deliberately severed or magically inert solely from its visible condition.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:28–00:42; supplied P66–77.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:28–00:42; supplied P66–77.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:28–00:42; supplied P66–77.

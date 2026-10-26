@@ -103,3 +103,16 @@ Court forces oppose recovery at Alora: binders provide spell support, a forward 
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:35:00–01:20:30; 02:11:30–02:45:30.
+
+
+# Session 8 — refuge and a shared course
+
+The Court’s continuing pursuit remains a concern despite the woodland respite. Haskel hopes Bernard can help; the Drifters seek independent answers as well. The GM explains the residuum burden of the victus system, the first and second drafts, and controlled access to information about the sky. Guardian beasts are described as celestial protectors distinct from Court gorgons. Opposing forces receive a training/level escalation through the GM’s closing downtime action; no pardon, new battle or collective declaration of war occurs.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:23–00:46; 02:18–02:58; 03:15–03:17; supplied P62–81,228–290,299–302.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:23–00:46; 02:18–02:58; 03:15–03:17; supplied P62–81,228–290,299–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:23–00:46; 02:18–02:58; 03:15–03:17; supplied P62–81,228–290,299–302.

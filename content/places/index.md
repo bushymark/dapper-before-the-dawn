@@ -21,3 +21,6 @@ Wiki home
 - [First Woods — spelling provisional](first-woods.md)
 
 - [Resolute](resolute.md) — guarded airship, spelling provisional.
+
+- [Brightfall — spelling provisional](brightfall.md).
+- [The Last Ember](the-last-ember.md).

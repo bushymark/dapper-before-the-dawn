@@ -46,3 +46,16 @@ The earlier unidentified-object record is retained: this explanation is testimon
 [^airship-dictation]: User retrospective dictation, heading “Therica airship request”: paragraph 1 (Pillars and high-flight accounts), paragraph 2 (technology, destination and request), paragraph 3 (dictation workflow instruction), paragraph 4 (investigation goal).
 
 [^audience-dictation]: User retrospective note, heading “Therus audience and restricted movement”: paragraph 1 (ship, cube and encounter space), 2 (child, family and leadership), 3 (guardian-beast claims), 4 (rejection), 5 (mental-link access), 6 (escort and restrictions).
+
+
+# Session 8 — refuge and a shared course
+
+Haskel explains the apparent shattering as sun salamanders dispersing to avoid the meteor and regrouping. The GM elaborates a living solar cycle and supports his recalled knowledge. This adds an explanation to the witnessed phenomenon without erasing what the Drifters saw. The party has not verified the entire cycle firsthand, and neither the meteor’s intent nor the airship strike is resolved. The earlier possible solar time shift remains unconfirmed.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 02:28–02:58; supplied P251–290.
+
+[^s008-p2]: Original Part 2 recording; Part2 02:28–02:58; supplied P251–290.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 02:28–02:58; supplied P251–290.

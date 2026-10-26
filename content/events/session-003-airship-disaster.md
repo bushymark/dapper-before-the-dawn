@@ -28,3 +28,16 @@ Session 4’s final GM clarification says all three children were thrown free of
 [^s003]: Generated transcript lines 2627–2683 (lore), 2835–2869 (impact), 3219–3977 (rescue and crown), 4093–4413 (help, wings and engine).
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 885–899, 973–977, 1122–1125. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 8 — refuge and a shared course
+
+During the later guardian-beast discussion, the party asks why another impact struck its airship when Lastings presumably already had a protector. Ordinary destructive egg arrival is qualified by the GM. The disaster’s deliberate targeting, cosmic cause and exact guardian identity remain unproven; no new reconstruction of the crash is supplied.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 02:42–02:58; supplied P268–290.
+
+[^s008-p2]: Original Part 2 recording; Part2 02:42–02:58; supplied P268–290.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 02:42–02:58; supplied P268–290.

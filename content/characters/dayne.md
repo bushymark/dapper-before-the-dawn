@@ -64,3 +64,16 @@ Dayne exchanges respect for scholarship and dialogue with Maren, then stands bes
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:03:00–00:05:40; 00:47:00–00:52:00; 01:27:00–01:41:30; 02:02:00–02:11:30; 02:25:00–02:31:40; 02:34:00–02:41:30; 02:59:00–03:00:50; 03:04:00–03:08:30.
+
+
+# Session 8 — refuge and a shared course
+
+Dayne notices unidentified red scales behind the Last Ember and discovers the smith’s bone ash in the forge, without immediately showing the remains to everyone. He successfully prepares the shared meal after a reroll. His wife’s letter is missing and his recovered wedding ring is damaged. He insists on protecting and contacting his wife and two children while supporting the Drifters’ mission. His family lives in Lastings. No family message is sent, rescue arranged or contact confirmed.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:06–00:13; 00:28–00:31; 01:00–01:06; 02:07–02:16; 03:12–03:14; supplied P40–50,66–68,96–104,214–223,294–295.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:06–00:13; 00:28–00:31; 01:00–01:06; 02:07–02:16; 03:12–03:14; supplied P40–50,66–68,96–104,214–223,294–295.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:06–00:13; 00:28–00:31; 01:00–01:06; 02:07–02:16; 03:12–03:14; supplied P40–50,66–68,96–104,214–223,294–295.

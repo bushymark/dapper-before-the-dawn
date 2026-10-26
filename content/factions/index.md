@@ -19,3 +19,5 @@ Wiki home
 - [Theater of the Mind Flayer](theater-of-the-mind-flayer.md) — title spelling provisional.
 
 - [The Leading Men — title provisional](the-leading-men.md).
+
+- [Heaven Sent — spelling provisional](heaven-sent.md).

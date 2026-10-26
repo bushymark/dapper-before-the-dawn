@@ -34,3 +34,16 @@ Swamp Poppy accompanies Koris into the Alora fight, nonlethally subdues the shie
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:34:00–00:35:00; 01:13:50–01:20:30; 01:49:00–01:53:00; 02:28:00–02:29:30; 02:42:00–02:43:30.
+
+
+# Session 8 — refuge and a shared course
+
+The GM recap and player clarify that Poppy is an alligator rather than a crocodile. At the forge Poppy wanders toward the water; a splash, swan cry and silence are heard, but no explicit feeding outcome is narrated. Poppy later comforts Koris as she checks her objects. This is not a new death or permanent loss of the companion.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:24–00:25; Part2 00:14–00:15; 00:20–00:21; 01:10–01:12; supplied P17–18,55,60,107–109.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:24–00:25; Part2 00:14–00:15; 00:20–00:21; 01:10–01:12; supplied P17–18,55,60,107–109.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:24–00:25; Part2 00:14–00:15; 00:20–00:21; 01:10–01:12; supplied P17–18,55,60,107–109.

@@ -27,3 +27,5 @@ Wiki home
 - [The Alora theater supply raid](theater-supply-raid.md).
 
 - [Alora escape and restoration](alora-escape-and-restoration.md).
+
+- [A Bug’s Life — the dryad and lightning bug](brightfall-dryad-vignette.md).

@@ -18,3 +18,16 @@ Farther along stands [Recknar’s forge](../characters/mysterious-blacksmith.md)
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:00:45–00:01:55; 01:22:00–01:29:30; 01:31:00–01:35:00; 03:27:00–03:29:30. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 8 — refuge and a shared course
+
+The Last Ember becomes a place of refuge, food and rest before the group returns to Whipperwill’s wreck. Haskel’s knowledge assessment estimates several days for gorgon reinforcements and potentially weeks to search the woods, while cities remain dangerous. The crew agrees to rebuild but does not yet complete the projected six-week work period.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:23–00:27; 01:24–01:27; 03:14–03:17; supplied P62–64,142–146,299–302.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:23–00:27; 01:24–01:27; 03:14–03:17; supplied P62–64,142–146,299–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:23–00:27; 01:24–01:27; 03:14–03:17; supplied P62–64,142–146,299–302.

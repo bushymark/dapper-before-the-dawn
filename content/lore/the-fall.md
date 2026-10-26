@@ -23,3 +23,16 @@ Koris initially favors surrender, in part because family members are already the
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:32:00–00:43:30; 00:53:00–00:57:10; 04:05:00–04:11:00. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 8 — refuge and a shared course
+
+The GM recalls that friends or loved ones may voluntarily share someone’s sentence. Elias says his parents did not accompany his five years in the Fall. The group discusses returning to justice, but no new sentence, surrender, commutation or release is adjudicated.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:31–00:32; 02:07–02:23; supplied P68,214–240.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:31–00:32; 02:07–02:23; supplied P68,214–240.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:31–00:32; 02:07–02:23; supplied P68,214–240.

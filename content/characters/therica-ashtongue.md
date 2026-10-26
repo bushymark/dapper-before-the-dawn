@@ -74,3 +74,16 @@ Therica first fails to interfere with the general from the stage rigging, then l
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 01:20:30–01:21:20; 01:53:00–01:54:00; 02:26:30–02:36:30; 02:39:00–02:40:00; 02:48:00–02:50:00; 03:05:00–03:05:30.
+
+
+# Session 8 — refuge and a shared course
+
+Therica checks for pursuit, urges the Citizens to crew the ship and argues that strength can be used to protect loved ones. She recalls her grandfather ordering runemarked stones and rock armor for the Granite Guard when she became ill, linking power with his care for her. The exact royal generation is not inferred from this recollection or used to rename her father. She offers what reward is within her power and says she would pay a price for the theft if necessary. Her confidence that their mages could defeat petrification and that Rios could break any prison is a conviction, not a demonstrated cure or enacted military promise. She remains an NPC.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:23–00:24; 01:59–02:07; 02:23–02:27; supplied P62–64,198–213,241–250.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:23–00:24; 01:59–02:07; 02:23–02:27; supplied P62–64,198–213,241–250.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:23–00:24; 01:59–02:07; 02:23–02:27; supplied P62–64,198–213,241–250.

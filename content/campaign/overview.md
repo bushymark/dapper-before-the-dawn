@@ -70,3 +70,16 @@ The combined party escapes Alora with eight original bodies and the Citizens’ 
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 02:11:30–03:08:30.
+
+
+# Session 8 — refuge and a shared course
+
+The party finds refuge at the Last Ember, discovers the smith’s death, eats and rests. Emeric has a private celestial encounter and chooses to re-equip Apherion. At Whipperwill’s wreck, Haskel shares a living-sun cosmology but the impacts remain unexplained. The combined group agrees to rebuild the ship and seek information through Bernard; repairs and the projected weeks of work lie ahead.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:32–00:39; Part2 00:00–03:17; supplied P19–302.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:32–00:39; Part2 00:00–03:17; supplied P19–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:32–00:39; Part2 00:00–03:17; supplied P19–302.

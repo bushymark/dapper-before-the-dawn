@@ -89,3 +89,16 @@ Koris permits Cole to wield the cursed blade while retaining her claim to it. He
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:05:40–00:08:50; 00:54:00–01:02:50; 01:31:00–01:37:30; 02:04:00–02:10:30; 02:39:00–02:47:00; 02:53:00–02:55:00.
+
+
+# Session 8 — refuge and a shared course
+
+Cole offers sustained labor to rebuild Whipperwill, drawing on his work helping construct Dochas Ùr. He disputes treating every Citizen as an enemy, supports helping Dayne’s family, and offers refuge and rescue if their companions are imprisoned. He shares Therica’s determination to investigate the sky. No new construction work is completed before repair actions are deferred.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 01:53–02:27; 02:54–03:17; supplied P184–250,283–302.
+
+[^s008-p2]: Original Part 2 recording; Part2 01:53–02:27; 02:54–03:17; supplied P184–250,283–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 01:53–02:27; 02:54–03:17; supplied P184–250,283–302.

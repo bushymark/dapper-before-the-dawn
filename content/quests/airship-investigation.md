@@ -113,3 +113,16 @@ The party has escaped Alora and recovered its original bodies, but still has no 
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 02:11:30–02:22:30; 02:39:00–03:08:30.
+
+
+# Session 8 — refuge and a shared course
+
+Haskel’s living-sun explanation does not convince the group that the impacts are harmless. They agree to rebuild Whipperwill as an investigative vessel while seeking information through Bernard and considering Dayne’s family. Actual repairs are deferred, a six-week work period is projected, and no ship is yet operational. The meteor mystery and any threat to Rios or Eok remain unresolved.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 02:28–03:17; supplied P251–302.
+
+[^s008-p2]: Original Part 2 recording; Part2 02:28–03:17; supplied P251–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 02:28–03:17; supplied P251–302.

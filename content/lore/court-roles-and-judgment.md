@@ -32,3 +32,16 @@ Bernard von Kepler receives Haskel’s Astral Sea account, offers limited aid an
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 02:11:30–02:22:30; 02:38:00–02:43:00; 03:07:00–03:08:30.
+
+
+# Session 8 — refuge and a shared course
+
+First-draft travel around age10 teaches the Court’s role and gives a more personal victus; the second draft around 16–17 offers permanent service. Heaven Sent uses identity and clearance to distribute sending stones. Haskel hopes to retrieve Bernard’s help through it, but entering a city remains risky. Haskel’s predictions of possible exile or clemency are in-character assessments, not a Court ruling. The closing GM downtime action trains and strengthens the opposition without showing a new arrest or encounter.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:34–00:46; 02:18–02:23; 03:15–03:17; supplied P71–81,228–240,299–302.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:34–00:46; 02:18–02:23; 03:15–03:17; supplied P71–81,228–240,299–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:34–00:46; 02:18–02:23; 03:15–03:17; supplied P71–81,228–240,299–302.

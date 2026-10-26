@@ -64,3 +64,16 @@ Koris lends the cursed blade to Cole while insisting it remains in her charge. S
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:05:40–00:09:40; 00:23:00–00:26:00; 01:13:50–01:20:30; 01:49:00–01:53:00; 02:28:00–02:31:40; 02:55:00–02:57:20; 03:04:00–03:06:50.
+
+
+# Session 8 — refuge and a shared course
+
+Koris’s foraging supplies food for five, supplemented by the old sausages so Dayne can feed the party. She aids Emeric’s tea preparation and takes a quiet moment checking her recovered cursed objects. The GM recap reaffirms that her fifty gold pieces of tuition are lost; her academic plans remain uncertain. She asks for a snow globe at the wreck, then joins the others, but none is recovered. She suggests a cursed object might assist Haskel with concealment; no disguise plan is executed.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:31–00:38; Part2 00:48–00:55; 01:07–01:12; 01:24–01:27; 03:12–03:14; supplied P18–26,83–89,105–109,142–146,292–295.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:31–00:38; Part2 00:48–00:55; 01:07–01:12; 01:24–01:27; 03:12–03:14; supplied P18–26,83–89,105–109,142–146,292–295.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:31–00:38; Part2 00:48–00:55; 01:07–01:12; 01:24–01:27; 03:12–03:14; supplied P18–26,83–89,105–109,142–146,292–295.

@@ -18,3 +18,16 @@ They have limited flight height, roughly30–40 feet in the briefing, and are bu
 A gorgon approaches the fight at Alora. Therica’s lasso is carried along by its momentum, then jerks its shot aside when the rope reaches its limit. The shot partly petrifies the general while sparing Dayne. Haskel later evades its sweep with low gravity and a swimming motion. The construct is neither captured nor destroyed.
 
 [^s007]: Original recording, 01:47:00–01:49:30; 02:15:20–02:16:50; 02:23:00–02:24:50; 02:26:30–02:28:30; 02:43:00–02:45:30.
+
+
+# Session 8 — refuge and a shared course
+
+The pursuit assessment expects reinforcement gorgons from a place rendered Ravis, rather than removing machines that defend existing cities. Arrival is estimated at 3–4 days, then a broad woodland sweep that could take weeks. They do not precisely search the forest as people might. Their spotlight petrifies anything it catches without requiring eye contact. The opening Brightfall vignette depicts such a mechanical petrifying creature, but does not identify its individual history. Guardian beasts are separately discussed celestial animals, not another name for these machines.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:14–00:22; Part2 00:23–00:27; 02:42–02:54; supplied P6–14,62–64,268–281.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:14–00:22; Part2 00:23–00:27; 02:42–02:54; supplied P6–14,62–64,268–281.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:14–00:22; Part2 00:23–00:27; 02:42–02:54; supplied P6–14,62–64,268–281.

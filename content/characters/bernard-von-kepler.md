@@ -20,3 +20,16 @@ His name’s exact spelling remains unconfirmed. The scene fits the honored Bern
 He has not pardoned the group or guaranteed protection. Future contact and the Court’s response to his testimony remain unknown.
 
 [^s007]: Original recording, 02:11:30–02:22:30; 02:38:00–02:43:00.
+
+
+# Session 8 — refuge and a shared course
+
+The GM recap calls Bernard Haskel’s closest friend, while Haskel repeatedly calls him master. Haskel knows to seek a future sending stone through Heaven Sent. The narration recalls Bernard vetoing Haskel’s telescopic vision upgrade and losing his own sight a few months earlier. Haskel had interpreted the refusal as bitterness after that loss, but the motive is not confirmed. Bernard’s influence is a reason for hope, not a pardon, guaranteed safety or a message actually received. His identity relative to Whipperwill’s captain remains unconfirmed.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:30–00:31; Part2 00:43–00:46; 02:18–02:21; 02:28–02:30; supplied P18,78–81,228–231,251.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:30–00:31; Part2 00:43–00:46; 02:18–02:21; 02:28–02:30; supplied P18,78–81,228–231,251.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:30–00:31; Part2 00:43–00:46; 02:18–02:21; 02:28–02:30; supplied P18,78–81,228–231,251.

@@ -18,3 +18,5 @@ Wiki home
 - [Session 6 adjudications](session-006-adjudications.md).
 
 - [Session 7 adjudications](session-007-adjudications.md).
+
+- [Session 8 downtime and pursuit rulings](session-008-downtime.md).

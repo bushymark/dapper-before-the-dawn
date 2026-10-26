@@ -64,3 +64,16 @@ Haskel teaches Elias the coffin-opening gesture with a requested promise against
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:12:20–00:15:20; 00:30:00–00:32:30; 00:45:00–00:47:00; 01:03:00–01:09:00; 01:41:00–01:45:00; 02:18:00–02:22:30; 02:42:00–02:45:30; 02:57:00–02:59:00.
+
+
+# Session 8 — refuge and a shared course
+
+Haskel sees an opportunity for relative safety in the woods and hopes Bernard’s influence can help them return to lawful life. A message could be left through Heaven Sent, but collecting it would risk entering a city. He objects to hasty victus severance, admits uncertainty about how much of the group Bernard could protect, and shares restricted cosmological knowledge as a gesture of good faith. He believes the sun is made of living salamanders and dispersed to dodge the meteor; the other Citizens do not all know this. He accepts continued information-seeking alongside the group’s preliminary repair/investigation course; no surrender or city visit occurs.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:23–00:46; 02:18–02:58; supplied P62–81,228–290.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:23–00:46; 02:18–02:58; supplied P62–81,228–290.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:23–00:46; 02:18–02:58; supplied P62–81,228–290.

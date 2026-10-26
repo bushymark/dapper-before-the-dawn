@@ -74,3 +74,16 @@ Elias learns the coffin gesture, while his restrained fireworks leave visible ev
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:12:20–00:15:20; 00:23:00–00:25:00; 01:09:00–01:13:30; 02:23:00–02:26:30; 02:39:00–02:41:30; 03:00:50–03:08:30.
+
+
+# Session 8 — refuge and a shared course
+
+Elias’s surname is given as Silverstrand, with spelling still unconfirmed. He inspects the sound forge and studies victus tracking: severance could preserve a keepsake physically while losing its magic, with emotional and legal consequences. He promises not to alter anyone’s victus hastily; none is changed. He plans to restore the ship’s engine and mechanics once its hull is aligned. Repair rolls and the operational outcome are deferred. The earlier five-year Fall sentence is recalled, and he says his parents did not share it.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part1 00:24–00:25; Part2 00:18–00:20; 00:31–00:42; 01:58–02:00; 03:14–03:17; supplied P18,57–58,68–77,195–197,299–302.
+
+[^s008-p2]: Original Part 2 recording; Part1 00:24–00:25; Part2 00:18–00:20; 00:31–00:42; 01:58–02:00; 03:14–03:17; supplied P18,57–58,68–77,195–197,299–302.
+
+[^s008-yt]: Supplied YouTube transcript; Part1 00:24–00:25; Part2 00:18–00:20; 00:31–00:42; 01:58–02:00; 03:14–03:17; supplied P18,57–58,68–77,195–197,299–302.

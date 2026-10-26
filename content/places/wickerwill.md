@@ -45,3 +45,16 @@ At the beginning, the wreck’s wooden frame is burdened by sleek metal, chrome 
 [Session 5](../sessions/session-005-combined.md).
 
 [^s005]: Original recording, 00:01:57–00:02:45; 01:14:00–01:19:00; 02:52:00–03:06:00. Local machine transcription; no independent audio listening or speaker diarization.
+
+
+# Session 8 — refuge and a shared course
+
+The party returns to the physical wreck and agrees to rebuild it. The two halves are misaligned, with exposed ribs and much exterior metal gone. Elias expects to restore mechanics while Cole commits to hull work. The GM defers actual repair actions to the next session; the displayed board is at 0/30 VP and zero rolls. Roughly six weeks in the woods is projected, not elapsed. No operational airship or replacement name is established.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 01:24–01:27; 01:53–02:00; 03:14–03:17; supplied P142–146,184–197,299–302; targeted video Part2 03:14:05.
+
+[^s008-p2]: Original Part 2 recording; Part2 01:24–01:27; 01:53–02:00; 03:14–03:17; supplied P142–146,184–197,299–302; targeted video Part2 03:14:05.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 01:24–01:27; 01:53–02:00; 03:14–03:17; supplied P142–146,184–197,299–302; targeted video Part2 03:14:05.

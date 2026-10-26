@@ -56,3 +56,16 @@ Dayne considers Alora Valley a more likely body-recovery destination than return
 [^s003]: Supplied Session 3 transcript, 3219–3555. No verified audio timestamps or independent speaker alignment.
 
 [^s004]: Supplied transcript, original Unicode-delimited paragraphs 1055–1058, 1084–1086. No independently verified audio timestamp or speaker alignment.
+
+
+# Session 8 — refuge and a shared course
+
+Dayne’s wife and two children are said to be in Lastings. The group discusses covert contact, academics at the Glass Needle and finding their former companions, but no visit or message delivery occurs. Discussion recalls the city’s upper and lower levels; it does not establish a new guardian’s identity or explain why the airship was struck.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 02:07–02:16; 02:54–02:58; supplied P214–223,283–290.
+
+[^s008-p2]: Original Part 2 recording; Part2 02:07–02:16; 02:54–02:58; supplied P214–223,283–290.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 02:07–02:16; 02:54–02:58; supplied P214–223,283–290.

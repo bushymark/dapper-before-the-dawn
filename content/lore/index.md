@@ -17,3 +17,7 @@ Wiki home
 
 - [Mechanical gorgons](mechanical-gorgons.md).
 - [Elias’s mechanical lynx](elias-mechanical-lynx.md).
+
+- [The sun’s living cycle](the-suns-living-cycle.md).
+- [Guardian beasts](guardian-beasts.md).
+- [Koris’s cursed collection](koris-cursed-collection.md).

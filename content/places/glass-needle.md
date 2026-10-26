@@ -34,3 +34,16 @@ Dayne invokes the Glass Needle’s authority while offering to take responsibili
 [Session 6](../sessions/session-006-combined.md).
 
 [^s006]: Original recording, 00:17:18–00:17:30; 00:40:00–00:54:00. Local machine transcript compared with supplied transcript; no independent audio listening or speaker diarization.
+
+
+# Session 8 — refuge and a shared course
+
+Dayne and the group consider reaching academics for useful information, while Koris worries that her disrupted journey may have cost her acceptance or ability to study. No academic contact or restored enrollment is established.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 01:09–01:12; 02:12–02:15; supplied P107–109,220–221.
+
+[^s008-p2]: Original Part 2 recording; Part2 01:09–01:12; 02:12–02:15; supplied P107–109,220–221.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 01:09–01:12; 02:12–02:15; supplied P107–109,220–221.

@@ -97,3 +97,16 @@ Emeric stars as a vampire lord in the retirement play. Calm does not suppress th
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 00:15:20–00:21:50; 00:32:00–00:34:00; 00:42:00–00:43:30; 01:25:00–01:27:00; 01:56:00–02:01:30; 02:34:00–02:36:30; 02:47:00–02:51:00.
+
+
+# Session 8 — refuge and a shared course
+
+Emeric improves Hearthlight Tea so the group gains lasting temporary vitality and rest despite starvation. Alone at the forge on a private project, he ignores Apherion and sleeps. Explicitly awake afterward, he encounters multicolored celestial lights and an unnamed familiar feminine presence. The gauntlet’s clasps release; after the comforting presence departs he chooses to re-equip it. Apherion says it needs him, and he reciprocates. He later reaches the wreck clearing. The project’s result is promised for private Discord discussion and is not available here.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 00:48–00:55; 01:13–01:23; 02:27–02:28; supplied P83–89,112–138,250.
+
+[^s008-p2]: Original Part 2 recording; Part2 00:48–00:55; 01:13–01:23; 02:27–02:28; supplied P83–89,112–138,250.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 00:48–00:55; 01:13–01:23; 02:27–02:28; supplied P83–89,112–138,250.

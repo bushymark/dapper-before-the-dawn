@@ -62,3 +62,16 @@ During the flight, Emeric’s temporary arm and gauntlet detach and melt away be
 [Session 7](../sessions/session-007-combined.md).
 
 [^s007]: Original recording, 02:47:00–02:51:00.
+
+
+# Session 8 — refuge and a shared course
+
+Apherion remains present after restoration, resolving its uncertain continuing connection at the end of Session 7. Emeric ignores its request to speak at the forge. During his encounter with celestial lights, the gauntlet unclasps and falls free; Emeric later deliberately puts it back on. It tightens, asks him not to do that again, and says that it needs him. Emeric says he needs it too. The lights’ identity and their authority over it are not defined; this scene does not supply a general definition of mantle.[^s008-yt]
+
+[Session 8](../sessions/session-008-combined.md).
+
+[^s008-p1]: Original Part 1 recording; Part2 01:13–01:23; supplied P112–138.
+
+[^s008-p2]: Original Part 2 recording; Part2 01:13–01:23; supplied P112–138.
+
+[^s008-yt]: Supplied YouTube transcript; Part2 01:13–01:23; supplied P112–138.
