@@ -107,6 +107,10 @@ Maren feels his unwritten memories of the Astral Sea beginning to fade. He asks 
 
 # Session 9 — repairs and Rustwater Mine
 
+![Maren after attuning Architect of Ruin](../assets/portraits/maren-architect-of-ruin.png)
+
+*Architect of Ruin appearance.*[^s009-maren-form]
+
 Maren assesses the wreck with his architectural knowledge while his cloak forms work gloves, pouches and a measuring strip. He identifies apparently growing stone-and-metal gates in Rustwater Mine. On the way out, See the Unseen reveals a miner’s presence and memories associated with Recknar; Maren accepts the wrathful remnant, gaining Architect of Ruin and a blood-red, pick-tipped cloak. He later explains his remnant theory to the group. With Haskel he scouts the bypass and the grown wooden boats, whose weak communication he recognizes through Primordial. Primordial and Whimspeak are confirmed as his selected languages in the table discussion. The owlbear encounter remains unresolved.[^s009-repairs][^s009-mine][^s009-remnant][^s009-theory][^s009-boats][^s009-owlbear]
 
 [Session 9](../sessions/session-009-combined.md).
@@ -122,3 +126,5 @@ Maren assesses the wreck with his architectural knowledge while his cloak forms 
 [^s009-boats]: Original Session 9 recording, 03:40–04:00. Local machine transcription and selected video review; no independent listening or speaker diarization.
 
 [^s009-owlbear]: Original Session 9 recording, 04:00–04:18. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-maren-form]: User-supplied, explicitly identified image, November 9, 2026; original filename “Maren_ Architect of Ruin.png”. Illustration is a visual reference; the session’s narrated events and mechanics remain separately sourced.

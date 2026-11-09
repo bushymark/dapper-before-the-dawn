@@ -11,14 +11,14 @@
     "characters/elias.md": "b10785974b1a4e126d398185938893553fbee85396a560d07bf5cffcc8712018",
     "characters/emeric-bellamy.md": "109defe80dd802ba4bc5406fc51b3d6b27109420db266fc8bb841b1013e6dfaa",
     "characters/eokian-expectant-father.md": "7608699153fa9996a9fcfd37b6465f9c495852ffbd4732ea1da551c27ed93b4e",
-    "characters/follows-interesting-smells.md": "0f7f2c758ae6f4c816ef16e463de5df5e49b32430cd9f5bc3b35725c8fd9e681",
+    "characters/follows-interesting-smells.md": "9fa709f952d2deba2cfcbb0fea37c07c90dd8593b5d08a261a401b46535e5309",
     "characters/general-at-the-barrier.md": "cda59efd02ae836642de6dfae2918b84bead98989d6c978efc32acd466fb9e87",
     "characters/general-maochao.md": "56eb4a6137e1655e5262853ab0d6a95f285787f98a8302f85866cc961515eb89",
     "characters/glass-needle-young-inventors.md": "8f9ef13236184aab535bf87cf8d5fdcd91b225b981fcd29a5dc92a96e2f0c415",
     "characters/haskel.md": "95229d55b2264bb6cceed1d92567bce7698877dc38d432179b5fcf3add3e7b11",
     "characters/index.md": "f1894ec7b0bcb90a9fec4ad20335e18647b71f22d48094717a9c92c81b63448f",
     "characters/koris.md": "4c8e545c53b9ab4ae0b66540179aca0d640ff6fad034c8edd24a8bd5ba1f662e",
-    "characters/maren.md": "dd16f0335febf786f41f171b4fdfbac556b4cb0e370e6a3919466e27a5424963",
+    "characters/maren.md": "82482f7eb1419066f4fbd95d548b96ff78f252170f9c90731cbbd0a51134721b",
     "characters/mysterious-blacksmith.md": "ebed95c2bd768181a8fe82662b8ca8c90bcf999c5d59a11726e6aaa0f59d2007",
     "characters/oma.md": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
     "characters/paedan-dahhm.md": "b23c009e05f21e187077bdf86e4fb113c8a62c1dc26363ecac1981a538e3c3ae",
@@ -27,7 +27,7 @@
     "characters/shamus-the-grimm.md": "3b8a76f42b3b404280d3fbea5ac639add9d0091a3581020fbb9be91b847b0c0a",
     "characters/silvestro-cassetti.md": "9b69bdf60768d43d2a0043614fb417787ebec2b785565c4df2162945f3eade20",
     "characters/sledge.md": "430dd0f487b65e7da510189fd57dfd92d5325d0be782c86a032927dd00817b83",
-    "characters/sleeps-under-leaves.md": "b72f2790cde148082b57caa2726b6c9a1825d0198473f69f48b805b242b5a786",
+    "characters/sleeps-under-leaves.md": "f716cbf39f3627058895720f270707ff4ca98513b4bd734f59b1cf5f710dcae3",
     "characters/smidgen.md": "27ad20d0f53641e472d430bbd8d54a6d6073277ff1fd1c582aebcd5404d78cda",
     "characters/swamp-poppy.md": "af5d29368d786a386aad8f3856ab14d5d1067b19b5b46492f52ca60c6f439069",
     "characters/tallow.md": "37d196e8eb8be68bbad21b0b29b5d1b325a32ee64cb14be63ca034b80de33513",
@@ -113,7 +113,7 @@
     "sessions/session-006-combined.md": "0928a25f68af1f98569e8f0e4140112783e6376e3fe2682675ae463434dc3bbd",
     "sessions/session-007-combined.md": "02752b87c7f89e6a094812d190e3c019a3f39735141b740c1c18274dd7492301",
     "sessions/session-008-combined.md": "55413b207b3a85c23ebee15cafe93bd3cad3299e8e9acb12e5c964f75ed3b928",
-    "sessions/session-009-combined.md": "54e6489fae1b1d1592b70b06fda6593ed0da1b29a9ed6d1e2d31b1757c3ea990"
+    "sessions/session-009-combined.md": "51e4d05355f368d97faa33591f65ce0ed7387fbd3fa6bf4c563d1a6e6f81814e"
   },
   "editorial_review": {
     "campaign/overview.md": {
@@ -195,10 +195,10 @@
       "reviewed_at": "2026-11-09T02:24:51.360489+00:00"
     },
     "characters/maren.md": {
-      "source_sha256": "dd16f0335febf786f41f171b4fdfbac556b4cb0e370e6a3919466e27a5424963",
-      "editorial_sha256": "e3b60056d937f7aa238d988959706ba807ac6c08a19c24f20ff4d656559ac413",
-      "reviewer": "agent/codex/session-009-editorial-review",
-      "reviewed_at": "2026-11-09T02:24:51.360840+00:00"
+      "source_sha256": "82482f7eb1419066f4fbd95d548b96ff78f252170f9c90731cbbd0a51134721b",
+      "editorial_sha256": "5e2328d4658e748c74ea77b7e97872596bde95b6db8b1fddec48adf6aa048ab0",
+      "reviewer": "agent/codex/session-009-image-review",
+      "reviewed_at": "2026-11-09T11:40:30.246167+00:00"
     },
     "characters/oma.md": {
       "source_sha256": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
@@ -729,10 +729,10 @@
       "reviewed_at": "2026-10-26T20:42:45.204506+00:00"
     },
     "characters/follows-interesting-smells.md": {
-      "source_sha256": "0f7f2c758ae6f4c816ef16e463de5df5e49b32430cd9f5bc3b35725c8fd9e681",
-      "editorial_sha256": "0f70732bc2d73ab445071f452be2726d2d29ffb3af17f9ef21f202b000aa3c83",
-      "reviewer": "agent/codex/session-009-editorial-review",
-      "reviewed_at": "2026-11-09T02:24:51.359667+00:00"
+      "source_sha256": "9fa709f952d2deba2cfcbb0fea37c07c90dd8593b5d08a261a401b46535e5309",
+      "editorial_sha256": "8efe4f01b5a78f7a791a94cd734941dcda2e7bfadb3ba87f632c40515d70ed91",
+      "reviewer": "agent/codex/session-009-image-review",
+      "reviewed_at": "2026-11-09T11:40:30.246360+00:00"
     },
     "characters/rustwater-owlbear.md": {
       "source_sha256": "6ad610cda216da55f6af62f8c8cd58b4d1497e3bf1138deaa50c2c548f1936ce",
@@ -741,10 +741,10 @@
       "reviewed_at": "2026-11-09T02:24:51.361331+00:00"
     },
     "characters/sleeps-under-leaves.md": {
-      "source_sha256": "b72f2790cde148082b57caa2726b6c9a1825d0198473f69f48b805b242b5a786",
-      "editorial_sha256": "78f37a8e90fb253c5ab788212c946f5ee70c35469de09a5ac8f2fe000cde014b",
-      "reviewer": "agent/codex/session-009-editorial-review",
-      "reviewed_at": "2026-11-09T02:24:51.361519+00:00"
+      "source_sha256": "f716cbf39f3627058895720f270707ff4ca98513b4bd734f59b1cf5f710dcae3",
+      "editorial_sha256": "6f3fbefe03693e3a8b78ea2a920c1f5c5d8de421ec18abe779a24789693ec378",
+      "reviewer": "agent/codex/session-009-image-review",
+      "reviewed_at": "2026-11-09T11:40:30.246535+00:00"
     },
     "lore/living-stone-and-metal.md": {
       "source_sha256": "a2efe5176255b5f024fa2377ba4c8b48269bfc7fdc1e06bbfbc00035b340d127",
@@ -789,10 +789,10 @@
       "reviewed_at": "2026-11-09T02:24:51.365646+00:00"
     },
     "sessions/session-009-combined.md": {
-      "source_sha256": "54e6489fae1b1d1592b70b06fda6593ed0da1b29a9ed6d1e2d31b1757c3ea990",
-      "editorial_sha256": "2da668311955f84f4cea8494bfc94139eb9dcd811846c8a236a2dc7163a4367c",
-      "reviewer": "agent/codex/session-009-editorial-review",
-      "reviewed_at": "2026-11-09T02:24:51.366549+00:00"
+      "source_sha256": "51e4d05355f368d97faa33591f65ce0ed7387fbd3fa6bf4c563d1a6e6f81814e",
+      "editorial_sha256": "5151deb3bb1fc65fc63152c386f4abb20d3a4b20ba2ba89432582b2c5ddb73c3",
+      "reviewer": "agent/codex/session-009-image-review",
+      "reviewed_at": "2026-11-09T11:40:30.245817+00:00"
     }
   },
   "assets": {
@@ -808,7 +808,10 @@
     "assets/portraits/elias.png": "61faeef40a5ae950b1142ce897f717c4a7da2d81ff8920da6bd62404b753947f",
     "assets/portraits/haskel.png": "032299fc76ee381e3bafe8441bf32f990c3dd9011eced92763669b636f8a769f",
     "assets/portraits/koris.png": "876aa08bfe362709d99dbc7b0b3f69fd494562e963da876bb67e47484a49a7d2",
-    "assets/portraits/maren.png": "6082193f4318943ea482625cb08ceddee6a65d5745cb5b12a454919f1afaa170"
+    "assets/portraits/maren.png": "6082193f4318943ea482625cb08ceddee6a65d5745cb5b12a454919f1afaa170",
+    "assets/portraits/maren-architect-of-ruin.png": "bd3a50fd27242d35218fc8f4bf31b3add42a03fb420df97da5602d562d67920e",
+    "assets/portraits/follows-interesting-smells.png": "5eec81fc92e014d535478545a768f9caae9d395decbf26e0d5dd93dd08e4c320",
+    "assets/portraits/sleeps-under-leaves.jpg": "60d0de7641143ee7198c7991f103510d0e1efadfc2470c1336c1350ea8ed9952"
   },
   "excluded": [
     "raw sources",

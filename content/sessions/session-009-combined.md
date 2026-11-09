@@ -38,6 +38,10 @@ As Maren leaves last, something tugs a strand of his cloak. **See the Unseen** r
 
 Maren accepts the presence. He gains lasting access to **Architect of Ruin**, with special permission to attune to it during the session. Unlike the diffuse concepts he has previously worked with, this feels like a recently dead individual mind, full of patient hatred and revenge. The encounter does not bring Recknar back bodily or establish that every remnant is a complete soul.[^s009-remnant]
 
+![Maren after attuning Architect of Ruin](../assets/portraits/maren-architect-of-ruin.png)
+
+*Maren after attuning Architect of Ruin.*[^s009-maren-form]
+
 Back above, Maren explains his experiences to the others. He describes his earlier remnants as blended impulses and feelings, and shares a working theory connecting their condition to the Howl’s spiritual sundering. He has never lost control to one, but admits that this presence and continent are new territory. The group asks him to remain open about changes, and he agrees.[^s009-theory]
 
 # Beyond the sealed gate
@@ -81,3 +85,5 @@ The session ends here. The party has not fought, freed or killed the owlbear, cr
 [^s009-rules]: Original Session 9 recording, 00:11–00:22; 00:33–00:34; 01:38–01:41; 02:48–02:57; 04:00–04:02; 04:15–04:22. Local machine transcription and selected video review; no independent listening or speaker diarization.
 
 [^s009-context]: User supplied the recording and archive link and said Session 9 completed today, November 8, 2026. Combined-party scene participation comes from the recording; player attendance was not separately supplied.
+
+[^s009-maren-form]: User-supplied, explicitly identified image, November 9, 2026; original filename “Maren_ Architect of Ruin.png”. Illustration is a visual reference; the session’s narrated events and mechanics remain separately sourced.
