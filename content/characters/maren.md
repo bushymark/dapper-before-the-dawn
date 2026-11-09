@@ -11,6 +11,34 @@ party: the-drifters
 ![Portrait of Maren](../assets/portraits/maren.png)
 
 
+# Attuned aspects
+
+Maren’s appearance changes with the aspect he attunes. Four forms have been seen so far, each giving his cloak a distinctive texture, shape and movement.[^aspects-context]
+
+## Steward of Stone and Fire
+
+![Maren attuned to Steward of Stone and Fire](../assets/portraits/maren-steward-of-stone-and-fire.png)
+
+His hood and cloak take on the appearance of overlapping, rough stone plates. Orange light glows through their cracks like banked fire, giving the layered silhouette a heavy, volcanic character.[^aspect-steward-of-stone-and-fire]
+
+## Crafter in the Vault
+
+![Maren attuned to Crafter in the Vault](../assets/portraits/maren-crafter-in-the-vault.png)
+
+His cloak separates into charcoal strips traced with fine gold lines, circles and geometric markings. The folds gather into hand wraps, pouches and tool loops; a length drawn between his hands becomes a marked measuring strip.[^aspect-crafter-in-the-vault]
+
+## Shepherd of Errant Winds
+
+![Maren attuned to Shepherd of Errant Winds](../assets/portraits/maren-shepherd-of-errant-winds.png)
+
+His cloak fans outward into long, narrow streamers that trail and curl in the wind. Pale currents weave around the dark fabric, giving the form an airy, flowing silhouette.[^aspect-shepherd-of-errant-winds]
+
+## Architect of Ruin
+
+![Maren attuned to Architect of Ruin](../assets/portraits/maren-architect-of-ruin.png)
+
+His cloak drops heavily onto his shoulders and lengthens into jagged, blood-red strips. Black grit, soil and dried blood stiffen the fabric into dark, cable-like lengths; rust-dark ends curl inward like the hooked points of small picks.[^aspect-architect-of-ruin][^s009-remnant]
+
 # Session history
 
 [September 28 session](../sessions/2026-09-28-drifters-s001.md) depicts Maren waking from the child-emissary dream, wearing a distinctive key and scholarly equipment, and preparing for the remembrance festival. He keeps the key rather than offering it to the ceremony. The folded cloak's cause is not established.[^transcript]
@@ -107,10 +135,6 @@ Maren feels his unwritten memories of the Astral Sea beginning to fade. He asks 
 
 # Session 9 — repairs and Rustwater Mine
 
-![Maren after attuning Architect of Ruin](../assets/portraits/maren-architect-of-ruin.png)
-
-*Architect of Ruin appearance.*[^s009-maren-form]
-
 Maren assesses the wreck with his architectural knowledge while his cloak forms work gloves, pouches and a measuring strip. He identifies apparently growing stone-and-metal gates in Rustwater Mine. On the way out, See the Unseen reveals a miner’s presence and memories associated with Recknar; Maren accepts the wrathful remnant, gaining Architect of Ruin and a blood-red, pick-tipped cloak. He later explains his remnant theory to the group. With Haskel he scouts the bypass and the grown wooden boats, whose weak communication he recognizes through Primordial. Primordial and Whimspeak are confirmed as his selected languages in the table discussion. The owlbear encounter remains unresolved.[^s009-repairs][^s009-mine][^s009-remnant][^s009-theory][^s009-boats][^s009-owlbear]
 
 [Session 9](../sessions/session-009-combined.md).
@@ -128,3 +152,13 @@ Maren assesses the wreck with his architectural knowledge while his cloak forms 
 [^s009-owlbear]: Original Session 9 recording, 04:00–04:18. Local machine transcription and selected video review; no independent listening or speaker diarization.
 
 [^s009-maren-form]: User-supplied, explicitly identified image, November 9, 2026; original filename “Maren_ Architect of Ruin.png”. Illustration is a visual reference; the session’s narrated events and mechanics remain separately sourced.
+
+[^aspects-context]: November 9, 2026 confirmation accompanying four identified illustrations; confirms these aspects have been seen during the campaign, without assigning first-appearance dates.
+
+[^aspect-steward-of-stone-and-fire]: Supplied Steward of Stone and Fire illustration, November 9, 2026; appearance reference only. Background scenery and printed flavor text do not establish campaign events, quotations or mechanics.
+
+[^aspect-crafter-in-the-vault]: Supplied Crafter in the Vault illustration, November 9, 2026; appearance reference only. Background scenery and printed flavor text do not establish campaign events, quotations or mechanics.
+
+[^aspect-shepherd-of-errant-winds]: Supplied Shepherd of Errant Winds illustration, November 9, 2026; appearance reference only. Background scenery and printed flavor text do not establish campaign events, quotations or mechanics.
+
+[^aspect-architect-of-ruin]: Supplied Architect of Ruin illustration, November 9, 2026; appearance reference only. Background scenery and printed flavor text do not establish campaign events, quotations or mechanics.

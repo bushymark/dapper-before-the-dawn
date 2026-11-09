@@ -18,7 +18,7 @@
     "characters/haskel.md": "95229d55b2264bb6cceed1d92567bce7698877dc38d432179b5fcf3add3e7b11",
     "characters/index.md": "f1894ec7b0bcb90a9fec4ad20335e18647b71f22d48094717a9c92c81b63448f",
     "characters/koris.md": "4c8e545c53b9ab4ae0b66540179aca0d640ff6fad034c8edd24a8bd5ba1f662e",
-    "characters/maren.md": "82482f7eb1419066f4fbd95d548b96ff78f252170f9c90731cbbd0a51134721b",
+    "characters/maren.md": "f65df40130daaf5191b6c9324216ec5fcae4103a7cd2cd83f05a2dac87970992",
     "characters/mysterious-blacksmith.md": "ebed95c2bd768181a8fe82662b8ca8c90bcf999c5d59a11726e6aaa0f59d2007",
     "characters/oma.md": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
     "characters/paedan-dahhm.md": "b23c009e05f21e187077bdf86e4fb113c8a62c1dc26363ecac1981a538e3c3ae",
@@ -195,10 +195,10 @@
       "reviewed_at": "2026-11-09T02:24:51.360489+00:00"
     },
     "characters/maren.md": {
-      "source_sha256": "82482f7eb1419066f4fbd95d548b96ff78f252170f9c90731cbbd0a51134721b",
-      "editorial_sha256": "5e2328d4658e748c74ea77b7e97872596bde95b6db8b1fddec48adf6aa048ab0",
-      "reviewer": "agent/codex/session-009-image-review",
-      "reviewed_at": "2026-11-09T11:40:30.246167+00:00"
+      "source_sha256": "f65df40130daaf5191b6c9324216ec5fcae4103a7cd2cd83f05a2dac87970992",
+      "editorial_sha256": "c47259d6b618b67a6422dadd75eccff04f079092868b78d53fa414c940239462",
+      "reviewer": "agent/codex/maren-four-aspects-visual-prose-review",
+      "reviewed_at": "2026-11-09T12:04:27.461834+00:00"
     },
     "characters/oma.md": {
       "source_sha256": "993b3448581f99e10ded68fdb25585398f94b7df5981fe9658cba5bea268d45b",
@@ -811,7 +811,10 @@
     "assets/portraits/maren.png": "6082193f4318943ea482625cb08ceddee6a65d5745cb5b12a454919f1afaa170",
     "assets/portraits/maren-architect-of-ruin.png": "bd3a50fd27242d35218fc8f4bf31b3add42a03fb420df97da5602d562d67920e",
     "assets/portraits/follows-interesting-smells.png": "5eec81fc92e014d535478545a768f9caae9d395decbf26e0d5dd93dd08e4c320",
-    "assets/portraits/sleeps-under-leaves.jpg": "60d0de7641143ee7198c7991f103510d0e1efadfc2470c1336c1350ea8ed9952"
+    "assets/portraits/sleeps-under-leaves.jpg": "60d0de7641143ee7198c7991f103510d0e1efadfc2470c1336c1350ea8ed9952",
+    "assets/portraits/maren-steward-of-stone-and-fire.png": "3863ac7fc5fc372283349ad7fdbc2dfad6dbfd96d8fd46ec3c8c1bf491045dbb",
+    "assets/portraits/maren-crafter-in-the-vault.png": "cc469d3f04523f285d07bb3ac8e6f5ba6e4c8fcbe64ddeb6fe4d8f7224f58b8c",
+    "assets/portraits/maren-shepherd-of-errant-winds.png": "4137687028deca4769eac4b647e49714429af1f8c5526c3fb00bee451da7a4cb"
   },
   "excluded": [
     "raw sources",
