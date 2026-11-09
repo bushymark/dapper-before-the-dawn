@@ -9,6 +9,9 @@ import popoverScript from "../../components/scripts/popover.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
+// @ts-ignore
+import imageViewerScript from "../../components/scripts/imageViewer.inline"
+import imageViewerStyle from "../../components/styles/imageViewer.scss"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
 import { normalizeResource } from "../../util/resources"
@@ -83,6 +86,9 @@ async function joinScripts(scripts: string[]): Promise<string> {
 
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {
   const cfg = ctx.cfg.configuration
+
+  componentResources.afterDOMLoaded.push(imageViewerScript)
+  componentResources.css.push(imageViewerStyle)
 
   // popovers
   if (cfg.enablePopovers) {

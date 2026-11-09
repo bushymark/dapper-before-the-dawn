@@ -16,3 +16,5 @@ npx quartz build --serve
 Content is generated from an explicit publication list in the private campaign wiki. Update canonical lore there and re-export it; edits to these generated copies can be overwritten. GitHub Actions builds and deploys on pushes to main.
 
 Quartz is MIT licensed; see LICENSE.txt and UPSTREAM.md. No analytics are configured.
+
+All article images open in an on-page viewer when clicked or activated with Enter/Space. The viewer uses the original image, fits it to the screen initially, and offers 100% zoom with scrolling. Close with Escape, the Close button, or the space surrounding the image. The behavior also applies after navigating between pages; no changes to exported Markdown are needed.
