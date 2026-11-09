@@ -87,3 +87,15 @@ Therica checks for pursuit, urges the Citizens to crew the ship and argues that 
 [^s008-p2]: Original Part 2 recording; Part2 00:23–00:24; 01:59–02:07; 02:23–02:27; supplied P62–64,198–213,241–250.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:23–00:24; 01:59–02:07; 02:23–02:27; supplied P62–64,198–213,241–250.
+
+# Session 9 — repairs and Rustwater Mine
+
+Therica gathers food and makes a drafting surface for Elias from unused pages of Bernard’s journal. She asks why her affliction’s scars persisted through resurrection; Elias offers a soul-shape theory, and she says the condition began as a childhood fey curse. At the mine she remains above with the rope to support a retreat, eventually accepting a promised apple pie for another turn on lookout. No cure or completed pie is shown.[^s009-scar][^s009-supplies][^s009-theory]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-scar]: Original Session 9 recording, 01:10–01:20. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-supplies]: Original Session 9 recording, 01:20–01:41. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-theory]: Original Session 9 recording, 02:55–03:17. Local machine transcription and selected video review; no independent listening or speaker diarization.

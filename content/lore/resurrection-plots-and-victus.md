@@ -68,3 +68,15 @@ No known easy alteration preserves all benefits while suppressing tracking. Seve
 [^s008-p2]: Original Part 2 recording; Part2 00:28–00:42; supplied P66–77.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:28–00:42; supplied P66–77.
+
+# Session 9 — repairs and Rustwater Mine
+
+Dead spiders in the mine prompt an explanation of creatures accustomed to dying and returning without learning to migrate for food. Once the plot’s reach recedes, that adaptation becomes fatal. The group considers broader predator-prey consequences without establishing a complete ecological model. Blood around the lake could come from many victims or fewer people dying repeatedly; neither possibility is confirmed. Elias’s separate soul-shape explanation for persistent scars remains a theory.[^s009-mine][^s009-owlbear][^s009-scar]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-owlbear]: Original Session 9 recording, 04:00–04:18. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-scar]: Original Session 9 recording, 01:10–01:20. Local machine transcription and selected video review; no independent listening or speaker diarization.

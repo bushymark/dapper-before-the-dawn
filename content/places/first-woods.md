@@ -31,3 +31,13 @@ The Last Ember becomes a place of refuge, food and rest before the group returns
 [^s008-p2]: Original Part 2 recording; Part2 00:23–00:27; 01:24–01:27; 03:14–03:17; supplied P62–64,142–146,299–302.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:23–00:27; 01:24–01:27; 03:14–03:17; supplied P62–64,142–146,299–302.
+
+# Session 9 — repairs and Rustwater Mine
+
+Travelers still pass the forge road. Cole meets firbolg traders going from Lastings toward Alora, while the party works on the wreck and secures ore from Rustwater Mine. The patrol danger remains; no Court search reaches the group during the recorded events.[^s009-trade][^s009-mine]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-trade]: Original Session 9 recording, 00:41–01:09. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.

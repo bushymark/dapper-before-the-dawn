@@ -32,7 +32,7 @@ Severing the magic could leave a sentimental object intact but remove its benefi
 
 While the others set out toward the wreck, Emeric remains at the forge on a private project. He ignores Apherion’s request to speak and eventually falls asleep. On waking, he steps outside into hundreds of multicolored celestial lights and feels a familiar, comforting presence. He is awake, though the presence’s identity remains unknown.[^s008-lights]
 
-The lights touch Apherion’s clasps and the gauntlet falls free for the first time. Emeric feels reassured that his companions can be trusted and that he can still do good. After the lights depart, he chooses to pick up and re-equip the gauntlet. It tightens again and tells him not to do that again, saying that it needs him. Emeric answers that he needs it too. His project’s mechanical result is reserved for a later private discussion and is not established in this record.[^s008-lights]
+The lights touch Apherion’s clasps and the gauntlet falls free for the first time. Emeric feels reassured that his companions can be trusted and that he can still do good. After the lights depart, he kneels and places his arm into the gauntlet to reattach it.[^s009-retcon] It tightens again and tells him not to do that again, saying that it needs him. Emeric answers that he needs it too. His project’s mechanical result is reserved for a later private discussion and is not established in this record.[^s008-lights]
 
 # A wreck, a crew and competing hopes
 
@@ -82,3 +82,5 @@ The closing GM downtime action escalates the opposition: forces train, gain leve
 [^s008-guardians]: Part 2 02:42:00–02:54:00; supplied paragraphs 268–282. Original part-local recording locators and supplied transcript paragraph numbers; local machine transcription compared with supplied text.
 
 [^s008-course]: Part 2 02:54:00–03:17:30; supplied paragraphs 283–302; targeted repair-board video frame Part2 03:14:05. Original part-local recording locators and supplied transcript paragraph numbers; local machine transcription compared with supplied text.
+
+[^s009-retcon]: Original Session 9 recording, 00:06:40–00:08:10. Local machine transcription and selected video review; no independent listening or speaker diarization. The GM explicitly corrects the earlier description that he picked it up.

@@ -91,3 +91,13 @@ Koris’s foraging supplies food for five, supplemented by the old sausages so D
 [^s002-globe]: Original Session 2 recording, 02:02–02:15; 02:35–02:40. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
 
 [^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+# Session 9 — repairs and Rustwater Mine
+
+Koris helps around the repair effort and chooses to stay above with Cole’s three Toskers, hoping to learn their names and what they eat. She does not accompany the deeper mine scouting. No new recovery of her snow globe, tuition or other missing belongings is established.[^s009-trade][^s009-supplies]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-trade]: Original Session 9 recording, 00:41–01:09. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-supplies]: Original Session 9 recording, 01:20–01:41. Local machine transcription and selected video review; no independent listening or speaker diarization.

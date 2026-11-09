@@ -1,7 +1,8 @@
 ---
 type: Quest
 title: Restore Whipperwill
-description: Agreed plan to repair the wreck; the actual repair actions remain pending.
+description: First repair round reaches 6/30; ore secured, refining and lift remain
+  unfinished.
 tags:
 - dapper-before-the-dawn
 - session-8
@@ -24,3 +25,17 @@ No new ship name is adopted. Proposals about contacting families, acquiring mess
 [^s008-p2]: Original Part 2 recording; Part 2 01:24:00–01:27:30; 01:53:00–02:27:30; 02:58:00–03:17:30; supplied paragraphs 142–146, 184–250, 291–302; targeted video frame Part2 03:14:05.
 
 [^s008-yt]: The interface shows Whippoorwill; the established canonical name remains Whipperwill. Supplied YouTube transcript; Part 2 01:24:00–01:27:30; 01:53:00–02:27:30; 02:58:00–03:17:30; supplied paragraphs 142–146, 184–250, 291–302; targeted video frame Part2 03:14:05.
+
+# Session 9 — repairs and Rustwater Mine
+
+The first repair round is complete at **6/30: Hull 3/10, Living Wood 3/10, Lift 0/10**. Dayne’s connection strengthens the living wood, Cole obtains tape through a trade and the group recovers iron from Rustwater Mine. Metal refining and the lift solution remain ahead. The six-week estimate has not elapsed and the vessel cannot fly. The deeper expedition ends at an unresolved owlbear encounter, so no further repair round is completed.[^s009-repairs][^s009-trade][^s009-mine][^s009-owlbear]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-repairs]: Original Session 9 recording, 00:09–00:41; 01:05–01:11; selected video frames 00:25:00 and 01:06:40. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-trade]: Original Session 9 recording, 00:41–01:09. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-owlbear]: Original Session 9 recording, 04:00–04:18. Local machine transcription and selected video review; no independent listening or speaker diarization.

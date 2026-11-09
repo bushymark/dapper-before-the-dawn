@@ -101,3 +101,17 @@ Elias’s surname is given as Silverstrand, with spelling still unconfirmed. He 
 [^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
 
 [^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+# Session 9 — repairs and Rustwater Mine
+
+Elias surveys the repair project and helps the others’ first week of work. Therica makes him a drawing surface from unused pages of Bernard’s salvaged journal, and he uses it for engine plans. His suggestion that resurrection preserves scars through the soul’s shape is a theory. In the mine he helps gather ore and recognizes that the deeper gate’s lock-like appearance does not make it an opening mechanism.[^s009-repairs][^s009-scar][^s009-mine][^s009-gate]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-repairs]: Original Session 9 recording, 00:09–00:41; 01:05–01:11; selected video frames 00:25:00 and 01:06:40. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-scar]: Original Session 9 recording, 01:10–01:20. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-gate]: Original Session 9 recording, 03:17–03:39. Local machine transcription and selected video review; no independent listening or speaker diarization.

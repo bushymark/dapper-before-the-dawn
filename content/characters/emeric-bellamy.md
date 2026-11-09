@@ -110,3 +110,13 @@ Emeric improves Hearthlight Tea so the group gains lasting temporary vitality an
 [^s008-p2]: Original Part 2 recording; Part2 00:48–00:55; 01:13–01:23; 02:27–02:28; supplied P83–89,112–138,250.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:48–00:55; 01:13–01:23; 02:27–02:28; supplied P83–89,112–138,250.
+
+# Session 9 — repairs and Rustwater Mine
+
+The opening correction specifies that Emeric never lifted Apherion from the ground: he knelt and placed his arm into the gauntlet to reattach it. During the mine expedition his connection helps relay information between the scouts and the rest of the group. The private project from the forge still has no disclosed result here.[^s009-retcon][^s009-boats]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-retcon]: Original Session 9 recording, 00:06:40–00:08:10. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-boats]: Original Session 9 recording, 03:40–04:00. Local machine transcription and selected video review; no independent listening or speaker diarization.

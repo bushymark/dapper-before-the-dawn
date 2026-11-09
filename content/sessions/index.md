@@ -22,3 +22,5 @@ Wiki home
 - [Session 7 — the retirement play and escape at dawn](session-007-combined.md) — October 4, all Citizens and Drifters.
 
 - [Session 8 — the Last Ember and the living sun](session-008-combined.md) — October 25, all Citizens and Drifters.
+
+- [Session 9 — Rustwater Mine and the patient hatred](session-009-combined.md) — November 8, 2026.

@@ -75,3 +75,11 @@ Apherion remains present after restoration, resolving its uncertain continuing c
 [^s008-p2]: Original Part 2 recording; Part2 01:13–01:23; supplied P112–138.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 01:13–01:23; supplied P112–138.
+
+# Session 9 — repairs and Rustwater Mine
+
+The GM corrects the reattachment scene: Emeric knelt and put his arm into the gauntlet instead of lifting it. The correction does not define a mantle’s weight, rules or identity beyond what is stated.[^s009-retcon]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-retcon]: Original Session 9 recording, 00:06:40–00:08:10. Local machine transcription and selected video review; no independent listening or speaker diarization.

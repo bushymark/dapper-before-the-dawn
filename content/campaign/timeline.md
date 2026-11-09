@@ -146,3 +146,19 @@ The combined party resolves wreck equipment, learns the temporary-body deadline,
 
 
 [^s002-date]: User confirmation, “It was 1 day after session 1.” Session 1 is dated September 28, 2026; therefore Session 2 is September 29. Session 3 independently shares that play date. Packet prefix October 26 is the import date.
+
+# Session 9 — repairs and Rustwater Mine
+
+The first week of work advances Whipperwill to 6/30 and brings Dayne a bond with its living wood. Cole trades for Toskers and tape. The party retrieves iron, Maren accepts a wrathful remnant, and the group explores beyond a growing gate. Play ends at the underground lake with a chained owlbear revealed and no combat yet begun.[^s009-repairs][^s009-trade][^s009-mine][^s009-remnant][^s009-owlbear]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-repairs]: Original Session 9 recording, 00:09–00:41; 01:05–01:11; selected video frames 00:25:00 and 01:06:40. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-trade]: Original Session 9 recording, 00:41–01:09. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-remnant]: Original Session 9 recording, 02:44–02:55; selected video 02:52:30. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-owlbear]: Original Session 9 recording, 04:00–04:18. Local machine transcription and selected video review; no independent listening or speaker diarization.

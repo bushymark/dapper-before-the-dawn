@@ -24,3 +24,15 @@ Therica sees no immediate pursuers. Haskel’s knowledge assessment suggests tha
 [^s008-p2]: Original Part 2 recording; Part 2 00:00:00–00:27:30; 01:00:00–01:06:30; supplied paragraphs 30–64, 96–104.
 
 [^s008-yt]: Supplied YouTube transcript; Part 2 00:00:00–00:27:30; 01:00:00–01:06:30; supplied paragraphs 30–64, 96–104.
+
+# Session 9 — repairs and Rustwater Mine
+
+The forge stands among unfinished buildings that Recknar hoped would form a community; the road still has passing travelers. The party uses the area as its repair base and goes north to Rustwater Mine for iron. Therica gathers food and helps Elias plan the engine. No new permanent settlement is completed.[^s009-trade][^s009-scar][^s009-mine]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-trade]: Original Session 9 recording, 00:41–01:09. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-scar]: Original Session 9 recording, 01:10–01:20. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.

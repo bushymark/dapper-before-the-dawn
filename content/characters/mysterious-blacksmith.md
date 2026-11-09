@@ -54,3 +54,13 @@ The party returns to the Last Ember and Dayne finds bone ash in the forge. The G
 [^s008-p2]: Original Part 2 recording; Part2 00:00–00:23; supplied P30–61.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 00:00–00:23; supplied P30–61.
+
+# Session 9 — repairs and Rustwater Mine
+
+The party enters Recknar’s mine and retrieves iron. As Maren leaves, he encounters a working miner’s memories of family gifts, Recknar’s approaching footsteps and an intense, recently personal hatred. He accepts the presence as Architect of Ruin. This is an apparition encounter after the smith’s death, not his bodily resurrection. Its precise nature remains uncertain.[^s009-mine][^s009-remnant]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-remnant]: Original Session 9 recording, 02:44–02:55; selected video 02:52:30. Local machine transcription and selected video review; no independent listening or speaker diarization.

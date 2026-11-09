@@ -89,3 +89,19 @@ Haskel sees an opportunity for relative safety in the woods and hopes Bernard’
 [^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
 
 [^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+# Session 9 — repairs and Rustwater Mine
+
+Haskel catches falling debris at the mine’s first gate, helps protect the group and later scouts the bypass with Maren. He uses Illusory Infiltrator for a shadowy approach, holds the escape rope and lightens Maren’s descent through gravity. His plan to collect Bernard’s message remains unperformed. No ordinary week of work restores all the group’s spell resources.[^s009-mine][^s009-gate][^s009-boats][^s009-theory][^s009-rules]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-gate]: Original Session 9 recording, 03:17–03:39. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-boats]: Original Session 9 recording, 03:40–04:00. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-theory]: Original Session 9 recording, 02:55–03:17. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-rules]: Original Session 9 recording, 00:11–00:22; 00:33–00:34; 01:38–01:41; 02:48–02:57; 04:00–04:02; 04:15–04:22. Local machine transcription and selected video review; no independent listening or speaker diarization.

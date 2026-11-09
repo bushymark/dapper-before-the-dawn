@@ -26,3 +26,5 @@ Wiki home
 - [The Last Ember](the-last-ember.md).
 
 - [Corvallis](corvallis.md) — destroyed university city, spelling provisional.
+
+- [Rustwater Mine](rustwater-mine.md).

@@ -14,3 +14,5 @@ Wiki home
 - [Recover the original bodies](recover-the-original-bodies.md)
 
 - [Restore Whipperwill](restore-whipperwill.md).
+
+- [Investigate Rustwater Mine](investigate-rustwater-mine.md) — ore retrieved; deeper mysteries unresolved.

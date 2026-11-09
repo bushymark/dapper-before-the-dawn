@@ -68,3 +68,15 @@ The party returns to the physical wreck and agrees to rebuild it. The two halves
 [^s002-ship]: Original Session 2 recording, 00:18–00:31; 02:31–02:35. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
 
 [^s002-departure]: Original Session 2 recording, 02:31–02:45:18. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+# Session 9 — repairs and Rustwater Mine
+
+The first repair round reaches 6/30 progress: Hull 3/10, Living Wood 3/10, Lift 0/10. Dayne is recognized as the living vessel’s pilot, and its splintered wood responds to him. Cole secures repair tape; the group obtains iron from Rustwater Mine. The ore still needs refining, the lift problem remains and the ship does not fly. No replacement name is adopted.[^s009-repairs][^s009-trade][^s009-mine]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-repairs]: Original Session 9 recording, 00:09–00:41; 01:05–01:11; selected video frames 00:25:00 and 01:06:40. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-trade]: Original Session 9 recording, 00:41–01:09. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.

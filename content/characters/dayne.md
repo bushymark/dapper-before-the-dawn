@@ -93,3 +93,18 @@ Dayne notices unidentified red scales behind the Last Ember and discovers the sm
 [^s002-rescue]: Original Session 2 recording, 01:20–01:45; 02:25–02:27. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
 
 [^s002-offer]: Original Session 2 recording, 02:25–02:32. Local machine transcription; no independent listening or diarization. Historical events precede Session 3.
+
+# Session 9 — repairs and Rustwater Mine
+
+Dayne gently approaches the detached ship’s wheel, lashes it to his arm and earns the living vessel’s recognition as its pilot. In a private moment the wood bends toward him and begins growing. His lunchbox is accounted for, though his wife’s letters remain missing. He takes a mining pick and later finds the iron seam and helps the group gather ore, staying with the main group while Maren and Haskel scout. Therica secures his promise to try an apple pie in exchange for keeping watch; no pie is made in this session.[^s009-supplies][^s009-repairs][^s009-mine][^s009-theory]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-repairs]: Original Session 9 recording, 00:09–00:41; 01:05–01:11; selected video frames 00:25:00 and 01:06:40. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-mine]: Original Session 9 recording, 01:41–02:07; 02:27–02:44. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-theory]: Original Session 9 recording, 02:55–03:17. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+
+[^s009-supplies]: Original Session 9 recording 01:24–01:26; 01:50–01:51. Lunchbox retained, letters missing, mining pick taken. Machine transcription; no independent listening.

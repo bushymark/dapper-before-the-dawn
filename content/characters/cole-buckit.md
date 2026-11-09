@@ -102,3 +102,17 @@ Cole offers sustained labor to rebuild Whipperwill, drawing on his work helping 
 [^s008-p2]: Original Part 2 recording; Part2 01:53–02:27; 02:54–03:17; supplied P184–250,283–302.
 
 [^s008-yt]: Supplied YouTube transcript; Part2 01:53–02:27; 02:54–03:17; supplied P184–250,283–302.
+
+# Session 9 — repairs and Rustwater Mine
+
+Cole meets two firbolg traders and accepts three horned Toskers plus a partly used roll of Quick Seal Tape, promising to care for the animals. His work helps advance the hull repairs. After the ore is secured, he favors investigating the mine partly because of his promise to Recknar. He cannot force the deeper gate, so the party widens a bypass for him by breaking rock. The next confrontation, with a chained owlbear, remains unstarted.[^s009-trade][^s009-theory][^s009-gate][^s009-owlbear]
+
+[Session 9](../sessions/session-009-combined.md).
+
+[^s009-trade]: Original Session 9 recording, 00:41–01:09. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-theory]: Original Session 9 recording, 02:55–03:17. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-gate]: Original Session 9 recording, 03:17–03:39. Local machine transcription and selected video review; no independent listening or speaker diarization.
+
+[^s009-owlbear]: Original Session 9 recording, 04:00–04:18. Local machine transcription and selected video review; no independent listening or speaker diarization.

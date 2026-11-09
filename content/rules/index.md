@@ -20,3 +20,5 @@ Wiki home
 - [Session 7 adjudications](session-007-adjudications.md).
 
 - [Session 8 downtime and pursuit rulings](session-008-downtime.md).
+
+- [Session 9 — repairs and expedition rulings](session-009-adjudications.md).

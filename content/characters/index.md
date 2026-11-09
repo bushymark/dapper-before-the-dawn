@@ -44,7 +44,11 @@ description: Characters — campaign history and connections.
 - [The three young inventors](glass-needle-young-inventors.md) — Finn, Tunky and their white-haired friend.
 - [Shamus the Grimm](shamus-the-grimm.md) — Rios visitor, spelling provisional.
 
+- [Follows Interesting Smells](follows-interesting-smells.md) and [Sleeps Under Leaves](sleeps-under-leaves.md) — firbolg traders.
+
 ### Other beings
+
+- [The chained owlbear of Rustwater](rustwater-owlbear.md).
 
 - [Apherion](apherion.md)
 - [Oma — astral whale](oma.md)
